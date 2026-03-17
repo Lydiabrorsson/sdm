@@ -1,0 +1,4807 @@
+[
+  {
+    "from": "00044a527a0642b08f385cda845331f0fc8cbbfd",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00044a527a0642b08f385cda845331f0fc8cbbfd",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0004d56897ecd2cad15a6e6f5ee656639b786bd7",
+    "to": "data model",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0005ca425ed75f4bb364719468fa5103c2dbadac",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0006b9966d70028a26dd4fe4200e6fa793de5b7c",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0008f069cf3e6a2a37b572f1a0990b68bc31e119",
+    "to": "data mining",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "000a3a862777eda01278161a949b2ffb3f1e5186",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "000b8997f185535491642baad00f6b072a936138",
+    "to": "data modeling",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "000b8997f185535491642baad00f6b072a936138",
+    "to": "data model",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "000e401b2d296c6daa702e66e908082b2aee324a",
+    "to": "data model",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "000e401b2d296c6daa702e66e908082b2aee324a",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "000eb3d44b3b7e43f4221b8e974360c044cb36a0",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "000f4079fb3f5463ce7f5e566b541fec68a91f02",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0011db7fcfd578b5b51245f7d42ba5c76b585c1b",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00120e6da158e44fd5288f8d0ecaab8d33916111",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "001380b07e1b7a7294bd1d21d4907856d90de981",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00147577856ce18c8c6ff297b146c7addd79d640",
+    "to": "data mining",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "001666ad6b1f1e60dbb47d6d6614a7d91f5dcc81",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00189f80ebe6a63d4077d63284587f54c114458b",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0018fabdd08706a00d284cc139310daf3f3f00bb",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "001af46209bdf12f07cd82391361a5fb3e7597a4",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "001bcf9d807c575fd730588aebbb37f2ee3941b1",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "001c7118651a4dd643a3fabecab2668db1df78d2",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "001d2024c4d5d9e39ca5262755ec72dfa5140112",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "001d2024c4d5d9e39ca5262755ec72dfa5140112",
+    "to": "data model",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "001d2024c4d5d9e39ca5262755ec72dfa5140112",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "001dd13fab3eb46cc5fc2137752b88d35de400a7",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "001e4f495e09fd7a59b5e528c816f566a4d1cf7e",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "002067d0bde0ceb1d25e11c84662390e7d098043",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00210f312916d7c21f7d81ecf625345ce02686bf",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00212c41b4025d907390ae035271eb0be1b94c9f",
+    "to": "data mining",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0021e8add8de95c5a54e4527e5338a37fec93a09",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0022c523f5349b8bf497a5a5d18898e5d2779f79",
+    "to": "data model",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0022c523f5349b8bf497a5a5d18898e5d2779f79",
+    "to": "indexing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00230cd9e657dc77899f68bdd34cfaa46c657663",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00230cd9e657dc77899f68bdd34cfaa46c657663",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "002530ee4700a62e27e899f9c6c61ae0a5e30fd1",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00256dfcf329e50b7189d9b1ecd0de9d5a8d0f47",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0025ba722bb69bbd92a961b56773daecd9ade5cf",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00267b54ca28b951edba065a8ef193eb9177c2d3",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0026ea8a0fd31bdc959a4b9ed4d449f3015be8d1",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0026ea8a0fd31bdc959a4b9ed4d449f3015be8d1",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "002903cf9cc61cbf3d7cb5e025ea3f0c8e09327a",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "002b986f8b38a0a30a8f99c4b1fc743553d3c189",
+    "to": "data governance",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "002bd379800e47f6d7353e901b1e32cc36d0fd5c",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "002bd379800e47f6d7353e901b1e32cc36d0fd5c",
+    "to": "database management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "002cf75051d1cb28b814eb3bbcc944faf43e2ca2",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "002e819d565ba2e823f0146ede1ed237040fa404",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00321860bcc55993c5e09f8c274246d90a0e20af",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "003339c652211d670286fea8f26e5df9f290a8af",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0033532577cb729f252a064d0319607fa0f946c5",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00343a5e082d9ab865a3982ca8af5056646c6530",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0034f641d1b297a7b481de889aef206a056e0710",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0035d08da1410b4c9f66f4c2a2241db7701b0c21",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0035d7659671f781989b6f6df013a24474b1b15f",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0035f32347511f8d0250380880797b39dd5ff4ee",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "003651b3d1333d6643b1984c8b027089773b0748",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0036ce1896c3410b1fbe1b9fc36507166db75643",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "003999fcf6bfd0fe33e504894191949f67259526",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "003b5c1c248f7d1bfe70972a6610b8b2ea9af2ca",
+    "to": "data mining",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "003be4f7d6f2430ea4250a1954216f5d431b4c6f",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "003caedfa295ca70bc3d37773ef552cf5b7be320",
+    "to": "data model",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "003de1bb32a8c97486c0e29e4e41d4ba6df2a51f",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "003e1860e514147bf893357c9a86a5407f6dde85",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "003ecd273057cbf559fc86a4628673096f7280c4",
+    "to": "database management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00401438894565bbbfcd8298edeac9ab2ce2405c",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00406a91ea8f9fb67cbe544cebea9e05e0fbdf38",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00406a91ea8f9fb67cbe544cebea9e05e0fbdf38",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00406a91ea8f9fb67cbe544cebea9e05e0fbdf38",
+    "to": "data mining",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00445fedfe30ce47a3fb204ed2a1f7eb31374246",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00445fedfe30ce47a3fb204ed2a1f7eb31374246",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0044c39df8e6fc2a55f5c536aa286ec7dca290b0",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00466c609503d04736bc1124687ec4e8f71710ef",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00466c609503d04736bc1124687ec4e8f71710ef",
+    "to": "data modeling",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00466c609503d04736bc1124687ec4e8f71710ef",
+    "to": "data model",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00466c609503d04736bc1124687ec4e8f71710ef",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00469139b697a7fdb06f742ea20fe92e071e79b2",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00480c39b4436cf8e29a3b483c04532c89696496",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00480c39b4436cf8e29a3b483c04532c89696496",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0048eb044967105640c2e30bce8227afd429cf51",
+    "to": "data mining",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0049c168400e6b9e5038741d7f4499121ee3b652",
+    "to": "data mining",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "004bbc157232ea1dcf1e8300b68544be5d68282b",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "004c194bd3b7fecc7d3762746bbab4a2147b0703",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0050207a7020da699856e4dd3eae525661f59901",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0050948b2a62d53f18fea6ed64506aa50ba4ae5c",
+    "to": "data mining",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00515bb8bb9757652d246b50c756ebdf31b076ed",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00530f759fce36ea6e5d21421ae4e1cdcf7b6c9f",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00551c3ab67017cee3736dcbf0d7f44d12e037e3",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00570ff3db1204e8313d378fed6ce7e048c734c3",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0057aea85e62d0e0dc5ccbe7d67968c05d57a022",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00584a938005d9a1f755043e2e9b262a9f4b8191",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "005aebef8b4fdbc5e95af908cda24db7c9daf45f",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0004707356153e24f31546a60734bb9d3e7f76af",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0004707356153e24f31546a60734bb9d3e7f76af",
+    "to": "inverted index",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0006263a143a6bcfa8eae2b6970fbebbb8569efd",
+    "to": "large-scale data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0010ecdfaeb9ecf3ab0e2d1c575771a3f51e790a",
+    "to": "inverted index",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "001e999b990a73428bf94bf758a5c510891ff8c0",
+    "to": "indexing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0028a9350a032d08d6096f3dd03cb7bae8ee1cab",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "002fca76506ee087c86c4529c9c3c24f27411a6f",
+    "to": "query processing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "003b8e09de86df0063def57121d57e6e132d6583",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "003b8e09de86df0063def57121d57e6e132d6583",
+    "to": "data mining",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "003c34e995ffab723b17eac86a1758703b7fb99b",
+    "to": "query optimization",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00589a9ea35af016c8972b77ff7e7a4ff6174aaf",
+    "to": "query processing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00589a9ea35af016c8972b77ff7e7a4ff6174aaf",
+    "to": "sql query",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00589a9ea35af016c8972b77ff7e7a4ff6174aaf",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0069cab68c6fce8c3ea696fa5ccc83c9997d72d2",
+    "to": "data mining",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "007f70efc8332dabb07c8ee2f5cc27c35b82c696",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "008021712379b69639cc4f42c603de415e9edb1f",
+    "to": "large-scale data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "008c6c99d053b8109ab82abdbf8d7dc84d0a9adf",
+    "to": "query processing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "008c6c99d053b8109ab82abdbf8d7dc84d0a9adf",
+    "to": "indexing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "008d061e92c9c06582133cd37e1a2a481417e40d",
+    "to": "query processing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "009839980b3cae29088e462a24b843785b6a3471",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00a1dadffbcf0d965322388a8e1a0a80e41b7ad3",
+    "to": "query optimization",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00a1dadffbcf0d965322388a8e1a0a80e41b7ad3",
+    "to": "data modeling",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00a1dadffbcf0d965322388a8e1a0a80e41b7ad3",
+    "to": "data model",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00ab33517f228adff1d86f703e1fa48e3610b1c4",
+    "to": "database management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00ab33517f228adff1d86f703e1fa48e3610b1c4",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00b23989d0d931b9ba78342b940139577c359a7b",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00b3827ce952ca80a3e0ff72f2646dcf92a6bda2",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00d174fa267d85f652ac32c32c737c26d1dc1dd7",
+    "to": "index structure",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00d2843e028f033981b10f36337fcec6a443058b",
+    "to": "indexing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00d2915f2f0fcb3654c41a144c0e4711e68c444b",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00d2915f2f0fcb3654c41a144c0e4711e68c444b",
+    "to": "database management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00d4d2b0748a3012571521d2e3960e7ac180975b",
+    "to": "data querying",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00d4ec97d25c05c55725d5b0cd0f94c86f343918",
+    "to": "data mining",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00dabb78b149127e8091b0ccb23ed7656cd4abe7",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00dedb31b2afdb6c229dbf27b7943ed3204181e6",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00dedb31b2afdb6c229dbf27b7943ed3204181e6",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00e2c006627f8ce5c479b941ca48e3fe6cd88cee",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00f0cff5c42f40c1a252975399e55dc60e19c75d",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00f0cff5c42f40c1a252975399e55dc60e19c75d",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00fe713169f1f949c7c5c6e5d6c6419c45e55594",
+    "to": "query optimization",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00fe713169f1f949c7c5c6e5d6c6419c45e55594",
+    "to": "query execution",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0104b9b50f5a285c914e160c277b730a91f278e7",
+    "to": "b-tree",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0106269cf85d6ef1169398b91759b41bf513bfe2",
+    "to": "query execution",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0106269cf85d6ef1169398b91759b41bf513bfe2",
+    "to": "data model",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0106269cf85d6ef1169398b91759b41bf513bfe2",
+    "to": "indexing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "010996aac481c9191f290065542b0b7e3473257a",
+    "to": "database management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "011c996b69ae6eaf69e36845a070d32872797f23",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "011c996b69ae6eaf69e36845a070d32872797f23",
+    "to": "query optimization",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "011c996b69ae6eaf69e36845a070d32872797f23",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01231ac1cd532937799bae610ee93ba9f5d1c081",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "012f0695ab4fc4f5b7adc2e1df982cd244a7176d",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "012f0695ab4fc4f5b7adc2e1df982cd244a7176d",
+    "to": "large-scale data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "012f715f3a484963baeee097f7e01e75f6681518",
+    "to": "query processing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "013b166fd2e66686ceba1c2c93fa7c3abd56e07b",
+    "to": "data mining",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "013b52be6611b98b1d75b9465dfd5e46acf9286f",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01417d685d55bcb807519820585d9e2b7d47858e",
+    "to": "data model",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01490778485b47e9885e35249fcbb60d0b10725d",
+    "to": "indexing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0153b34e77f6b7bb3540d92942c331a250161df5",
+    "to": "data model",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0177b9bdfed6fd3660ce3115b27522a7a68cf021",
+    "to": "query processing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0179c7da3e3299ad77f058f345c477ee756a37b9",
+    "to": "database management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0180fec3e5b06358bc720510ca45546b6d67e162",
+    "to": "indexing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01835153d05de5189d028327d69ce4de89722198",
+    "to": "query processing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0194a0dd623f7a42f4a5d17c2e567e0d7c795f2b",
+    "to": "query processing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0194a0dd623f7a42f4a5d17c2e567e0d7c795f2b",
+    "to": "indexing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01a85f854e8b74c311af174e86944006e793652d",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01a85f854e8b74c311af174e86944006e793652d",
+    "to": "database management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01a85f854e8b74c311af174e86944006e793652d",
+    "to": "data modeling",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01a85f854e8b74c311af174e86944006e793652d",
+    "to": "data model",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01aaedb8c83402266ff117068d17b4e28f83b455",
+    "to": "query processing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01abd546c4369f893542f7bb5b29f763a975bd08",
+    "to": "data querying",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01abd546c4369f893542f7bb5b29f763a975bd08",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01ac6829f69ac7217bb95a07c3b74baa812dafa4",
+    "to": "query processing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01b1ab8cb2df8894bcd2def589d9b6ea7a499708",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01b537fb0d07125fbc9c72f85b6c04b9c5bfbc9a",
+    "to": "data model",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01ba07f9c115a8e78452c91ebcf9c3299ab82fb5",
+    "to": "data model",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01bece1a0eba5b48ef711f5f444182c4789351d7",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01bf0e83159712fbbbd12171a7e268547a4cfbc5",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01bf0e83159712fbbbd12171a7e268547a4cfbc5",
+    "to": "large-scale data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01c3f452eb750240ac83f599e66562b70e8e6968",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01c8fe7e0fe22a8c8d1496de8808d99c65df7069",
+    "to": "query processing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01daa4810bbde77654d6e2df752414b1a195eec0",
+    "to": "query processing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01daa4810bbde77654d6e2df752414b1a195eec0",
+    "to": "indexing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01e01ced8cb12c3e7bce44dbb36c5dcd3ef7cea4",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01e01ced8cb12c3e7bce44dbb36c5dcd3ef7cea4",
+    "to": "schema design",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01e23f3cc1e80c0ef953a822650d951607ad89c1",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01e858656aa3ef8d6b8463042298d86473236985",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01ea5f9c0ea086398eabe9165b4cfbfdee643c6c",
+    "to": "query processing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01ea5f9c0ea086398eabe9165b4cfbfdee643c6c",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01f8b4375ca0f08619bb389c67e8e4d69b28c2ce",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01f8b4375ca0f08619bb389c67e8e4d69b28c2ce",
+    "to": "database management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "02049c8dba090cfd4efb2e067262a3b5607dc491",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "02071107d0474cbd1f4077016d3014e1c2c9974e",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "021c076a20afc27d46d0efed938683106222013e",
+    "to": "indexing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0227c0dbbcfa3abd45e3a0f26b0966a34803b7f6",
+    "to": "query processing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "022ce549b9efc1ff489d0bedde28e34fc2558c76",
+    "to": "query execution",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0246b4cc0ed9c72fab40bab9579788f17c9d1486",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0246b4cc0ed9c72fab40bab9579788f17c9d1486",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0254c56375817725be028f9832120c5ec0aa3f59",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "025ea689e6ab3b544101df17233e87536a1e578a",
+    "to": "large-scale data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "026023908ff8edf949ad373c54380465e6c44604",
+    "to": "entity relationship",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0261a79833038196dba3889779769db8c96ecc2a",
+    "to": "index structure",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0266a6ab670016b39cd02cd9533cd681146c8904",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0269e3bc3b5a315b7f455ec427316636d4121942",
+    "to": "data model",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "026a323bf2ec1c8e0a0c6dbcbae20529887c3f2b",
+    "to": "indexing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "026ac336ec13a03619b587ed112b51075904d5ed",
+    "to": "query execution",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "026f4c24c6442bdf2024dfa5d7a5ddf6750e7da5",
+    "to": "database management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "029e77c8e7a6611f56828422675645e24f458163",
+    "to": "query processing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "02bdef4041cefadd79a7729dec889ad318b8003e",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "02c989cba99e41da3b79245ba6fc6bce7af5e45a",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "02ca5b9af76e4337eb0739372523bb9050122ede",
+    "to": "database management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "02cb6562a0e15d0d60cd416ee3bfdd18cdad3e1b",
+    "to": "query processing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "02d46cc78b14dca297d59d408edd933ccba5c3cf",
+    "to": "database management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "02d75db3cc45e64595f27a383bcc9bfba0d57698",
+    "to": "query processing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "02e467cc6238d2d469f9ebb7ab852d558e4f32cf",
+    "to": "sql query",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "02e467cc6238d2d469f9ebb7ab852d558e4f32cf",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "02e5f7515dbaed37b20d5c83068c7a5e33ad0072",
+    "to": "query processing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "02e5f7515dbaed37b20d5c83068c7a5e33ad0072",
+    "to": "query optimization",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "02e5f7515dbaed37b20d5c83068c7a5e33ad0072",
+    "to": "query execution",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "02fb4abd5174e8a0c637a1eb6fd73d9d739bd29e",
+    "to": "large-scale data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "03020879bc2df54cd788dbf1847d731c6c16ff3a",
+    "to": "indexing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "03098ea35df243c6bc5f91fb9d7f8e1c1494315e",
+    "to": "sql query",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "031e615d293915dd67e2e038464a47e5cb872c78",
+    "to": "query execution",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "031e615d293915dd67e2e038464a47e5cb872c78",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0320e55a81040233acc185d113ec57c6e8dcc97d",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0320e55a81040233acc185d113ec57c6e8dcc97d",
+    "to": "data modeling",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0320e55a81040233acc185d113ec57c6e8dcc97d",
+    "to": "data model",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "03277a0de9ac60e0ee58cf28d9b1e754acc8eafd",
+    "to": "indexing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "03323fe27447fee94c0a91c156e2155b54a5a52e",
+    "to": "query processing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "03323fe27447fee94c0a91c156e2155b54a5a52e",
+    "to": "query execution",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "03323fe27447fee94c0a91c156e2155b54a5a52e",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0337cee822357d8f32ae93394a1af7c3bfa4ee40",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0337cee822357d8f32ae93394a1af7c3bfa4ee40",
+    "to": "indexing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0337cee822357d8f32ae93394a1af7c3bfa4ee40",
+    "to": "index structure",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "033af088d48717427318f38f8e9c5eefcaf900f3",
+    "to": "query processing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "033b91efc20c2801bfb87acf0f11536bbb1618ec",
+    "to": "data model",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "033fd90f6657a42caaf6bb58947c019e3b8e2cf2",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "033fd90f6657a42caaf6bb58947c019e3b8e2cf2",
+    "to": "large scale data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0344ae9d7f453a92745ecdabfe6910e647a6e9c6",
+    "to": "data model",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "03493e310b7f7beada16eca801103b187aaca296",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "03493e310b7f7beada16eca801103b187aaca296",
+    "to": "indexing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "03493e310b7f7beada16eca801103b187aaca296",
+    "to": "index structure",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "03598400ad6891f9443c9c425442c9cf00ce81f5",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0359ff3994ae14b9e0c878187079572c5dc77375",
+    "to": "query processing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "036cf8a61a6e062af6a55599f7832f0e5623edee",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "036d476f3597b5fe60135113e7f8143697ea32f9",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "036d476f3597b5fe60135113e7f8143697ea32f9",
+    "to": "index structure",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "036e4bbc596bf4e6f8b162d845660ca082a11027",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "037518871b0cc35eb155cc5ebdc75c647a65d092",
+    "to": "data mining",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "03906fdd16b043607b9dd0e610d4b6e2eb7b0be3",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "03906fdd16b043607b9dd0e610d4b6e2eb7b0be3",
+    "to": "index structure",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "039552a031dfaedb7b6f1d7560d6104406165dd5",
+    "to": "query execution",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "039c649bc5ab6cbdfbe4699dc649c588d6879ef3",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "03ac535f265889438db93a7c0d6b3a4ee93c0b73",
+    "to": "indexing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "03ac535f265889438db93a7c0d6b3a4ee93c0b73",
+    "to": "database index",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "03b144c391ab21049f9bcd7900e192cfe582ff29",
+    "to": "indexing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "03b2c9712d79e6091758fb02f5fcd988520a033c",
+    "to": "data governance",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "03b31dd47e813a5504d85422aebc4bb22c3036a9",
+    "to": "database management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "03b31dd47e813a5504d85422aebc4bb22c3036a9",
+    "to": "query processing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "03b31dd47e813a5504d85422aebc4bb22c3036a9",
+    "to": "query execution",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "03b592f7311bc93a1b473485ee3feb514d10a2b0",
+    "to": "query processing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "03b69afd564709bc8a7d2d8a0c3a3eccf50cc6a5",
+    "to": "index structure",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "03b956a4b970d4dc4c08ad7ed7803a3fc5108713",
+    "to": "indexing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "03c2989472689e52615f1c0c8049d163a022b4d2",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "03c2989472689e52615f1c0c8049d163a022b4d2",
+    "to": "data model",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "03c47c2c10a3d59535a356a52d3f2f1d37b93f4f",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "03cff2d9fb44681696edc855f31ee700f8a32e86",
+    "to": "query processing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "03cff2d9fb44681696edc855f31ee700f8a32e86",
+    "to": "large-scale data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "03d1565dd1c774ddc58fc324e42316f178830ddd",
+    "to": "data model",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "03d86d8e642f7e599e5eedfd93634f16d175dfd3",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "03de843c92ad8331462b4bf70d1785448c3f517d",
+    "to": "data querying",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "03e84cf91b04e664ae4ed8d87e669ecaaa76e28e",
+    "to": "indexing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "03f48e5489ff97aeafdab1b0ef3a71f87ce74650",
+    "to": "query optimization",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "040b754ef41b0aced126398cb916461bf9726bd9",
+    "to": "large-scale data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0414a1d1cf4b69b696638a6fe4ea5b728e7586c6",
+    "to": "query processing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0414a1d1cf4b69b696638a6fe4ea5b728e7586c6",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "04196431446bc7b78dbbf1269ccc2d01d3b39a32",
+    "to": "database management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "041d5a1600cc876a96af9bd363db1162ff2145f6",
+    "to": "large-scale data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "042bb32e81883ce451f39ee8adfffd6c0b44d010",
+    "to": "data model",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "04354a01838734e4cb97dd35bc3019e22f6ed1f5",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "044233af2c7b4b8a5a98222bab091860f8c3b2e4",
+    "to": "query optimization",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "044cb8ef39029ad92583db3a4c06fd0741b1efeb",
+    "to": "database management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0450e6502f4c7895681565067f479d9167b416db",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0453366b166796ff205856aaa229f0af74ee91be",
+    "to": "index structure",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "045b1b8d26b5f7abad97f49e907e94c98611ad8e",
+    "to": "query processing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "045d8ba9a9043829489cc51e9d6c4584b01ade78",
+    "to": "data model",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "045d8ba9a9043829489cc51e9d6c4584b01ade78",
+    "to": "schema design",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0464669bb52dda5a52d656dc721ca468b2634e58",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0464669bb52dda5a52d656dc721ca468b2634e58",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0469b46afd619b4b02d9c4047d281cdae0ea5436",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0471d8a87cb687bb956e4a25b43d1cad8833a934",
+    "to": "data mining",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "04769dfda81ba3e57fd74fb025aef60d1f8d3a56",
+    "to": "sql query",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0476c0e43cfb8f53eef717c1b74b18bdb9fa834b",
+    "to": "query processing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0476c0e43cfb8f53eef717c1b74b18bdb9fa834b",
+    "to": "query optimization",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0476c0e43cfb8f53eef717c1b74b18bdb9fa834b",
+    "to": "sql query",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "04773fa5e838b187e857a6870ea4f58a1c4b2989",
+    "to": "sql query",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "04815d0746ce5089f6d46a9891b99e3bf77504b4",
+    "to": "query processing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "04815d0746ce5089f6d46a9891b99e3bf77504b4",
+    "to": "query optimization",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "04815d0746ce5089f6d46a9891b99e3bf77504b4",
+    "to": "indexing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "048240cc6b8677c4499f1920e4490034cf31f811",
+    "to": "query processing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "048240cc6b8677c4499f1920e4490034cf31f811",
+    "to": "b-tree",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "048ff1035bfaa13fe089d36facca2c4bdb159530",
+    "to": "query execution",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "049d109e453b4c6c526a6192206fca28a689e7e3",
+    "to": "query execution",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "049d459a6a4cd2e8ba5b895b25b744428d0fe925",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "049d459a6a4cd2e8ba5b895b25b744428d0fe925",
+    "to": "index structure",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "049e893ef53ccff982560ad1e5236b5778acd281",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "049e893ef53ccff982560ad1e5236b5778acd281",
+    "to": "data mining",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "049e893ef53ccff982560ad1e5236b5778acd281",
+    "to": "indexing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "04a025146ce8c923cddc6cb951b960c35a96f6b3",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "04a025146ce8c923cddc6cb951b960c35a96f6b3",
+    "to": "query processing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "04a93088cc82c602882db55517941130eba87f3f",
+    "to": "data model",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "04ace51eb8b65a471f8a0d6eeeed645b8b0f8710",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "000184e1da88ef4c14b23cba1d5670975dc95c83",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0001d2042ed1f0ded9e85edc353860c2d5c3a0cc",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "000314f9b0007e9aecb790393740a9d1ab8662a2",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "000559ddec47a6e2f1b06829d1b1c2f73270b55f",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0005652ac7e1bed2163fa6815bb38172fae80525",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "000621a67fa7b6ca0a0d3240e2e67d0db2581682",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "000640e3a7a69e74475c693b35a2e5e779845660",
+    "to": "data model",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0007b5ac7cf2844a650f4f0df0fce56c318223b7",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0008b77bbac08f161ae5bc1f3663ae21f68b4ac0",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0009021fc6d0aab240b8e129b3250ead0410ae98",
+    "to": "data model",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "000996d180ee7cc81e7809a5b8bfac34b2cb095d",
+    "to": "data mining",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "000ba711ff496f78bb7a96fa66c943b24dd3eb2c",
+    "to": "data model",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "000c9c8e81ed04b86437b15954226c12a3c7667d",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "000cf2bc89665c6176fb7c5a9bd4faa0bd2827e2",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "000d018470029c69a5db73dd0d0ef0647e0cb621",
+    "to": "large-scale data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "000dca71877ed893ed8bfd6ad2dcd3a3f7abff90",
+    "to": "data model",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "000dca71877ed893ed8bfd6ad2dcd3a3f7abff90",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "000e71d7a24b97355e01d16267bce41cc1af100d",
+    "to": "data model",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "000e71d7a24b97355e01d16267bce41cc1af100d",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "000fd8e357c5a55447d8e75097c9d5ad6a83d4c7",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0010141bd5e8130d1e4afba2f71a40e87422257d",
+    "to": "data modeling",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0010141bd5e8130d1e4afba2f71a40e87422257d",
+    "to": "data model",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00124054c1d78bc36feb5579df2b9460135ccc63",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0012f5ec85ad45701f868be1468f23d716add516",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0014622369bd84a22669010ca7e1d6288e52c47f",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0014622369bd84a22669010ca7e1d6288e52c47f",
+    "to": "data mining",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "001528adb4d737de1f6be181fb74ac30d52dca87",
+    "to": "data mining",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0017097ec9fb7d72967cb7823d7a34ef224cbfc4",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00177cf86f3a7254e4311aabab65b1e9d2c3fb9f",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0017a5128423392dc930992a05027c69f9fea189",
+    "to": "data mining",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0017b8434afa08d926c99cd79688ef59e84801c7",
+    "to": "data model",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00182904badd5a98d55ca9844797b2c0918d0c2f",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0019afde0e8dee424ffbdc1c385bdbc9571f164b",
+    "to": "data model",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "001a3df5191e99ac9499730c710826f8ddf034ca",
+    "to": "data governance",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "001a3df5191e99ac9499730c710826f8ddf034ca",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "001a47aa8c8a1c9eace90f8b858b360096534896",
+    "to": "data model",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "001bc432ea329bbd93d78064e0672953d1497a0b",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "001c46960b2765c7ec78af739436da57cba6acbc",
+    "to": "data model",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "000128c284ebc1005135bfce49d7525e05519d42",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00033e34d51fdb7cbf1040b19638f89810fe1742",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00033e34d51fdb7cbf1040b19638f89810fe1742",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0005118cecae3a950908dbe3d71fb5a3bfef67ca",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0005b409b6514da7dad30b0ce4415a3ea2b43bd2",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0005c04c922785a9e9649e8746f9ce088ce1edbe",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0006105c3adffd93d40630c60d1a13d12ca74301",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0009e84bbb8cf977819b444d8e7f9b9d463183cf",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "000a0e43091625c14f5a45c357064daec49dca42",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "000a0e43091625c14f5a45c357064daec49dca42",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "000ba252abd6ebfc75b6d67fe9d0097060595104",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "000bfcf7a0939a3ef1d0f4c7815412ba5c6c1a3d",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "000deca85dee4b5a9b22bd377c58df8db973033b",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "000df5e2dc6811d17e8b177a0aec24dce5210525",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "000df5e2dc6811d17e8b177a0aec24dce5210525",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "000e0cb4a00645aa604a59c278c7d5e9087892b1",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "000e32f91e5ef66d295f04a97c0b362aab99a937",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "000e64eea7095f80fb201774c735f98b0efa9807",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "000e64eea7095f80fb201774c735f98b0efa9807",
+    "to": "indexing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "000e72b199ca1c622ac326f07d0e20ea23dec601",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "000f0e56ba6b17db952e885962f539e2d2e9da07",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0010a7e4a95fe3430912ba43db53d75e2aa9456c",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0010ecf40e97d4ae79577a06ba0dcf2c57f7d10a",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0010fbb425f8f7adaefa2d6c3a58005737cc7c8e",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00124d0c05901f82a7f3736d2a5693b65f853665",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0012e53b5e96469c788fe9a31c8c0ef6785285d1",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00150fd38e66d5460bafd5aab90a40140e8de154",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00172093e55deb28a770d232f1e88d86beaaa668",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00172f48607a11ab43710528f12d2478fb0b922d",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0017607e95596204155f4e049495ab0afc001da0",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "001ae421aee10c19ff310b83910d63b9fc223625",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "001f42ee83b52eca36e734405285dd674d42accc",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "001fefb1277acdd40c522bf60870cfd737a43d37",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0020c5027fcfee6db569872f7cbe6e827358b3b3",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0020d65e1c8d987a6502f92a481cd27187a8330d",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0023d01ead095ae1ea73c9e4f30468d04a6ad73e",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0024d0e21650820838a5123fc0e826fcd6962692",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0024e45c4e631490db37b555bf2fd8161e58cff7",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00257252f4609621d1dcf1d33e3559a4498e6c6b",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00257252f4609621d1dcf1d33e3559a4498e6c6b",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "002674132262980e80cdd0671e786285bef4f34a",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "002674132262980e80cdd0671e786285bef4f34a",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00278cb4d94ba6f48a42ae8544de8d60a49d8dd1",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00278cb4d94ba6f48a42ae8544de8d60a49d8dd1",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "002b1598f0187f06d20a436fc5c23b758df7a346",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "002b1e11d812e002fd50bff4ff7de0010cf827a5",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "002d0bd5752e6c75bf88501fe733c7d461c84f74",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "002dfadfd071676eeeb8dc8d4df549f1f2444009",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "002e0628b2f4a221c4c2beb680c89c29d8cc1228",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0030d0a8bc20ae67d5e32333bc740b1a91431c8f",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0032323ddf0dd5ed750dea175330298ecfabaa90",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "003248b063c5974947be329060d350f660f71d4d",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "003248b063c5974947be329060d350f660f71d4d",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00331737271483ac713994534eba7de9e5c13b2c",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "003324a0aa456ae87e3da6a55b812e2e1eb97074",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00339a085b8529999e9caf012e9d13a2f37e4cb9",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00339a085b8529999e9caf012e9d13a2f37e4cb9",
+    "to": "data mining",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00343c31b05275828e99e7a9d7f1ef937f6c4aed",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "003531402abcfa2aa8c3b19664f49a4b41bb23db",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00363b326b7a86cdab50557f717d37a9e5971931",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00363b326b7a86cdab50557f717d37a9e5971931",
+    "to": "large-scale data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0037ae0a33d7f0f48bc372a8a4255603e997d509",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0039029bdb108912f3e33ed16ac8e687ec4118b8",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00394d6c3aa41c96a76b8d329174f7ada720e874",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0039612e26b10bae2c82bcf5a79f34c8bdb961f5",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "003985b5d74db392e7f8bdcf821c1d59553dd2b3",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "003ad647b23fc366cf0afc1a425474d608308279",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "003b0d8b5423feefe01f9b0123e983163b57c5bc",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "003b7c407613446ba9926ce4bd1688bce74840f2",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "003bf44acac21e0700366b87fac3b58419fe3393",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "003c197b208f3c76e7a24d28726a86312a42f11d",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "003c673c7431f7f736e604a3009e0d0e4f5150a7",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "003c76c07dd00f491319befe75ceab7a36d19dbf",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "003cc43635a2ab73d8251f12cb6fa8b84ccc778c",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "003d84569b9681e9c63236dc100fbfc809164ee1",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "003dadd684445bdeacb638ba0d153e2aad975990",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "003eb6e26dd2ef9cbdd0515c5c32840c4dacb099",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00405a640446f517de91d8773e5171defc6da454",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00406a27e9c26d2c35ddaf1e105c2bdd77109c61",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0040d93083d808e70bb8f16126891242ff9e5dfc",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0040fbc24133d560c7de163f4bd7a32e07f9fd1e",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0040fbc24133d560c7de163f4bd7a32e07f9fd1e",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00413d04e2682f222c2fa45d7bf5dc551093ac2e",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0044503a14cc3bbd9e4b2c72a6d5c18abf055b57",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0044503a14cc3bbd9e4b2c72a6d5c18abf055b57",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0044c601098d7cda2c551d3c8111f4ad5440d6b1",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0044c601098d7cda2c551d3c8111f4ad5440d6b1",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00454ca42c3de41dd1e968c1ac527cfa7095e34b",
+    "to": "data modeling",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00454ca42c3de41dd1e968c1ac527cfa7095e34b",
+    "to": "data model",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00454ca42c3de41dd1e968c1ac527cfa7095e34b",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00454ca42c3de41dd1e968c1ac527cfa7095e34b",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00460ae32cc2d9b1429b7795df467bdddae01072",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0047110e62edb20e946f6d4e498e2506066c67ad",
+    "to": "data modeling",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0047110e62edb20e946f6d4e498e2506066c67ad",
+    "to": "data model",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0047110e62edb20e946f6d4e498e2506066c67ad",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0049970065c18aa79a7eb7a4fa7551874a6fd0c8",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "004a63bfb67f2a9c65a5db5a7d6f4b9dac8e7dcf",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "004af80053985b03994025af4a63fe19827af11d",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "004be4915ce1095df30e691cbeea2a6c4c7e12e5",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "004d1487fde21280bd80b3d39cb486b97a4a7703",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "004d409ad4c116eb9e21d07ae25c7ffbcc8c1a7a",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "004e1e48c8b5bf4d159d683d722604ee0ba37be1",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "004e5c1fe7c20296a8e94f9b235f0ebfb4b83807",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "004fc5446eb021f00ee1b87f906b3bbf1cd219e3",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0050232ea4ee42d989e5a247aa10c7206caeeb16",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0050551c4c199e6c9cf10e6e775622fa6942f09c",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0050d2ff39a8d65f6a6e51b86d7c759ce78d805a",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "005143d56ddb469b14a8c6d098b886361cbdc738",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00515c4e0044f925007dd44485d55c7560a24ace",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0051714439f3cc01dc73999fe2ad235978641031",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00533ffb9e6fea78aeb92333c406b874c36b8dd6",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0054ca0afccde1fb07cbfa01003e530928f2ff56",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0056bb2acfed2ad3e6651558a42158feb414cdfc",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0056d12537e074f52a469fa783696c8381ce8eb6",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00572dafa817672173379de5c5c1724f27bdc09f",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00572dafa817672173379de5c5c1724f27bdc09f",
+    "to": "data mining",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00574de1f3d4e200928cfae91d6659110e90bc8b",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00574de1f3d4e200928cfae91d6659110e90bc8b",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0059257a200c4b16e558c8f1a710481a7be2ff2d",
+    "to": "data mining",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "005a163ffc06da9ac8e106ec52db2ea9982797e7",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "005a53911d26514490f9a0fb01a8c3daaaca1fe1",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "005aca7da88389ac7e7cb88642d0312eff5e7925",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "005aeddb4fc30a73410e4da591fcd8ff46714d63",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "005b546b7703efad06fc10d162f13370a44c1ff9",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "005bcf6fd759a149dddd2e501f3e20f77c74deea",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "005be14d904a85ef300ff3f5384f5ea8041d5397",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "005be14d904a85ef300ff3f5384f5ea8041d5397",
+    "to": "data mining",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "005c936a2eaa60a04ddb24abef96765d3d16bbab",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "005c9cb3e8b6c510673ceba8183b8c48efc867b2",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "005cc8245b41f7e9339b0bb1ca3df679ae54f809",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "005cc8245b41f7e9339b0bb1ca3df679ae54f809",
+    "to": "indexing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "005fc7dc263928623a94fa398a4297b94d24f30e",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0060b245110496ac673b8d792d25ae8ee0d44a52",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00611b219e5b11e5da5be3676f60c5710a72e7e1",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0062d6fe5ee225866f377e550d8551dc7ae777c4",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0062e0ee8539ef001b25ca6fb7363c7f7c239830",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00643377d243150e24be8d1863971300ad9163a1",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00643377d243150e24be8d1863971300ad9163a1",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "006510f0e037bf5dd423fca1c8d28385ccf1bd04",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00662b924e5b21fdad6f105f20ae5f1542352130",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0066de7b8ffb60a36b04b4d0b7711e6a1b2d9a09",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "006873c94aab66039bd04104b07bd4557ba716d9",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00697929a6f957e8fbb06378c76d314441248dfc",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00697929a6f957e8fbb06378c76d314441248dfc",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0069d915dd2cd4949051578fab2f5db8ca7c60c9",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "006ad38025d3b07b9c113c7940514c32c5d16ffc",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "006b0712143c55ada6ef5ec5f384af4c32eac27b",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "006b5146cddb01d9dde716921d505728315dc61c",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "006b9ae82998adc919673ade789e3732d4329190",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "006bc2e00e309cb2e7fb931ae094ca2d66583d95",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "006c25f6c3b354703e896eadc667f293c66671e9",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "006c25f6c3b354703e896eadc667f293c66671e9",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "006c85fd6f1558638933c4c32bd0ac69e9774b8e",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "006cd15d26dd19e70b942107b1362df690c41fbb",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "006cd15d26dd19e70b942107b1362df690c41fbb",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "006cdfcce9b96929935d31c3616c9c172da448e8",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "006cef8cb9f4101690dce6b0fcfe5eee918a75cb",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "006dda3dc9818c1782eb55d9ed420a90ec672294",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "006dda3dc9818c1782eb55d9ed420a90ec672294",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "006e07846e4591ac1abc051640487050d1ab9015",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "006e35070e77c40947a2f9a822b46f296f393f7c",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "006e791d1ff7507ce34ec4699b693530e14c33e6",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "006ea9025a6f133d88113e8043819c5461927d04",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "006ede564c323f7aa04982704fbab207677976c9",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "006f2567337afce7e145400157b41dce8aa47b3d",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "006ffc76a8570eb170ed95f48101d96de63c8b08",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0070e42beb6ee72c5a1188032b866f911e6e9db3",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00711a2d46a748bf2bf7943ceab4ee71499b141b",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00714fa631538fc99a3a27e2b120efd140eb9f66",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0071d1065dea1ad041a03b64bf0991a10009fe2c",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0072f6a88ed01d5369d3d882ac062e40b50187b4",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0073cfcbd21692988d74c3ca7a76a3210294661d",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00747724453514aa8444895ff2d2d0666af514b0",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0075575a103af7218fc197a74a96cc4114befc03",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "007579367cd8724310fd017fc23aafb233825d3c",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "007579367cd8724310fd017fc23aafb233825d3c",
+    "to": "data mining",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0075abdb53f0e06fd122fb83fa5a33c494c3c4d1",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0075abdb53f0e06fd122fb83fa5a33c494c3c4d1",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "007661abc625336a202dfdbaa85f1f99decec00f",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "007661abc625336a202dfdbaa85f1f99decec00f",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0076731105fc305df4a3b79d6bcb49c1ae9545f4",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00768c5468779d4eb1d2cc8cbd0c2cadc8ad67c3",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00768c5468779d4eb1d2cc8cbd0c2cadc8ad67c3",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0077d36611158f23768a24e07ffe907b94c3fc36",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0079cc81976234685259fa09bc535a9b49777671",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "007a2482f70686d8c8e41d40d3649b3575f36f63",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "007bfc97c98190de8f35cc6a9a864a773f8d949d",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "007c2a3392260e85d5d03cb14825225b4f498146",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "007c94bc778a3fdaf18cea1981543f47ad9067e4",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "007da225366144a531849564724a2535c1d0c919",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "007dafe68d8cba5ce75ca6a253b864a2fb13a529",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "007dbb289afeb37a244213787b062aee9b341dd4",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "007dbb289afeb37a244213787b062aee9b341dd4",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "007f2a0a21b57b821ba7f383251cd9cb8ef2b68f",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00804f03d3866a601dc49bc7be3e12ada830fcb8",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00804f03d3866a601dc49bc7be3e12ada830fcb8",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "008173e7e897e07f1509595a93675f3a0eec1e9c",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00825ae6af33573f522f18a1b0d835ed65d57887",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00825fd3c7c7d216f6f5bf6b7f18d4818d3a378c",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00835aa719e35b52070da395eee6aed7250a711d",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00835e3fda1133e7cf4d2c1ef45ab2ec317eeca0",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00835e3fda1133e7cf4d2c1ef45ab2ec317eeca0",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0083c8b62fd9a7478db686ec9d9b2a0b11fb3f87",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "008427ed64a120fef3b8c6afa3271a0311b4c2ac",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00852fd3316c0a48a27eab38db4c6fb32ce1f5d2",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00852fd3316c0a48a27eab38db4c6fb32ce1f5d2",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0085599ecfded53ff46035a644cf203c5811b9fa",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0085812322891987740a66ef2a038fd1d17f376f",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0086b7f5024eaf906ca2932e1383b2b5525ce735",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00872022793192d8c2c79dbed5d8de6b01999b7a",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "008763c2df3162a281b311f7132195c0cafef038",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0087bf420feaa5df52562bb63a5a007af4a6ff5f",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "008855bd64e40033b58a94e14ebddf059c570553",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0088e1a0791bece4a25488290b9941dfd3e3423a",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0089889412c805738367ed8967adcefac720cf9b",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00899a02706e896f5bc6ef5f45c03e64219fc25a",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "008a334d65479b5e68073115ca6a3e9ee05c3180",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "008b3e9f60e6522586e76b52b72f532f4ab2665f",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "008b453b326da5586bdb2bbec57a8567ee3f8063",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "008b946e3d0ca0285c30008937c286c8abbe6ded",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "008c1daf4f7cdf9602a29f9c7b9b62fdccbe4d76",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "008c89a0227c67a2736a2f28825762e0085e72e7",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0090a96db46fd0ae534004e108f0a7e9efedf523",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0090f142aefb07e877e34c1410270a855945b759",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0090f142aefb07e877e34c1410270a855945b759",
+    "to": "large-scale data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0090f142aefb07e877e34c1410270a855945b759",
+    "to": "data mining",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00911d2c6175cfcaea5be2cc611393d5a277ead5",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "009277e1c8a73e477c41049f6d28d0b1f30be447",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00927dae87fffe52422d9def24d9f24f3e26f47e",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00929d78a7ed79bec1168e1f33656cf51600a6fd",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0092a211f662cdcc9a571e0da595c81882b6f8aa",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0092a449cf7798af86d886f56f0ccb4119b09a20",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0092a449cf7798af86d886f56f0ccb4119b09a20",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00934ab343a2efd00c189417d269a00fd1277afc",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0094027b68bd2350f9d60eae9fa298cd788e07d7",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "009661ab07103e82fb69bec818748b53d4a7bdb3",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "009668bba4f9f7d781bf2fff07817c54a3bbaebf",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "009668bba4f9f7d781bf2fff07817c54a3bbaebf",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "009735540e1ade2f1464c9fdf70089be0bc2afdc",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00975e595f5f7caa01982f33c8255a075355ab4a",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00976166ff9d369237d0aff384fad6f3e2208c66",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0097b482f87ad556415c2bf4a06b18288fa10982",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "009857ff5d79d448bb4030ba3cc446d20e6a5a1b",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00989ab2d60c5757d6f7ccc2a83bad8327937de3",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0098d5cb410cf325d037afbbe3ffa24bbbe3582f",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "009a7c5545c40df087abecbe97f7f7ae7dd3e63a",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "009b1e38c2ab474546b6171bfba7591f79365725",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "009c28485a90ff2f54e243621b8db3823065c506",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "009c69158bdcccc22291af3c5dfbef9ebda15341",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "009cabff282b62e72595274a39fd74ea8b08facd",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "009ce8ae45b4e922e97e3c5cd3acdfcdc495c08e",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "009ce8ae45b4e922e97e3c5cd3acdfcdc495c08e",
+    "to": "data mining",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "009db9f11457f329ac5ef47f94426b6f86e8dff3",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "009e86bdd9cb6409007741d2388d526d2163e59a",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "009f00f7b4357acf568d5eeea8bfa63d1bb89c60",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "009f00f7b4357acf568d5eeea8bfa63d1bb89c60",
+    "to": "data mining",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "009f7a6dfc83cfb7c4df7da6e614a4c7622af660",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "009fddb8da5dd9b02485711c549747859516b08b",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00a144c412e79e4c5179f868c5c5ba05257e29c9",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00a15850f629243aba91fc9dcc4aa8d864aa2573",
+    "to": "data mining",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00a18c497b663820e0fd37ad4efba40720e11e18",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00a23980972e9a85f50d807f5aabaeffbab77339",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00a375dd29be52dc9983dd9a84078633b28deda4",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00a3b8886a7e569adc7ec3a3df04b6101ec05c0d",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00a3bd1acaeb8687d4908db47fc8edafab7650fe",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00a41860e27c01629929562a70af5fd8036a4163",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00a45804cb4fb29bd719bb6c6b6feb96e038cc2c",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00a48e0411898bf327f92071ff0998972ed616de",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00a4fc9c914980674d2f9fbec65404669356216b",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00a4fc9c914980674d2f9fbec65404669356216b",
+    "to": "data mining",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00a5c384861569db051304f1d8c87287acc74421",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00a67e8bea7296aa4480cea6b9b7113fde5c70d7",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00a6cf77ef9f103799820535c2789e81cfdbc8ce",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00a6ea1e57ae3b7e93af2d3848ed5fa28b15f49c",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00a71a90b4fb896291913c6d290833ade77e2aa1",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00a7da4e5035d33f200e1ca7deed6cc581d69be6",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00a82a19d8a61d51991cfe269a5c533821a6e56f",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00a995cd3d927054e78d24ac1d9c91a8ca2ed362",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00ac2c18430ebf249c04d0a9529ecd9bf2a61ce1",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00accd3225e064e787fea95aa5bb014274dfa367",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00ad04d34dd3d4c46e2a497cc3a2a94c6f2b71fc",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00aeaf43c32771c3c75227fa23a5cb071ae6a6ca",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00af305113dcc2ffacf5c3389c0be155c4eeebdf",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00af69ad18f719af73073b4757c1ec2700072a1e",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00af7207b4e3cd0408baa5298996fc5e22752632",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00b174484a814294bf94f585c466b9b3f992f11d",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00b174484a814294bf94f585c466b9b3f992f11d",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00b1cbf2df6aa2248dd47b3a033ba19ba8028b9f",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00b1d31716190086ab7f91fee870ac8bfd86e097",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00b2e4d738d741c737a3619b0dd190b4a0419c85",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00b31a1f609b2d0e3ed66c4464e711085dbf2019",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00b3cf7e36ffb6e35b38d96cde4092416cecdf28",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00b439529cbb3f51f6ac2469ef526299341ccf37",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00b487780a2a19fcf3c2fb69da16d1469e7202e9",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00b9f40973f9fe9ef1d29d835ab8c009ef5ef934",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00baa722b74dae72e192fcbb5298277c2aaf954a",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00bc6ea2029147e12301a1cabc9a58be6bdadd85",
+    "to": "data model",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00bc6ea2029147e12301a1cabc9a58be6bdadd85",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00bcf2cd9207a71e3a6f51776a5fd146656cb5ad",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00bde021431a7c46f8a72834a23c024b4abfce46",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00bde021431a7c46f8a72834a23c024b4abfce46",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00bde021431a7c46f8a72834a23c024b4abfce46",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00be0998bf63287c0d83acb09f15370e477af9c2",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00be1fbda2b9c457f75337c50d707c917f188771",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00c0c9d3ba4c0839de68de7f263b9b4f965e4a41",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00c130e458fe1f9d656c5763b65f55ada659de1a",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00c2b9ff9881560d1c4264587aab8261ca35f5bc",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00c2b9ff9881560d1c4264587aab8261ca35f5bc",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00c4c9af664b3e6ec24146ff4dbd4ac59bd50622",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00c4edd2377ad71a0eb15ccd52cb4fa22daf2e23",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00c5e1b0e4588862f4e085d1b126542c5a2f993f",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00c65e600fab0a028c798b5354cc766da7c81697",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00c6775c2c84e9a4684a9bce7fb4129eaf685da2",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00c69ac3e46fce7013cda997e6c9a7c39714e890",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00c6b7ca40efeca598dd599a1bcf5cedd8acbf04",
+    "to": "data model",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00c6b7ca40efeca598dd599a1bcf5cedd8acbf04",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00c7362408447c6e54943af37e05b7b4a97a417b",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00c7b86eb31bb4b5ec774983fcbe7843e06792d5",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00c7fe7a449ce3a17539f17990d36a934846bfd8",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00c80aadd4e30fb7ad499795d805e6a29219cc9d",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00c80aadd4e30fb7ad499795d805e6a29219cc9d",
+    "to": "large-scale data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00c81c8b24e610167dbe87f6031808303bc85e79",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00c857bc0310aa325efff46d8d36bc3429210665",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00c8c1824289d0d9d16ff3dc934b2a2abd9a2a7b",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00c9bef87749b0bf9a0ec8e19c1ac3402e237d9f",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00ca14fe9b37dbb49415e099d60de25e72bf3fac",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00cafda3dff6273cb5584d2baca957cc60f95946",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00cb19f307347143e87140fcd3e00aeb81169c51",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00cb19f307347143e87140fcd3e00aeb81169c51",
+    "to": "data mining",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00cbe04f34ecce80513c98575b605e61c1de0fab",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00cbf9e81b5001e41cbbc2976b781dec4cc1b630",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00cbf9e81b5001e41cbbc2976b781dec4cc1b630",
+    "to": "large scale data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00cd032093853fc78c5b5f7d6c593a3b7c224211",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00cd59c388adc25351d621600db4b6d0635148f9",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00cdaebe030c889d50e5ae08072f407e2159ea94",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00cdf70c2e4fd4d54e27a77dfaa148d491259a46",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00ce8ec96bfb307d691775dd286586a4738dfd61",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00cf16e7667e2ef2bb3df1357a853e8c4ddd0c61",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00d0f78ecdbc527384565d8c1e6af2df10a18992",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00d15584fc0ee243975d2bb7c8deaeb902adaf03",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00d19cefa752a1eaace48733977932adfa26f14a",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00d19cefa752a1eaace48733977932adfa26f14a",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00d26ca5d26d8fde8035e1316465d63f56b4a7cb",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00d2b1129c0ebb473e18d5971878f4899810da30",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00d2ffa3c32c0fdafe7418eeaeaa63520cafdd17",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00d4713a88e745c0a1db602c9fdb554492a6ce65",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00d5e8c043b203db8142712cca3d08a06c9ebedc",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00d6035496cf2ee01a8f781240bc84e0f15ba28e",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00d772d6da005f505607b91239128e69201f258c",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00d778fd32735a97816b03fd6fa977a1e3d798b7",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00d82664cf24b0e45cc715c5f55dd115b15b3498",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00d992d0ad3fd3f467e41de248cc52d381f3ee1d",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00d992d0ad3fd3f467e41de248cc52d381f3ee1d",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00da6f78e12127858ee4b21afb2d76e164697baa",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00db5e7a857fec650ef3d4c9a6828e5fc90a6ba3",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00db5e7a857fec650ef3d4c9a6828e5fc90a6ba3",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00dddeab132609e42c62e08aee25b4d5c910aee3",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00dddeab132609e42c62e08aee25b4d5c910aee3",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00de2e60d1d8a54994952b6279bd60e207332299",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00e0414a4318ae57e2498e0d5108d9a48165bd7c",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00e091f5443f3f60f4369045ae72f4d8985ff3fd",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00e091f5443f3f60f4369045ae72f4d8985ff3fd",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00e1307e194e60e6e56d825863e1f45f0671a824",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00e16a22adb5819a25f4aaed452547dd6620df19",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00e16a22adb5819a25f4aaed452547dd6620df19",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00e1aa61ab5bb47d00710febba7f4795792d6242",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00e5829c451816b95f983e187436632f5a077e97",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00e5db54381c22ca2bde7461d37ac4c295f663f6",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00e6ac0914fca6d9bbf99535331200c48b9c5edb",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00e878adf4a9390f14c86b44172dd2ee0febb3ea",
+    "to": "data mining",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00eab413400cbb947abb2adb80eb1ea9f30f1f6d",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00eb8a84f8a69ae50f6262be14db5455c0cca3d9",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00ec1967ef45c803daef54fb713302b0b3513fcd",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00ec1d8ba402060752267e055afebfd263aabe12",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00ec1d8ba402060752267e055afebfd263aabe12",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00ec2cf49a915d9788d5cf42ecd5d9713449c28e",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00ed989f2bc2524dd3313060d550176988f5bc10",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00edd9bb9fbbafe06a7219c896ea14b09281a894",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00f13a54585df2a5a74652bec189a8157d54cb23",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00f13a54585df2a5a74652bec189a8157d54cb23",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00f1cb2ea24270928ef491715344c3a2d7624347",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00f1cb2ea24270928ef491715344c3a2d7624347",
+    "to": "data governance",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00f1cb2ea24270928ef491715344c3a2d7624347",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00f3675124578551ad1a52d3ff4616e2618925d2",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00f5bb580072555368a545d6300c8c39979ef1dc",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00f614112efe5b759c7e16974ef931228505551b",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00f614112efe5b759c7e16974ef931228505551b",
+    "to": "index structure",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00f678fe113ab98d1dcebd14e911762d3e293c86",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00f678fe113ab98d1dcebd14e911762d3e293c86",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00f6b80384786a33961f5f7a43b006b953efdfb7",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00f6b80384786a33961f5f7a43b006b953efdfb7",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00f6c196ab689b87563fa0ea18c9e8f8d0c8905c",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00f6d04dc51b24181458e978448ddbd629f404f3",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00f72b72dcd11728f0eee78891a3f13327c13643",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00f72b72dcd11728f0eee78891a3f13327c13643",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00f7565ea1ed69d1a5cc4dd37d9b76ba1cfb0575",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00f835c9e8e110caef4cd036ba3834646b55de47",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00fa40849bbd89ef37486ae58fdfcdb15e0542fc",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00fae5f2bd57909792e77a36d5c31ef6f3790b0e",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00fb2b5a538194761196d97f21415c8cc24ccc25",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00fb337bd9e9fcd03c5ec25eb0830d1918335073",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00fb337bd9e9fcd03c5ec25eb0830d1918335073",
+    "to": "large-scale data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00fb3f1421dfb01811a88e82761439e3455e37ad",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00fb6adb9e9a7ad5356bfd6734f2fb378cab275d",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00fc556f44184dd6fbc9f115eb43c58c872d1f4c",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00fc988a8d02b71643d646ed91e997bdb0505873",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00fd0667028720d81cf1fc97c1e5060d60f2ebd6",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00fd0667028720d81cf1fc97c1e5060d60f2ebd6",
+    "to": "data mining",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00fe65a52c90ac466256b13e24ebb48ab6717745",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00fec7edf909505a95339a60f03a9977667bcf64",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00ffff869951deaf775c2b4ff345e2a43f7eeb5f",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0100023ea1552c40c7fd24e4c7e464d4ddc1a4f3",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01008f6e351c61a4bb78ba985c426dad854e82ae",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0101f41200a0fcc2331cd4d0c7cf7d1b5638067f",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0102886ac9aa9c871318c37a99ee783e7b2c9727",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0102aa65f441232200ba6c36247a982479ee3c48",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0102d068b40a2e5432cb8d224b3d88ed24d2b449",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01032da9a6825d687582e5667db594bcec526d8c",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0103e886fd4f07331372fd420318a8f32b69a411",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0104a9d7b5218f3e6754356348451a45fbec205d",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0104fa21d88dfc6314d0c27d85b327724afcfb40",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0105496282289bacacef3c26abe904e952bddb1a",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0105873722b6b68453a70f86ad09c2bef19bb2a7",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0105873722b6b68453a70f86ad09c2bef19bb2a7",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01059b4427e1f7be7dc937e608c673f2f8e7fb22",
+    "to": "data model",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01059b4427e1f7be7dc937e608c673f2f8e7fb22",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01071101d0f5291191c849a5c832d5f84ea82d69",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0107739a2f7966070a3f785eb91fba9065085d13",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0108a6cd69629efee7f7361684d51aa6bdfada3a",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01090cfe3cc6ca5372d03dca91a9c8b777df7066",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "010970236ac09063c6ec710c9244e3686d582d8a",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "010ab01f82cbf944ef45ce5f46969a4f971f65b2",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "010ad9192080b004d3a525a2563e61580480cbf7",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "010bb51ce2f33aaa63e806736846d688f935eda9",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "010bbf867c10b2eb87d017355f5ca52c26f74785",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "010cbe5bd3c29fcb293958b46b7a702e38bb99fb",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "010cbe5bd3c29fcb293958b46b7a702e38bb99fb",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "010d4a41cd5a9ec0ede2c93a3e4f78c05b615a6b",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "010d4a41cd5a9ec0ede2c93a3e4f78c05b615a6b",
+    "to": "data mining",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "010e2de4fd2be3f8701975524556cfd4acf15e6d",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "010f3e0c8fd09479c68fad2e5b8aa73952d5c530",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "010f6b68edb5b3d9dce18bdcf4a68845c2c242a9",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "010fcf13f25393d6fa872f0ff54991e95fcb79b6",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "010fe6729e14889454f1caabd9167ec4be5e6477",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0110b04f56867c29dc736d5d6df5c92a1eba5a37",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0110f7c903ea41f5e45c0c526512c043b975325d",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0114899ac6d49133b9587cd412d0ecba5087231b",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0115bd7e3225565663729f302e9f6fec6d5d1670",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01175458a6722a923de28655148fd2392e48cf41",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0117a277bf35f6bfced8cae2589a8f48b505949a",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "011808767f1eb0cf5dd07295bc5e4f831429547e",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "011808767f1eb0cf5dd07295bc5e4f831429547e",
+    "to": "data mining",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0118ba4dd5a6cea76369caa3f11f6a4c8f1d9d49",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0118ba4dd5a6cea76369caa3f11f6a4c8f1d9d49",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0119b95a72d1ba37250e9a21338e769b3dcd4fce",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "011bc8ad40c540bd09807090658d02f15cd5dad3",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "011c47251ac29de19dbda9390e73d14c735d296b",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "011c47251ac29de19dbda9390e73d14c735d296b",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01205026dab5826a3d2e44140687b0d000e203de",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01205026dab5826a3d2e44140687b0d000e203de",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "012224d5e701bf12d89fa017afee7f184f6d31bb",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0122260ff24af4d67fb7d88580144834381725f6",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0122260ff24af4d67fb7d88580144834381725f6",
+    "to": "large-scale data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01224091c05e01ce07a0c466f0f670bbe56e15aa",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "012330e810688fb4dc20325ecf6708b98f312b11",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01237ae876a3f4564917ab10bfe1953b8f6c3b4b",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0123ccd790a0de38691d97a013bea37fbcead96a",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "012498668fcf37f286807dace875b18f51f1b23e",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0124a8a9b76ce8343375a84a024fd7fadb770acc",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0124edf18aefc9c41a6df51edabd3b42467f75fe",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0125116f16e2ba3a67e9300d8cf2ba8ecad2d630",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0126178cfe503ed887dead58aca183551d7e8206",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01261d1af3a79df3139ed1aab07c736a9adc7491",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01261d1af3a79df3139ed1aab07c736a9adc7491",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0126321c60996838b419c5e0b0dd871d586c28ec",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "012665d1eee3b639adf5b1148a78449391b2c39a",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "012730475fbe900699db7fc1817934d9cc6715f3",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01279863368b9c0ceba132e1d86086a9f30a42f2",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0127bff842332c5d14b156989d459a16ad8f7efb",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01293a2b106a9c69961e8caa7004552b40ad02cc",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01293a2b106a9c69961e8caa7004552b40ad02cc",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01295a7f75e9ab6ae2e78d43366320ff3df65cb6",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "012a4b46d16ddf6a869e2281402365fa333e7cf5",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "012aaee05ea92d85d5b912371e4cf09bba667794",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "012b92ada60e594ad7e839a8b4b1fff2d2172f04",
+    "to": "data modeling",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "012b92ada60e594ad7e839a8b4b1fff2d2172f04",
+    "to": "data model",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "012b92ada60e594ad7e839a8b4b1fff2d2172f04",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "012b92ada60e594ad7e839a8b4b1fff2d2172f04",
+    "to": "data mining",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "012c8e974ce6db7ae19f96998315adee352389f8",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "012eaccba9226a8f17d1f78fe2726b19459892fa",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "012fabd8bdfb7c80e10c461e721dbf76175bedca",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "012fabd8bdfb7c80e10c461e721dbf76175bedca",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0130c6309f6f9915db1f365317147681eb028101",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0130c6309f6f9915db1f365317147681eb028101",
+    "to": "data mining",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0130f1b7e3e5eedf2235605040812dbc55703e24",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01315a7762f520e7268cf3418360c7232838af34",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01331fabbc8936602c7c872bcc744abe4ae9794a",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01337f7d689db32961574084742ea4e825a78b52",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "013396b0768ab53d09ec2037fa841eaa1811efdd",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0133fa96804a5fa774788a0717875c7caa369945",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0133fa96804a5fa774788a0717875c7caa369945",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0134a0a07366823fa4beb4c03ad02f1dcf3f64c4",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0136434cce8ae8e630a8c17fd1b419b36a94d2bd",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0137313c958419326d2d1bc4fcc1f73107525931",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0137e537ae4d853acc86c0535d785f8c0c5bb5ec",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0137e537ae4d853acc86c0535d785f8c0c5bb5ec",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01383b08c10ee997ffd1ae0546f9d10598fde1fc",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0139703a81d55daf590f5da34d796c2e41bbb3ff",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "013b25eecf7989f1142c3a2c3bede031f9cfa6cb",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "013bc7e2baa573c7030357ecab7ae2eef6021fd3",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "013d41c224856bfe91745b4a7599d1a8cb8dd80d",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "013d47d175000a44125a3c87d2a8fd0ba206c2a5",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "013e010c339eb87259cf5536acd30f1f5e99aa44",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "013e3dd77f9722ec9f9dc4164930c883df20cadb",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01400b95db9c6b5d016f1c10e9f3326547aba812",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01412c24063de1e8f2bcc87fed0c9b1313695a18",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0141d6698507947632eaf42ecb7e63005ffb44ce",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0141d6698507947632eaf42ecb7e63005ffb44ce",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0142f5a864d02ed6f8601e4337058d8b99332d3f",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0142f5a864d02ed6f8601e4337058d8b99332d3f",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0143fd2197dbbb7af0825fa990c38174deaa7283",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "014416b51d48be953d736273f915d3a67e244267",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "014416b51d48be953d736273f915d3a67e244267",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01444f5683dfc2be5e559ac0d4d20b905fc05b89",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01444f5683dfc2be5e559ac0d4d20b905fc05b89",
+    "to": "large-scale data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0144ccd171e1fd2d010265f41b90ca6c818983d7",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0144f8fcf49e65e2326520fe8df26e8c4448f7db",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0144f8fcf49e65e2326520fe8df26e8c4448f7db",
+    "to": "data mining",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01453620fb46446f6d1d443edee139675928447e",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01456b3deb8073cc8abde68237a6d68c0da59e42",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0146fca31e4e1fc90729ee31cec64e97e53b3c20",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0149c5fb298ee5f90778a27afbbab630b49ef711",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0149fc42ca3cba0b296aa0489cf7b88b1b28c120",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "014adf5678b930c0edafe7941fc8b15079e7e6fd",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "014adf5678b930c0edafe7941fc8b15079e7e6fd",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "014adf5678b930c0edafe7941fc8b15079e7e6fd",
+    "to": "data mining",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "014ae3308df8023b6980798e9d98958dd02e1082",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "014b4b851788ddc24918f3d17493e2ea51710da6",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "014b5cc8f7fd87d58ce9711012819cd4bd8285bb",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "014c036fcb6ec2f0ef06f75344155d721ef5ee5c",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "014c7194ce1cee83a0a5dd8b2419094cbf444ee8",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "014ceb2f31b56c6c5f2bcb9bbb09d1e11029ea64",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "014dcca4adb38d070421b68fd826578d9ea29fde",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "014e5d8904e4a68ada1c17d188ea52339e5b2ed1",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "014e5d8904e4a68ada1c17d188ea52339e5b2ed1",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "014ec0e0ed5467d63bb63a9b0b9a982f9e79a531",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "014efddfc8cacf13495e4d8104e29d6aee8d8af2",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "014f36dc993d6483a344218af462454a7dbf9b62",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0150b988f2b64612d046090f3cff286ed7686900",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0150d0026cdc03fad58092e0604ef888eb36798e",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0150e6bff6cd369c14c0a4173e648cfd31a6066a",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0151ee06e28981a2341169a03c9af43d44e77fae",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01532eddb7c8e2a2dc2c665421a34106413e4a51",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01532eddb7c8e2a2dc2c665421a34106413e4a51",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0153a06f08069886dd600864feaefbae4c24c041",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0153b6d18c8bde4cc5e57a7f2c9c3b09486738f7",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0153b6d18c8bde4cc5e57a7f2c9c3b09486738f7",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01541e9b4cbabd35c1df4abf0caab150c54d872d",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01544bb3c29c9a53289f22c7bb4ed8bd2633092b",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "015489b5b7c4867e671101c0353957f7f0a986aa",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0155da2fe6c939dbfa84a4307113b0f066de5220",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0155fe1751b05dda3dfde6e95745a5fc3e0c6e95",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0157ba7edd37fceab9ddfdf4d13c3b4b97bbf31f",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0157ba7edd37fceab9ddfdf4d13c3b4b97bbf31f",
+    "to": "data mining",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "015840ca67b3a3c6ca88b1d2cdf0625ff6693ef1",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01585aa3a758f0694767a2577943f64cde2b7850",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0158e7966d7b48e82b630fdf0bcd49e941dcfaa1",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0159ca13896e8a07e4dddeddcf74b5df6c9dd8f1",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0159ca13896e8a07e4dddeddcf74b5df6c9dd8f1",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "015c398a9c7d1ba1655125430b133f9030fded95",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "015d4cbc32b95f6f5859c19232a4bc7d81689cdc",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "015d81979a4effb6ed2be77a2ba7c115c45275a9",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "015ddb49edbbcb05c2e3e14dea269a70942ecda3",
+    "to": "data management",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "015ddb49edbbcb05c2e3e14dea269a70942ecda3",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "016057f88e8b9f8f8b162c44cd3ddc09e5a71c19",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "016057f88e8b9f8f8b162c44cd3ddc09e5a71c19",
+    "to": "large-scale data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "016184de8d62faf61a36ba5d78b107ac0acb8f8b",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0161af9a9786bf67950294c3ea7a337261b0a788",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01625cb6a718fed9bc2aaa49cc165f3a11c48eba",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01625cb6a718fed9bc2aaa49cc165f3a11c48eba",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0163d90faef0f4ac586a0798ceb9cef5d5cb2c72",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01640aadaac4ae229d2cf842243ecf40bfb1a66f",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0164e277eaa632275b512a391e79e764e8e05a33",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "016589809895712ccabf16aba7d6da6bba9c10f1",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0165f31eb93c429fc33ac493bca67bd2e0da21e2",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01661fd76a8f036e29e8ceedd4621e7ca118da45",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01664126d81a2d42a084e5f56c102c6a2d932eab",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0166ace2b3fe191ac5c477f4c5f1b2dd792a0f71",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01670d7d11a4c7ffe9c8f84b987d6aa3b5d15218",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "016757b326dcc590a4af5e637228f95be165bb2d",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "016a5979fdcc840f66233efe2b43413d39fc6176",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "016ace4e0f33dd123499178cf0f40a1f994b4134",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "016b3e205ea2474efcebe16d901dd07473b31d45",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "016b3e205ea2474efcebe16d901dd07473b31d45",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "016cffca854ccedc33ebe8545d64a0777aa618f8",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "016de7a306b689a407d67e54ad52dc60787a595d",
+    "to": "data mining",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "016fb2f5c6a98bd7d8ac8917566275b18713c51f",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "017324b274bb0e0338484723e4fdde85e7b5c0f1",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "017451c3e2f37627f8f51dacfa668698c8068c86",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "017451c3e2f37627f8f51dacfa668698c8068c86",
+    "to": "data mining",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0175ecf5b9a0eb724b27c93669871d439aaeb47d",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0175f71df7cf754a48ee8c026cda4786d0d126be",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "017869dba912024394617215cb424a355bf53886",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01787494679e6f2c56e1449d06251f30668e2b39",
+    "to": "data model",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01787494679e6f2c56e1449d06251f30668e2b39",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01787f7beca55a2eb0c86fa261789bc95a9f6042",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01794ae39dd36ef1ae22d54d5319c54c079edd23",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0179565c7348d00333253cb78baa08221611e295",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "01797dbed31e786ae9afcd3663bef49bd5f091a3",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "017a0d4ee1e2e8332f02639b19300ba0a3868291",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "017a168f6fa1256cea0bbddd9178d96ddf5a51c7",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "017a333b83efb26d14a9ba1e9bc0b052c084a124",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0005438a0da416fac50272769489b5b56d7498d5",
+    "to": "indexing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "000b52a4d36e0952ee6a0c375dffe5b05ed69ab1",
+    "to": "indexing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "001273446fa7ab86f32f0b99be69ce9956e27b1d",
+    "to": "indexing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "001716ef01ed58b757248fd2bba1dfa18570a63b",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "001b3f9a0b5d24da0eb1445e2fcc5a84900f2e9d",
+    "to": "indexing",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00204c530df3ebb7189ee6e51e3ed22cd45b4e21",
+    "to": "data modeling",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "00204c530df3ebb7189ee6e51e3ed22cd45b4e21",
+    "to": "data model",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0029346d99562f02dc8078aa890da915cdd51b1c",
+    "to": "indexing",
+    "type": "HAS_TOPIC"
+  }
+]

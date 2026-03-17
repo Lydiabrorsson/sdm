@@ -1,0 +1,90 @@
+[
+  {
+    "topicId": "big data",
+    "name": "big data"
+  },
+  {
+    "topicId": "data analytics",
+    "name": "data analytics"
+  },
+  {
+    "topicId": "data model",
+    "name": "data model"
+  },
+  {
+    "topicId": "data management",
+    "name": "data management"
+  },
+  {
+    "topicId": "data mining",
+    "name": "data mining"
+  },
+  {
+    "topicId": "data modeling",
+    "name": "data modeling"
+  },
+  {
+    "topicId": "indexing",
+    "name": "indexing"
+  },
+  {
+    "topicId": "data governance",
+    "name": "data governance"
+  },
+  {
+    "topicId": "database management",
+    "name": "database management"
+  },
+  {
+    "topicId": "inverted index",
+    "name": "inverted index"
+  },
+  {
+    "topicId": "large-scale data",
+    "name": "large-scale data"
+  },
+  {
+    "topicId": "query processing",
+    "name": "query processing"
+  },
+  {
+    "topicId": "query optimization",
+    "name": "query optimization"
+  },
+  {
+    "topicId": "sql query",
+    "name": "sql query"
+  },
+  {
+    "topicId": "index structure",
+    "name": "index structure"
+  },
+  {
+    "topicId": "data querying",
+    "name": "data querying"
+  },
+  {
+    "topicId": "query execution",
+    "name": "query execution"
+  },
+  {
+    "topicId": "b-tree",
+    "name": "b-tree"
+  },
+  {
+    "topicId": "schema design",
+    "name": "schema design"
+  },
+  {
+    "topicId": "entity relationship",
+    "name": "entity relationship"
+  },
+  {
+    "topicId": "large scale data",
+    "name": "large scale data"
+  },
+  {
+    "topicId": "database index",
+    "name": "database index"
+  }
+]
