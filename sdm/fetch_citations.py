@@ -4,6 +4,8 @@ import time
 import requests
 from pathlib import Path
 
+# Made in own file because different API endpoint 
+
 API_KEY = os.environ["S2_API_KEY"]
 HEADERS = {"x-api-key": API_KEY}
 
@@ -49,6 +51,8 @@ def fetch_cites_edges():
             references = paper.get("references", []) or []
 
             for ref in references:
+                if ref.get("paperId") is None:
+                    continue
                 #if ref.id in paper_id_set:
                 cites_edges.append({
                     "from": paper.get("paperId"),

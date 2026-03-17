@@ -1,5 +1,9 @@
 [
   {
+    "topicId": "data management",
+    "name": "data management"
+  },
+  {
     "topicId": "big data",
     "name": "big data"
   },
@@ -12,8 +16,8 @@
     "name": "data model"
   },
   {
-    "topicId": "data management",
-    "name": "data management"
+    "topicId": "large-scale data",
+    "name": "large-scale data"
   },
   {
     "topicId": "data mining",
@@ -24,64 +28,56 @@
     "name": "data modeling"
   },
   {
-    "topicId": "indexing",
-    "name": "indexing"
-  },
-  {
     "topicId": "data governance",
     "name": "data governance"
-  },
-  {
-    "topicId": "database management",
-    "name": "database management"
-  },
-  {
-    "topicId": "inverted index",
-    "name": "inverted index"
-  },
-  {
-    "topicId": "large-scale data",
-    "name": "large-scale data"
   },
   {
     "topicId": "query processing",
     "name": "query processing"
   },
   {
+    "topicId": "inverted index",
+    "name": "inverted index"
+  },
+  {
     "topicId": "query optimization",
     "name": "query optimization"
   },
   {
-    "topicId": "sql query",
-    "name": "sql query"
+    "topicId": "indexing",
+    "name": "indexing"
+  },
+  {
+    "topicId": "database management",
+    "name": "database management"
   },
   {
     "topicId": "index structure",
     "name": "index structure"
   },
   {
-    "topicId": "data querying",
-    "name": "data querying"
+    "topicId": "sql query",
+    "name": "sql query"
   },
   {
     "topicId": "query execution",
     "name": "query execution"
   },
   {
+    "topicId": "large scale data",
+    "name": "large scale data"
+  },
+  {
     "topicId": "b-tree",
     "name": "b-tree"
   },
   {
-    "topicId": "schema design",
-    "name": "schema design"
+    "topicId": "data querying",
+    "name": "data querying"
   },
   {
-    "topicId": "entity relationship",
-    "name": "entity relationship"
-  },
-  {
-    "topicId": "large scale data",
-    "name": "large scale data"
+    "topicId": "distributed data processing",
+    "name": "distributed data processing"
   },
   {
     "topicId": "database index",

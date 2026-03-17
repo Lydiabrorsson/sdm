@@ -19,19 +19,17 @@ QUERIES = [
     "indexing"
 ]
 
-YEAR_RANGE = "2019-2024"
-FIELDS = "paperId,title,abstract,year,venue,authors,externalIds,citationCount,publicationTypes,references.paperId"
+FIELDS = "paperId,title,abstract,year,venue,authors,externalIds,citationCount,publicationTypes"
 REQUEST_DELAY = 1.1 # To respect rate limits (1 request per second)
 
 
-def fetch_bulk_papers(queries, year_range):
+def fetch_bulk_papers(queries):
     papers_by_id = {}
 
     for query in queries:
         print(f"\nCollecting papers for query: {query}")
         params = {
             "query": query,
-            "year": year_range,
             "fields": FIELDS,
         }
 
@@ -54,7 +52,7 @@ def fetch_bulk_papers(queries, year_range):
 
 
 if __name__ == "__main__":
-    papers = fetch_bulk_papers(QUERIES, YEAR_RANGE)
+    papers = fetch_bulk_papers(QUERIES)
 
     out_file = RAW_DIR / "papers.json"
     with open(out_file, "w", encoding="utf-8") as f:

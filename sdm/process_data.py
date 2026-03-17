@@ -97,6 +97,10 @@ def process_graph(raw_papers):
     has_edition_edges = []
     has_volume_edges = []
 
+    # To avoid duplicate edges in case of multiple papers from same venue/year
+    seen_has_volume_edges = set()
+    seen_has_edition_edges = set()
+
     for p in raw_papers:
         paper_id = p.get("paperId")
         title = p.get("title")
@@ -159,11 +163,14 @@ def process_graph(raw_papers):
                     "year": year
                 }
 
-            has_volume_edges.append({
-                "from": journal_id,
-                "to": volume_id,
-                "type": "HAS_VOLUME"
-            })
+            edge_key = (journal_id, volume_id, "HAS_VOLUME")
+            if edge_key not in seen_has_volume_edges:
+                seen_has_volume_edges.add(edge_key)
+                has_volume_edges.append({
+                    "from": journal_id,
+                    "to": volume_id,
+                    "type": "HAS_VOLUME"
+                })
 
             published_in_volume_edges.append({
                 "from": paper_id,
@@ -197,11 +204,14 @@ def process_graph(raw_papers):
                         "name": venue_name
                     }
 
-                has_edition_edges.append({
-                    "from": workshop_id,
-                    "to": proceeding_id,
-                    "type": "HAS_EDITION"
-                })
+                edge_key = (conference_id, proceeding_id, "HAS_EDITION")
+                if edge_key not in seen_has_edition_edges:
+                    seen_has_edition_edges.add(edge_key)
+                    has_edition_edges.append({
+                        "from": conference_id,
+                        "to": proceeding_id,
+                        "type": "HAS_EDITION"
+                    })
 
             else:
                 conference_id = make_conference_id(venue_name)
