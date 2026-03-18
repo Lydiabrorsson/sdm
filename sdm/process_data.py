@@ -290,6 +290,36 @@ def process_graph(raw_papers):
                 "type": "REVIEWS"
             })
 
+    # generate cite edges
+
+    cites_edges = []
+    seen_cites = set()
+    paper_list = list(papers.values())
+    for source_paper in paper_list:
+        source_id = source_paper["paperId"]
+        source_year = source_paper["year"]
+
+        candidates = [
+            p for p in paper_list
+            if p["paperId"] != source_id and p["year"] <= source_year
+        ]
+
+        if not candidates:
+            continue
+
+        num_references = random.randint(1, min(5, len(candidates)))
+        chosen = random.sample(candidates, num_references)
+
+        for target_paper in chosen:
+            edge_key = (source_id, target_paper["paperId"])
+            if edge_key not in seen_cites:
+                seen_cites.add(edge_key)
+                cites_edges.append({
+                    "from": source_id,
+                    "to": target_paper["paperId"],
+                    "type": "CITES"
+                })
+
     return {
         "papers": list(papers.values()),
         "authors": list(authors.values()),
@@ -305,7 +335,8 @@ def process_graph(raw_papers):
         "published_in_volume_edges": published_in_volume_edges,
         "has_edition_edges": has_edition_edges,
         "has_volume_edges": has_volume_edges,
-        "review_edges": review_edges
+        "review_edges": review_edges,
+        "cites_edges": cites_edges
     }
 
 
@@ -339,3 +370,4 @@ if __name__ == "__main__":
     save_json("has_edition_edges.json", graph["has_edition_edges"])
     save_json("has_volume_edges.json", graph["has_volume_edges"])
     save_json("review_edges.json", graph["review_edges"])
+    save_json("cites_edges.json", graph["cites_edges"])
