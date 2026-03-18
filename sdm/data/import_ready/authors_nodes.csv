@@ -3497,7 +3497,7 @@ authorId,name,firstName,lastName
 145061330,A. Laarman,A.,Laarman
 2367338263,Mohhamied Husaein Sallaah,Mohhamied,Husaein Sallaah
 2369840577,Shathish Kumar,Shathish,Kumar
-2369741005,M. A. P. Manimekalai,M.,A. P. Manimekalai
+38998475,M. Manimekalai,M.,Manimekalai
 2365759932,Najmitdinov Akhadkhon Khamitdkhanovich,Najmitdinov,Akhadkhon Khamitdkhanovich
 2369739999,T. M. Thiyagu,T.,M. Thiyagu
 2369690973,R. Udayakumar,R.,Udayakumar
@@ -6236,7 +6236,7 @@ authorId,name,firstName,lastName
 2264083868,Yongguo Yu,Yongguo,Yu
 2198273175,Xin Gao,Xin,Gao
 4844029,E. Namkung,E.,Namkung
-2313186366,Sung Hye Sarah Kang,Sung,Hye Sarah Kang
+2313186366,S. Kang,S.,Kang
 2396041121,Puji Isnaini,Puji,Isnaini
 2099569404,Santi Farmasari,Santi,Farmasari
 2388278855,Ni Wayan Mira Susanti,Ni,Wayan Mira Susanti
@@ -6649,6 +6649,10 @@ authorId,name,firstName,lastName
 2329139801,Jianrong Cai,Jianrong,Cai
 2319523838,Weidong Jia,Weidong,Jia
 2267774398,Chundu Wu,Chundu,Wu
+2316183978,Simon Steiger,Simon,Steiger
+5227098,H. Westerlind,H.,Westerlind
+67026905,D. di Giuseppe,D.,di Giuseppe
+2245688541,J. Askling,J.,Askling
 123317105,Barmby,Barmby,
 123271308,Dunn,Dunn,
 123606134,Bates,Bates,
@@ -9336,6 +9340,10 @@ authorId,name,firstName,lastName
 66679988,Ermioni Palaska,Ermioni,Palaska
 1729286381,Angeliki Sarella,Angeliki,Sarella
 1400715217,E. Antoniou,E.,Antoniou
+2224445087,Andrii Medyna,Andrii,Medyna
+144912106,I. Rybak,I.,Rybak
+2394846952,D. Sakhno,D.,Sakhno
+1581645154,L. Zgalat-Lоzynska,L.,Zgalat-Lоzynska
 2143243094,Sofija Carceva Shalja,Sofija,Carceva Shalja
 1581673349,Sandra Atanasova,Sandra,Atanasova
 46339615,M. Petrovski,M.,Petrovski
@@ -9985,8 +9993,6 @@ authorId,name,firstName,lastName
 51337597,Kuldeep Chouhan,Kuldeep,Chouhan
 2212152803,Kawerinder Singh Sidhu,Kawerinder,Singh Sidhu
 1485324120,J. A. Dhanraj,J.,A. Dhanraj
-52480415,M. Kesselman,M.,Kesselman
-3384638,Wilson Esquivel,Wilson,Esquivel
 2275499190,Nelly Masnila,Nelly,Masnila
 2089943424,R. Mayasari,R.,Mayasari
 2318380716,Firmansyah Firmansyah,Firmansyah,Firmansyah

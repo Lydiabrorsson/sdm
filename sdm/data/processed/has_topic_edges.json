@@ -2405,6 +2405,16 @@
     "type": "HAS_TOPIC"
   },
   {
+    "from": "0072f0d2abef12f3153106bacfc1579c1e9d5612",
+    "to": "big data",
+    "type": "HAS_TOPIC"
+  },
+  {
+    "from": "0072f0d2abef12f3153106bacfc1579c1e9d5612",
+    "to": "data analytics",
+    "type": "HAS_TOPIC"
+  },
+  {
     "from": "0072f6a88ed01d5369d3d882ac062e40b50187b4",
     "to": "big data",
     "type": "HAS_TOPIC"
@@ -3106,11 +3116,6 @@
   },
   {
     "from": "00a625ba1b93be03fa76459f3c87c3731d74800b",
-    "to": "big data",
-    "type": "HAS_TOPIC"
-  },
-  {
-    "from": "00a67e8bea7296aa4480cea6b9b7113fde5c70d7",
     "to": "big data",
     "type": "HAS_TOPIC"
   },

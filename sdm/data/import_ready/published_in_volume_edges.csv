@@ -1113,6 +1113,7 @@ from,to,type
 00059c57d3d0d2a68499feea943b1e801f37882d,volume::scientific reports::2025,PUBLISHED_IN
 00059c9f8779807b674228bcdf22dd25f1b7d923,volume::canadian journal of statistics::2024,PUBLISHED_IN
 0005a412ddf59452f7c58c49b6060a62d0bba0f1,volume::agriculture::2024,PUBLISHED_IN
+0005ab8a1020ae3722355a5b3bd045327cca8d2a,volume::rmd open::2026,PUBLISHED_IN
 0005b1e1abdfc16b6667354ac6a06e04e759cce8,volume::physical review b (condensed matter)::1996,PUBLISHED_IN
 0005bad9909e917d55c31481de9567bf8399d781,volume::proceedings of the national academy of sciences of the united states of america::1999,PUBLISHED_IN
 0005cfc3bc0ba32dd98da635dd3b3118de4c3b52,volume::plos one::2024,PUBLISHED_IN
@@ -1488,6 +1489,7 @@ from,to,type
 0070c6da99b3e7f7f3c80fbf13af77a468b3f73a,volume::brain science::2023,PUBLISHED_IN
 00723c2765e8640f4cbd3c85524bdfc16091e6eb,volume::journal of decision systems::2017,PUBLISHED_IN
 0072e80066b5e342f4aca3635a4bd820f4927680,volume::materia socio-medica::2021,PUBLISHED_IN
+0072f0d2abef12f3153106bacfc1579c1e9d5612,volume::journal of applied economic sciences::2026,PUBLISHED_IN
 0073cfcbd21692988d74c3ca7a76a3210294661d,volume::journal of economics and public finance::2024,PUBLISHED_IN
 007489362f1530c1fe5420adf93971957e8b43c9,"volume::international convention on information and communication technology, electronics and microelectronics::2016",PUBLISHED_IN
 00749790f8973169af3f794bee77b15364b61832,volume::interspeech::2020,PUBLISHED_IN

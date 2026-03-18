@@ -204,11 +204,11 @@ def process_graph(raw_papers):
                         "name": venue_name
                     }
 
-                edge_key = (conference_id, proceeding_id, "HAS_EDITION")
+                edge_key = (workshop_id, proceeding_id, "HAS_EDITION")
                 if edge_key not in seen_has_edition_edges:
                     seen_has_edition_edges.add(edge_key)
                     has_edition_edges.append({
-                        "from": conference_id,
+                        "from": workshop_id,
                         "to": proceeding_id,
                         "type": "HAS_EDITION"
                     })

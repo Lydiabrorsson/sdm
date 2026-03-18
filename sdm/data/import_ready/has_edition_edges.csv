@@ -6,7 +6,7 @@ conference::earth systems and environment,proceeding::earth systems and environm
 conference::marine policy,proceeding::marine policy::2022,HAS_EDITION
 conference::video journal of biomedicine,proceeding::video journal of biomedicine::2023,HAS_EDITION
 "conference::2025 5th international conference on innovative research in applied science, engineering and technology (iraset)","proceeding::2025 5th international conference on innovative research in applied science, engineering and technology (iraset)::2025",HAS_EDITION
-"conference::2025 5th international conference on innovative research in applied science, engineering and technology (iraset)",proceeding::2014 ieee international conference on pervasive computing and communication workshops (percom workshops)::2014,HAS_EDITION
+workshop::2014 ieee international conference on pervasive computing and communication workshops (percom workshops),proceeding::2014 ieee international conference on pervasive computing and communication workshops (percom workshops)::2014,HAS_EDITION
 conference::proceedings of the 2019 european conference on computing in construction,proceeding::proceedings of the 2019 european conference on computing in construction::2019,HAS_EDITION
 conference::ukrainian journal on library and information science,proceeding::ukrainian journal on library and information science::2018,HAS_EDITION
 conference::2020 5th international conference on electromechanical control technology and transportation (icectt),proceeding::2020 5th international conference on electromechanical control technology and transportation (icectt)::2020,HAS_EDITION
@@ -44,7 +44,7 @@ conference::apcc/mdmc '04. the 2004 joint conference of the 10th asia-pacific co
 conference::proceedings of the 8th international congress on environmental geotechnics volume 2,proceeding::proceedings of the 8th international congress on environmental geotechnics volume 2::2018,HAS_EDITION
 conference::applied sciences,proceeding::applied sciences::2022,HAS_EDITION
 conference::lecture notes in computer science,proceeding::lecture notes in computer science::2003,HAS_EDITION
-conference::lecture notes in computer science,"proceeding::2009 ieee international symposium on a world of wireless, mobile and multimedia networks & workshops::2009",HAS_EDITION
+"workshop::2009 ieee international symposium on a world of wireless, mobile and multimedia networks & workshops","proceeding::2009 ieee international symposium on a world of wireless, mobile and multimedia networks & workshops::2009",HAS_EDITION
 conference::revista argentina de cardiología,proceeding::revista argentina de cardiología::2018,HAS_EDITION
 conference::tree genetics & genomes,proceeding::tree genetics & genomes::2014,HAS_EDITION
 conference::osteoporosis international,proceeding::osteoporosis international::2017,HAS_EDITION
@@ -52,7 +52,7 @@ conference::european journal of forest research,proceeding::european journal of 
 conference::nature genetics,proceeding::nature genetics::1998,HAS_EDITION
 conference::revista amazonía investiga,proceeding::revista amazonía investiga::2021,HAS_EDITION
 conference::proceedings of the 6th international conference on management science and management innovation (msmi 2019),proceeding::proceedings of the 6th international conference on management science and management innovation (msmi 2019)::2019,HAS_EDITION
-conference::proceedings of the 6th international conference on management science and management innovation (msmi 2019),proceeding::international workshop on quality of service::2010,HAS_EDITION
+workshop::international workshop on quality of service,proceeding::international workshop on quality of service::2010,HAS_EDITION
 conference::2025 7th international conference on electrical engineering and control technologies (ceect),proceeding::2025 7th international conference on electrical engineering and control technologies (ceect)::2025,HAS_EDITION
 "conference::international conference on wireless communications, networking and mobile computing","proceeding::international conference on wireless communications, networking and mobile computing::2008",HAS_EDITION
 conference::zbornik radova,proceeding::zbornik radova::2024,HAS_EDITION
@@ -120,7 +120,7 @@ conference::abi-technik,proceeding::abi-technik::2021,HAS_EDITION
 "conference::industrielle beziehungen. zeitschrift für arbeit, organisation und management","proceeding::industrielle beziehungen. zeitschrift für arbeit, organisation und management::2022",HAS_EDITION
 conference::technical  mechanics,proceeding::technical  mechanics::2021,HAS_EDITION
 conference::proceedings of the international academic conference on frontiers in social sciences and management innovation (iafsm 2019),proceeding::proceedings of the international academic conference on frontiers in social sciences and management innovation (iafsm 2019)::2020,HAS_EDITION
-conference::proceedings of the international academic conference on frontiers in social sciences and management innovation (iafsm 2019),proceeding::proceedings of the 29th eg-ice international workshop on intelligent computing in engineering::2022,HAS_EDITION
+workshop::proceedings of the 29th eg-ice international workshop on intelligent computing in engineering,proceeding::proceedings of the 29th eg-ice international workshop on intelligent computing in engineering::2022,HAS_EDITION
 conference::encyclopedia of personality and individual differences,proceeding::encyclopedia of personality and individual differences::2020,HAS_EDITION
 conference::future foods,proceeding::future foods::2021,HAS_EDITION
 conference::international journal of current science research and review,proceeding::international journal of current science research and review::2022,HAS_EDITION
@@ -181,23 +181,23 @@ conference::international journal of computer trends and technology,proceeding::
 "conference::international conference on cryptography, security and privacy","proceeding::international conference on cryptography, security and privacy::2015",HAS_EDITION
 conference::open forum infectious diseases,proceeding::open forum infectious diseases::2019,HAS_EDITION
 conference::ieee india conference,proceeding::ieee india conference::2013,HAS_EDITION
-conference::ieee india conference,proceeding::international workshop on the semantic web::2013,HAS_EDITION
+workshop::international workshop on the semantic web,proceeding::international workshop on the semantic web::2013,HAS_EDITION
 conference::international conference on informatics and analytics,proceeding::international conference on informatics and analytics::2008,HAS_EDITION
 conference::sustainability science,proceeding::sustainability science::2020,HAS_EDITION
 conference::world congress on information and communication technologies,proceeding::world congress on information and communication technologies::2011,HAS_EDITION
-conference::world congress on information and communication technologies,"proceeding::international workshop on databases, information systems, and peer-to-peer computing::2005",HAS_EDITION
-conference::world congress on information and communication technologies,proceeding::icpr workshops::2021,HAS_EDITION
+"workshop::international workshop on databases, information systems, and peer-to-peer computing","proceeding::international workshop on databases, information systems, and peer-to-peer computing::2005",HAS_EDITION
+workshop::icpr workshops,proceeding::icpr workshops::2021,HAS_EDITION
 conference::international conference on advances in ict for emerging regions,proceeding::international conference on advances in ict for emerging regions::2016,HAS_EDITION
-conference::international conference on advances in ict for emerging regions,proceeding::acm sigspatial international workshop on advances in geographic information systems::2011,HAS_EDITION
-conference::international conference on advances in ict for emerging regions,proceeding::international workshop on semantic evaluation::2022,HAS_EDITION
-conference::international conference on advances in ict for emerging regions,proceeding::2007 ieee international workshop on databases for next generation researchers::2007,HAS_EDITION
-conference::international conference on advances in ict for emerging regions,proceeding::acm sigspatial international workshop on advances in geographic information systems::2002,HAS_EDITION
-conference::international conference on advances in ict for emerging regions,proceeding::workshop on computational geometry::1991,HAS_EDITION
+workshop::acm sigspatial international workshop on advances in geographic information systems,proceeding::acm sigspatial international workshop on advances in geographic information systems::2011,HAS_EDITION
+workshop::international workshop on semantic evaluation,proceeding::international workshop on semantic evaluation::2022,HAS_EDITION
+workshop::2007 ieee international workshop on databases for next generation researchers,proceeding::2007 ieee international workshop on databases for next generation researchers::2007,HAS_EDITION
+workshop::acm sigspatial international workshop on advances in geographic information systems,proceeding::acm sigspatial international workshop on advances in geographic information systems::2002,HAS_EDITION
+workshop::workshop on computational geometry,proceeding::workshop on computational geometry::1991,HAS_EDITION
 conference::2021 2nd international conference on secure cyber computing and communications (icsccc),proceeding::2021 2nd international conference on secure cyber computing and communications (icsccc)::2021,HAS_EDITION
 conference::journal of clinical oncology,proceeding::journal of clinical oncology::2019,HAS_EDITION
 conference::international conference on neural networks and brain,proceeding::international conference on neural networks and brain::2005,HAS_EDITION
 conference::biodiversity information science and standards,proceeding::biodiversity information science and standards::2019,HAS_EDITION
-conference::biodiversity information science and standards,proceeding::2014 ieee international conference on data mining workshop::2014,HAS_EDITION
+workshop::2014 ieee international conference on data mining workshop,proceeding::2014 ieee international conference on data mining workshop::2014,HAS_EDITION
 "conference::international conference on modeling, simulation, and applied optimization","proceeding::international conference on modeling, simulation, and applied optimization::2017",HAS_EDITION
 conference::annals of internal medicine,proceeding::annals of internal medicine::1993,HAS_EDITION
 conference::international conferences on biomedical and bioinformatics engineering,proceeding::international conferences on biomedical and bioinformatics engineering::2009,HAS_EDITION
@@ -205,16 +205,16 @@ conference::encyclopedia of data warehousing and mining,proceeding::encyclopedia
 conference::confluence,proceeding::confluence::2020,HAS_EDITION
 conference::2015 international conference on pervasive computing (icpc),proceeding::2015 international conference on pervasive computing (icpc)::2015,HAS_EDITION
 conference::proceedings of the sriwijaya international conference on information technology and its applications (siconian 2019),proceeding::proceedings of the sriwijaya international conference on information technology and its applications (siconian 2019)::2020,HAS_EDITION
-conference::proceedings of the sriwijaya international conference on information technology and its applications (siconian 2019),proceeding::proceedings of 7th international conference and workshop on database and expert systems applications: dexa 96::1996,HAS_EDITION
+workshop::proceedings of 7th international conference and workshop on database and expert systems applications: dexa 96,proceeding::proceedings of 7th international conference and workshop on database and expert systems applications: dexa 96::1996,HAS_EDITION
 conference::smart,proceeding::smart::2023,HAS_EDITION
 conference::2022 3rd international conference on smart electronics and communication (icosec),proceeding::2022 3rd international conference on smart electronics and communication (icosec)::2022,HAS_EDITION
 conference::yoga mimamsa,proceeding::yoga mimamsa::2022,HAS_EDITION
 conference::proceedings. the ieee 5th international conference on intelligent transportation systems,proceeding::proceedings. the ieee 5th international conference on intelligent transportation systems::2002,HAS_EDITION
-conference::proceedings. the ieee 5th international conference on intelligent transportation systems,proceeding::2012 second international workshop on developing tools as plug-ins (topi)::2012,HAS_EDITION
+workshop::2012 second international workshop on developing tools as plug-ins (topi),proceeding::2012 second international workshop on developing tools as plug-ins (topi)::2012,HAS_EDITION
 "conference::day 3 thu, may 09, 2024","proceeding::day 3 thu, may 09, 2024::2024",HAS_EDITION
 conference::2024 ieee international conference on intelligent signal processing and effective communication technologies (inspect),proceeding::2024 ieee international conference on intelligent signal processing and effective communication technologies (inspect)::2024,HAS_EDITION
 conference::journal of clinical oncology,proceeding::journal of clinical oncology::2021,HAS_EDITION
-conference::journal of clinical oncology,proceeding::proceedings of the 4th international workshop on knowledge-augmented methods for natural language processing::2025,HAS_EDITION
+workshop::proceedings of the 4th international workshop on knowledge-augmented methods for natural language processing,proceeding::proceedings of the 4th international workshop on knowledge-augmented methods for natural language processing::2025,HAS_EDITION
 conference::big data in bioeconomy,proceeding::big data in bioeconomy::2021,HAS_EDITION
 conference::2016 advances in wireless and optical communications (rtuwo),proceeding::2016 advances in wireless and optical communications (rtuwo)::2016,HAS_EDITION
 conference::lecture notes in computer science,proceeding::lecture notes in computer science::2016,HAS_EDITION
@@ -223,7 +223,7 @@ conference::pharmacy world & science,proceeding::pharmacy world & science::2004,
 conference::international conference intelligent computing and control systems,proceeding::international conference intelligent computing and control systems::2023,HAS_EDITION
 conference::spie defense + commercial sensing,proceeding::spie defense + commercial sensing::2003,HAS_EDITION
 conference::2021 ieee international conference on artificial intelligence and computer applications (icaica),proceeding::2021 ieee international conference on artificial intelligence and computer applications (icaica)::2021,HAS_EDITION
-conference::2021 ieee international conference on artificial intelligence and computer applications (icaica),proceeding::acm sigspatial international workshop on advances in geographic information systems::1998,HAS_EDITION
+workshop::acm sigspatial international workshop on advances in geographic information systems,proceeding::acm sigspatial international workshop on advances in geographic information systems::1998,HAS_EDITION
 conference::oceans,proceeding::oceans::2009,HAS_EDITION
 conference::ieee india conference,proceeding::ieee india conference::2016,HAS_EDITION
 conference::abstracts of the ica,proceeding::abstracts of the ica::2019,HAS_EDITION
@@ -232,20 +232,20 @@ conference::journal of clinical oncology,proceeding::journal of clinical oncolog
 conference::confluence,proceeding::confluence::2019,HAS_EDITION
 conference::journal of optometry,proceeding::journal of optometry::2022,HAS_EDITION
 conference::2022 global reliability and prognostics and health management (phm-yantai),proceeding::2022 global reliability and prognostics and health management (phm-yantai)::2022,HAS_EDITION
-conference::2022 global reliability and prognostics and health management (phm-yantai),proceeding::2011 ieee international conference on bioinformatics and biomedicine workshops (bibmw)::2011,HAS_EDITION
-conference::2022 global reliability and prognostics and health management (phm-yantai),proceeding::proceedings. tenth international workshop on database and expert systems applications. dexa 99::1999,HAS_EDITION
+workshop::2011 ieee international conference on bioinformatics and biomedicine workshops (bibmw),proceeding::2011 ieee international conference on bioinformatics and biomedicine workshops (bibmw)::2011,HAS_EDITION
+workshop::proceedings. tenth international workshop on database and expert systems applications. dexa 99,proceeding::proceedings. tenth international workshop on database and expert systems applications. dexa 99::1999,HAS_EDITION
 conference::international journal of computer trends and technology,proceeding::international journal of computer trends and technology::2018,HAS_EDITION
 conference::bmc neuroscience,proceeding::bmc neuroscience::2012,HAS_EDITION
 conference::ankara hacı bayram veli üniversitesi i̇ktisadi ve i̇dari bilimler fakültesi dergisi,proceeding::ankara hacı bayram veli üniversitesi i̇ktisadi ve i̇dari bilimler fakültesi dergisi::2022,HAS_EDITION
-conference::ankara hacı bayram veli üniversitesi i̇ktisadi ve i̇dari bilimler fakültesi dergisi,proceeding::international workshop on document analysis systems::2016,HAS_EDITION
+workshop::international workshop on document analysis systems,proceeding::international workshop on document analysis systems::2016,HAS_EDITION
 conference::applied sciences,proceeding::applied sciences::2023,HAS_EDITION
 conference::2024 6th international conference on frontier technologies of information and computer (icftic),proceeding::2024 6th international conference on frontier technologies of information and computer (icftic)::2024,HAS_EDITION
 conference::asset analytics,proceeding::asset analytics::2019,HAS_EDITION
-conference::asset analytics,proceeding::international workshop on multiple classifier systems::2010,HAS_EDITION
+workshop::international workshop on multiple classifier systems,proceeding::international workshop on multiple classifier systems::2010,HAS_EDITION
 conference::circulation,proceeding::circulation::2020,HAS_EDITION
 conference::blood,proceeding::blood::2018,HAS_EDITION
 conference::ieee joint international information technology and artificial intelligence conference,proceeding::ieee joint international information technology and artificial intelligence conference::2020,HAS_EDITION
-conference::ieee joint international information technology and artificial intelligence conference,proceeding::otm workshops::2004,HAS_EDITION
+workshop::otm workshops,proceeding::otm workshops::2004,HAS_EDITION
 conference::geofluids,proceeding::geofluids::2021,HAS_EDITION
 conference::2012 ieee symposium on robotics and applications (isra),proceeding::2012 ieee symposium on robotics and applications (isra)::2012,HAS_EDITION
 conference::international journal for research in applied science and engineering technology,proceeding::international journal for research in applied science and engineering technology::2019,HAS_EDITION
@@ -257,9 +257,9 @@ conference::new trends of research in ontologies and lexical resources,proceedin
 conference::lecture notes in computer science,proceeding::lecture notes in computer science::2015,HAS_EDITION
 conference::academic psychiatry,proceeding::academic psychiatry::2022,HAS_EDITION
 conference::frontiers in education conference,proceeding::frontiers in education conference::2025,HAS_EDITION
-conference::frontiers in education conference,proceeding::east/west database workshop::1990,HAS_EDITION
+workshop::east/west database workshop,proceeding::east/west database workshop::1990,HAS_EDITION
 conference::defense + commercial sensing,proceeding::defense + commercial sensing::2012,HAS_EDITION
-conference::defense + commercial sensing,proceeding::international workshop on the semantic web::2008,HAS_EDITION
+workshop::international workshop on the semantic web,proceeding::international workshop on the semantic web::2008,HAS_EDITION
 conference::indonesian journal of electrical engineering and computer science,proceeding::indonesian journal of electrical engineering and computer science::2019,HAS_EDITION
 conference::the superior journal of physical therapy and rehabilitation,proceeding::the superior journal of physical therapy and rehabilitation::2023,HAS_EDITION
 conference::2023 2nd international conference on edge computing and applications (icecaa),proceeding::2023 2nd international conference on edge computing and applications (icecaa)::2023,HAS_EDITION
@@ -267,25 +267,25 @@ conference::community-built databases,proceeding::community-built databases::201
 "conference::international conference on technological advances in electrical, electronics and computer engineering","proceeding::international conference on technological advances in electrical, electronics and computer engineering::2013",HAS_EDITION
 conference::high performance visualization,proceeding::high performance visualization::2012,HAS_EDITION
 conference::international journal of advanced computer science and applications,proceeding::international journal of advanced computer science and applications::2022,HAS_EDITION
-conference::international journal of advanced computer science and applications,proceeding::international workshop on data warehousing and olap::2013,HAS_EDITION
+workshop::international workshop on data warehousing and olap,proceeding::international workshop on data warehousing and olap::2013,HAS_EDITION
 conference::international conference on computational intelligence and communication networks,proceeding::international conference on computational intelligence and communication networks::2011,HAS_EDITION
-conference::international conference on computational intelligence and communication networks,proceeding::ieee workshop/winter conference on applications of computer vision::2017,HAS_EDITION
+workshop::ieee workshop/winter conference on applications of computer vision,proceeding::ieee workshop/winter conference on applications of computer vision::2017,HAS_EDITION
 conference::2024 international conference on automation and computation (autocom),proceeding::2024 international conference on automation and computation (autocom)::2024,HAS_EDITION
 conference::economics. law. innovaion,proceeding::economics. law. innovaion::2021,HAS_EDITION
 conference::international conference on artificial intelligence and soft computing,proceeding::international conference on artificial intelligence and soft computing::2023,HAS_EDITION
 "conference::conference, emerging information technology 2005.","proceeding::conference, emerging information technology 2005.::2005",HAS_EDITION
 conference::international conference on signals and electronic systems,proceeding::international conference on signals and electronic systems::2021,HAS_EDITION
 conference::research in international business and finance,proceeding::research in international business and finance::2023,HAS_EDITION
-conference::research in international business and finance,proceeding::acm international workshop on web information and data management::2003,HAS_EDITION
+workshop::acm international workshop on web information and data management,proceeding::acm international workshop on web information and data management::2003,HAS_EDITION
 conference::bulletin of the school of oriental and african studies,proceeding::bulletin of the school of oriental and african studies::1987,HAS_EDITION
-conference::bulletin of the school of oriental and african studies,proceeding::2010 second international workshop on education technology and computer science::2010,HAS_EDITION
+workshop::2010 second international workshop on education technology and computer science,proceeding::2010 second international workshop on education technology and computer science::2010,HAS_EDITION
 "conference::2023 international conference on research methodologies in knowledge management, artificial intelligence and telecommunication engineering (rmkmate)","proceeding::2023 international conference on research methodologies in knowledge management, artificial intelligence and telecommunication engineering (rmkmate)::2023",HAS_EDITION
 conference::bmc genomics,proceeding::bmc genomics::2015,HAS_EDITION
 conference::geoinformatics,proceeding::geoinformatics::2006,HAS_EDITION
 conference::journal of plant growth regulation,proceeding::journal of plant growth regulation::2015,HAS_EDITION
 conference::sankhya b,proceeding::sankhya b::2017,HAS_EDITION
 "conference::ideas: jurnal pendidikan, sosial, dan budaya","proceeding::ideas: jurnal pendidikan, sosial, dan budaya::2022",HAS_EDITION
-"conference::ideas: jurnal pendidikan, sosial, dan budaya","proceeding::proceedings of the first ieee international workshop on sensor network protocols and applications, 2003.::2003",HAS_EDITION
+"workshop::proceedings of the first ieee international workshop on sensor network protocols and applications, 2003.","proceeding::proceedings of the first ieee international workshop on sensor network protocols and applications, 2003.::2003",HAS_EDITION
 conference::biorxiv,proceeding::biorxiv::2021,HAS_EDITION
 conference::international journal of engineering and technology,proceeding::international journal of engineering and technology::2018,HAS_EDITION
 conference::international journal of vehicle systems modelling and testing,proceeding::international journal of vehicle systems modelling and testing::2020,HAS_EDITION
@@ -294,7 +294,7 @@ conference::perspectives on medical education,proceeding::perspectives on medica
 conference::moscow university geology bulletin,proceeding::moscow university geology bulletin::2016,HAS_EDITION
 conference::security and communication networks,proceeding::security and communication networks::2022,HAS_EDITION
 conference::stroke,proceeding::stroke::2023,HAS_EDITION
-conference::stroke,proceeding::1998 ieee second workshop on multimedia signal processing (cat. no.98ex175)::1998,HAS_EDITION
+workshop::1998 ieee second workshop on multimedia signal processing (cat. no.98ex175),proceeding::1998 ieee second workshop on multimedia signal processing (cat. no.98ex175)::1998,HAS_EDITION
 conference::ieee transactions on industry applications,proceeding::ieee transactions on industry applications::2010,HAS_EDITION
 conference::philosophical transactions of the royal society of london. series a: mathematical and physical sciences,proceeding::philosophical transactions of the royal society of london. series a: mathematical and physical sciences::1975,HAS_EDITION
 conference::fifth international conference on advanced robotics 'robots in unstructured environments,proceeding::fifth international conference on advanced robotics 'robots in unstructured environments::1991,HAS_EDITION
@@ -306,7 +306,7 @@ conference::wireless communications and mobile computing,proceeding::wireless co
 conference::pharmacoeconomics & outcomes news,proceeding::pharmacoeconomics & outcomes news::2017,HAS_EDITION
 conference::malaysian journal of learning & instruction,proceeding::malaysian journal of learning & instruction::2022,HAS_EDITION
 conference::international conference on crowd science and engineering,proceeding::international conference on crowd science and engineering::2014,HAS_EDITION
-conference::international conference on crowd science and engineering,proceeding::2010 ieee international conference on bioinformatics and biomedicine workshops (bibmw)::2010,HAS_EDITION
+workshop::2010 ieee international conference on bioinformatics and biomedicine workshops (bibmw),proceeding::2010 ieee international conference on bioinformatics and biomedicine workshops (bibmw)::2010,HAS_EDITION
 conference::matec web of conferences,proceeding::matec web of conferences::2019,HAS_EDITION
 conference::biorxiv,proceeding::biorxiv::2021,HAS_EDITION
 "conference::proceedings of the 2nd international conference on economy, management and entrepreneurship (icoeme 2019)","proceeding::proceedings of the 2nd international conference on economy, management and entrepreneurship (icoeme 2019)::2019",HAS_EDITION
@@ -319,12 +319,12 @@ conference::australian journal of agricultural and resource economics,proceeding
 conference::other conferences,proceeding::other conferences::2023,HAS_EDITION
 conference::computational continuum mechanics,proceeding::computational continuum mechanics::2020,HAS_EDITION
 conference::biorxiv,proceeding::biorxiv::2019,HAS_EDITION
-conference::biorxiv,proceeding::third international workshop on hardware/software codesign::1994,HAS_EDITION
+workshop::third international workshop on hardware/software codesign,proceeding::third international workshop on hardware/software codesign::1994,HAS_EDITION
 conference::2006 international telecommunications symposium,proceeding::2006 international telecommunications symposium::2006,HAS_EDITION
-conference::2006 international telecommunications symposium,proceeding::ieee international workshop on multimedia signal processing::2014,HAS_EDITION
+workshop::ieee international workshop on multimedia signal processing,proceeding::ieee international workshop on multimedia signal processing::2014,HAS_EDITION
 conference::medrxiv,proceeding::medrxiv::2021,HAS_EDITION
 conference::machines,proceeding::machines::2023,HAS_EDITION
-conference::machines,proceeding::2009 first workshop on hyperspectral image and signal processing: evolution in remote sensing::2009,HAS_EDITION
+workshop::2009 first workshop on hyperspectral image and signal processing: evolution in remote sensing,proceeding::2009 first workshop on hyperspectral image and signal processing: evolution in remote sensing::2009,HAS_EDITION
 conference::bmc neuroscience,proceeding::bmc neuroscience::2013,HAS_EDITION
 conference::journal of the geological society of india,proceeding::journal of the geological society of india::2014,HAS_EDITION
 "conference::proceedings of the 3rd international conference on public administration and governance, icopag 2024, 30 october 2024, malang, indonesia","proceeding::proceedings of the 3rd international conference on public administration and governance, icopag 2024, 30 october 2024, malang, indonesia::2025",HAS_EDITION
@@ -332,7 +332,7 @@ conference::earth system science data,proceeding::earth system science data::201
 conference::dharmas education journal (de_journal),proceeding::dharmas education journal (de_journal)::2021,HAS_EDITION
 conference::review of agricultural and applied economics,proceeding::review of agricultural and applied economics::2019,HAS_EDITION
 conference::journal of clinical and nursing research,proceeding::journal of clinical and nursing research::2022,HAS_EDITION
-conference::journal of clinical and nursing research,proceeding::2023 ieee/cvf conference on computer vision and pattern recognition workshops (cvprw)::2023,HAS_EDITION
+workshop::2023 ieee/cvf conference on computer vision and pattern recognition workshops (cvprw),proceeding::2023 ieee/cvf conference on computer vision and pattern recognition workshops (cvprw)::2023,HAS_EDITION
 "conference::international journal on advanced science, engineering and information technology","proceeding::international journal on advanced science, engineering and information technology::2021",HAS_EDITION
 conference::hernia,proceeding::hernia::2010,HAS_EDITION
 conference::inflammation,proceeding::inflammation::2011,HAS_EDITION
@@ -349,11 +349,11 @@ conference::ecoscience,proceeding::ecoscience::2018,HAS_EDITION
 conference::jurnal basis,proceeding::jurnal basis::2019,HAS_EDITION
 conference::public organization review,proceeding::public organization review::2020,HAS_EDITION
 conference::2023 international conference on self sustainable artificial intelligence systems (icssas),proceeding::2023 international conference on self sustainable artificial intelligence systems (icssas)::2023,HAS_EDITION
-conference::2023 international conference on self sustainable artificial intelligence systems (icssas),proceeding::2024 ieee international conference on communications workshops (icc workshops)::2024,HAS_EDITION
+workshop::2024 ieee international conference on communications workshops (icc workshops),proceeding::2024 ieee international conference on communications workshops (icc workshops)::2024,HAS_EDITION
 "conference::environment, development and sustainability","proceeding::environment, development and sustainability::2020",HAS_EDITION
 conference::proceedings of the royal society a,proceeding::proceedings of the royal society a::2008,HAS_EDITION
 conference::2019 international conference on intelligent informatics and biomedical sciences (iciibms),proceeding::2019 international conference on intelligent informatics and biomedical sciences (iciibms)::2019,HAS_EDITION
-conference::2019 international conference on intelligent informatics and biomedical sciences (iciibms),proceeding::international workshop on complex networks & their applications::2020,HAS_EDITION
+workshop::international workshop on complex networks & their applications,proceeding::international workshop on complex networks & their applications::2020,HAS_EDITION
 conference::journal of economic inequality,proceeding::journal of economic inequality::2017,HAS_EDITION
 conference::journal of cardiac failure,proceeding::journal of cardiac failure::2019,HAS_EDITION
 conference::indonesian journal of electrical engineering and computer science,proceeding::indonesian journal of electrical engineering and computer science::2019,HAS_EDITION
@@ -374,7 +374,7 @@ conference::journal of solution chemistry,proceeding::journal of solution chemis
 conference::agricultural economics (zemědělská ekonomika),proceeding::agricultural economics (zemědělská ekonomika)::2018,HAS_EDITION
 conference::applied physics a,proceeding::applied physics a::2016,HAS_EDITION
 conference::spie optics + photonics,proceeding::spie optics + photonics::2006,HAS_EDITION
-conference::spie optics + photonics,proceeding::2019 asee zone i conference &amp; workshop proceedings::2019,HAS_EDITION
+workshop::2019 asee zone i conference &amp; workshop proceedings,proceeding::2019 asee zone i conference &amp; workshop proceedings::2019,HAS_EDITION
 conference::cartography and geographic information science,proceeding::cartography and geographic information science::2022,HAS_EDITION
 conference::jurnal unitek,proceeding::jurnal unitek::2022,HAS_EDITION
 conference::parent training for disruptive behavior,proceeding::parent training for disruptive behavior::2018,HAS_EDITION
@@ -386,7 +386,7 @@ conference::regional geology reviews,proceeding::regional geology reviews::2019,
 "conference::ubiquitous computing, electronics & mobile communication conference","proceeding::ubiquitous computing, electronics & mobile communication conference::2025",HAS_EDITION
 conference::ekonomika a spoločnosť,proceeding::ekonomika a spoločnosť::2022,HAS_EDITION
 conference::turkish journal of agriculture - food science and technology,proceeding::turkish journal of agriculture - food science and technology::2021,HAS_EDITION
-conference::turkish journal of agriculture - food science and technology,proceeding::workshop on cognitive aspects of the lexicon::2024,HAS_EDITION
+workshop::workshop on cognitive aspects of the lexicon,proceeding::workshop on cognitive aspects of the lexicon::2024,HAS_EDITION
 conference::geophysics,proceeding::geophysics::2018,HAS_EDITION
 conference::loughborough antennas and propagation conference,proceeding::loughborough antennas and propagation conference::2010,HAS_EDITION
 conference::medical mycology,proceeding::medical mycology::2022,HAS_EDITION
@@ -467,7 +467,7 @@ conference::lecture notes in electrical engineering,proceeding::lecture notes in
 conference::frontiers of chemical science and engineering,proceeding::frontiers of chemical science and engineering::2022,HAS_EDITION
 conference::critical social policy,proceeding::critical social policy::2019,HAS_EDITION
 conference::journal of physics: conference series,proceeding::journal of physics: conference series::2021,HAS_EDITION
-conference::journal of physics: conference series,proceeding::2016 30th international conference on advanced information networking and applications workshops (waina)::2016,HAS_EDITION
+workshop::2016 30th international conference on advanced information networking and applications workshops (waina),proceeding::2016 30th international conference on advanced information networking and applications workshops (waina)::2016,HAS_EDITION
 "conference::2022 international conference on intelligent technology, system and service for internet of everything (itss-ioe)","proceeding::2022 international conference on intelligent technology, system and service for internet of everything (itss-ioe)::2022",HAS_EDITION
 conference::international conference computing methodologies and communication,proceeding::international conference computing methodologies and communication::2020,HAS_EDITION
 conference::applied sciences,proceeding::applied sciences::2018,HAS_EDITION
@@ -521,15 +521,15 @@ conference::journal of computer science,proceeding::journal of computer science:
 conference::headache,proceeding::headache::2014,HAS_EDITION
 conference::international journal of innovative technology and exploring engineering,proceeding::international journal of innovative technology and exploring engineering::2020,HAS_EDITION
 "conference::ieee symposium on business, engineering and industrial applications","proceeding::ieee symposium on business, engineering and industrial applications::2011",HAS_EDITION
-"conference::ieee symposium on business, engineering and industrial applications",proceeding::2024 ivannikov memorial workshop (ivmem)::2024,HAS_EDITION
+workshop::2024 ivannikov memorial workshop (ivmem),proceeding::2024 ivannikov memorial workshop (ivmem)::2024,HAS_EDITION
 conference::social science research network,proceeding::social science research network::2019,HAS_EDITION
 conference::international conference on electrical engineering and informatics,proceeding::international conference on electrical engineering and informatics::2017,HAS_EDITION
 conference::muhammadiyah international public health and medicine proceeding,proceeding::muhammadiyah international public health and medicine proceeding::2021,HAS_EDITION
 conference::engineering headway,proceeding::engineering headway::2026,HAS_EDITION
-conference::engineering headway,proceeding::aina workshops::2019,HAS_EDITION
+workshop::aina workshops,proceeding::aina workshops::2019,HAS_EDITION
 conference::jurnal ilmiah teunuleh,proceeding::jurnal ilmiah teunuleh::2021,HAS_EDITION
 conference::2023 international conference on artificial intelligence for innovations in healthcare industries (icaiihi),proceeding::2023 international conference on artificial intelligence for innovations in healthcare industries (icaiihi)::2023,HAS_EDITION
-conference::2023 international conference on artificial intelligence for innovations in healthcare industries (icaiihi),"proceeding::proceedings of the proceedings of 1st workshop on environmental science, society, and technology, westech 2018, december 8th, 2018, medan, indonesia::2019",HAS_EDITION
+"workshop::proceedings of the proceedings of 1st workshop on environmental science, society, and technology, westech 2018, december 8th, 2018, medan, indonesia","proceeding::proceedings of the proceedings of 1st workshop on environmental science, society, and technology, westech 2018, december 8th, 2018, medan, indonesia::2019",HAS_EDITION
 conference::2021 international conference on big data analysis and computer science (bdacs),proceeding::2021 international conference on big data analysis and computer science (bdacs)::2021,HAS_EDITION
 conference::2020 6th international conference on big data and information analytics (bigdia),proceeding::2020 6th international conference on big data and information analytics (bigdia)::2020,HAS_EDITION
 conference::ieee conference on industrial electronics and applications,proceeding::ieee conference on industrial electronics and applications::2007,HAS_EDITION
@@ -538,10 +538,10 @@ conference::grenek music journal,proceeding::grenek music journal::2018,HAS_EDIT
 conference::synthesis lectures on communications,proceeding::synthesis lectures on communications::2012,HAS_EDITION
 conference::international journal of electrical and computer engineering (ijece),proceeding::international journal of electrical and computer engineering (ijece)::2021,HAS_EDITION
 conference::social science research network,proceeding::social science research network::2014,HAS_EDITION
-conference::social science research network,proceeding::anais do brazilian e-science workshop (bresci)::2018,HAS_EDITION
+workshop::anais do brazilian e-science workshop (bresci),proceeding::anais do brazilian e-science workshop (bresci)::2018,HAS_EDITION
 conference::tecciencia,proceeding::tecciencia::2020,HAS_EDITION
 conference::international conference civil engineering and architecture,proceeding::international conference civil engineering and architecture::2024,HAS_EDITION
-conference::international conference civil engineering and architecture,proceeding::2022 moscow workshop on electronic and networking technologies (mwent)::2022,HAS_EDITION
+workshop::2022 moscow workshop on electronic and networking technologies (mwent),proceeding::2022 moscow workshop on electronic and networking technologies (mwent)::2022,HAS_EDITION
 "conference::2018 international conference on information , communication, engineering and technology (icicet)","proceeding::2018 international conference on information , communication, engineering and technology (icicet)::2018",HAS_EDITION
 conference::smart,proceeding::smart::2016,HAS_EDITION
 conference::international journal of emerging trends in social sciences,proceeding::international journal of emerging trends in social sciences::2019,HAS_EDITION
@@ -580,10 +580,10 @@ conference::international conference on information control systems & technologi
 conference::ieee transactions on industrial informatics,proceeding::ieee transactions on industrial informatics::2021,HAS_EDITION
 conference::discover food,proceeding::discover food::2024,HAS_EDITION
 conference::other conferences,proceeding::other conferences::2024,HAS_EDITION
-conference::other conferences,proceeding::international workshop on signal processing advances in wireless communications::2023,HAS_EDITION
+workshop::international workshop on signal processing advances in wireless communications,proceeding::international workshop on signal processing advances in wireless communications::2023,HAS_EDITION
 "conference::convergence of blockchain, ai, and iot","proceeding::convergence of blockchain, ai, and iot::2021",HAS_EDITION
 conference::international conference on big data computing service and applications,proceeding::international conference on big data computing service and applications::2022,HAS_EDITION
-conference::international conference on big data computing service and applications,proceeding::2015 ieee international conference on data mining workshop (icdmw)::2015,HAS_EDITION
+workshop::2015 ieee international conference on data mining workshop (icdmw),proceeding::2015 ieee international conference on data mining workshop (icdmw)::2015,HAS_EDITION
 conference::philosophical literary journal logos,proceeding::philosophical literary journal logos::2022,HAS_EDITION
 conference::inovasi manajemen dan kebijakan publik,proceeding::inovasi manajemen dan kebijakan publik::2020,HAS_EDITION
 conference::other conferences,proceeding::other conferences::2024,HAS_EDITION
@@ -608,7 +608,7 @@ conference::مجلة الجمعیة المصریة لنظم المعلومات �
 conference::digital technologies and applications,proceeding::digital technologies and applications::2021,HAS_EDITION
 conference::visión electrónica,proceeding::visión electrónica::2019,HAS_EDITION
 conference::advances in civil and industrial engineering,proceeding::advances in civil and industrial engineering::2019,HAS_EDITION
-conference::advances in civil and industrial engineering,proceeding::2016 ieee/acm 2nd international workshop on big data software engineering (bigdse)::2016,HAS_EDITION
+workshop::2016 ieee/acm 2nd international workshop on big data software engineering (bigdse),proceeding::2016 ieee/acm 2nd international workshop on big data software engineering (bigdse)::2016,HAS_EDITION
 conference::international conference on applications and techniques in cyber intelligence,proceeding::international conference on applications and techniques in cyber intelligence::2021,HAS_EDITION
 "conference::saturday, 16 june 2018","proceeding::saturday, 16 june 2018::2018",HAS_EDITION
 conference::vnu journal of science computer science and communication engineering,proceeding::vnu journal of science computer science and communication engineering::2021,HAS_EDITION
@@ -664,7 +664,6 @@ conference::journal of korea research association of international commerce,proc
 "conference::2017 3rd international conference on control, automation and robotics (iccar)","proceeding::2017 3rd international conference on control, automation and robotics (iccar)::2017",HAS_EDITION
 conference::sustainability,proceeding::sustainability::2022,HAS_EDITION
 conference::2025 international conference on computing technologies & data communication (icctdc),proceeding::2025 international conference on computing technologies & data communication (icctdc)::2025,HAS_EDITION
-conference::library hi tech news,proceeding::library hi tech news::2019,HAS_EDITION
 "conference::international journal of business, management and economics","proceeding::international journal of business, management and economics::2021",HAS_EDITION
 conference::molecular and cellular biology / genetics,proceeding::molecular and cellular biology / genetics::2019,HAS_EDITION
 conference::journal für verbraucherschütz und lebensmittelsicherheit,proceeding::journal für verbraucherschütz und lebensmittelsicherheit::2010,HAS_EDITION
@@ -691,7 +690,7 @@ conference::optoelectronics letters,proceeding::optoelectronics letters::2016,HA
 conference::international conference on industrial technology,proceeding::international conference on industrial technology::2015,HAS_EDITION
 conference::in the shadow of the epidemic,proceeding::in the shadow of the epidemic::2020,HAS_EDITION
 conference::scientific investigations report,proceeding::scientific investigations report::2020,HAS_EDITION
-conference::scientific investigations report,proceeding::european workshop on optical fibre sensors::2016,HAS_EDITION
+workshop::european workshop on optical fibre sensors,proceeding::european workshop on optical fibre sensors::2016,HAS_EDITION
 conference::chen yi,proceeding::chen yi::2020,HAS_EDITION
 conference::journal of high energy physics,proceeding::journal of high energy physics::2017,HAS_EDITION
 conference::iop conference series: materials science and engineering,proceeding::iop conference series: materials science and engineering::2018,HAS_EDITION
@@ -729,7 +728,7 @@ conference::revista tecnología en marcha,proceeding::revista tecnología en mar
 conference::revista bibliomar,proceeding::revista bibliomar::2021,HAS_EDITION
 conference::medical herald of the south of russia,proceeding::medical herald of the south of russia::2019,HAS_EDITION
 conference::journal of physics: conference series,proceeding::journal of physics: conference series::2020,HAS_EDITION
-conference::journal of physics: conference series,proceeding::2009 ieee globecom workshops::2009,HAS_EDITION
+workshop::2009 ieee globecom workshops,proceeding::2009 ieee globecom workshops::2009,HAS_EDITION
 conference::progress in electromagnetics research letters,proceeding::progress in electromagnetics research letters::2020,HAS_EDITION
 conference::journal of food measurement & characterization,proceeding::journal of food measurement & characterization::2022,HAS_EDITION
 conference::medrxiv,proceeding::medrxiv::2020,HAS_EDITION

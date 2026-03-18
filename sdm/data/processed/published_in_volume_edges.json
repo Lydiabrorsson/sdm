@@ -5570,6 +5570,11 @@
     "type": "PUBLISHED_IN"
   },
   {
+    "from": "0005ab8a1020ae3722355a5b3bd045327cca8d2a",
+    "to": "volume::rmd open::2026",
+    "type": "PUBLISHED_IN"
+  },
+  {
     "from": "0005b1e1abdfc16b6667354ac6a06e04e759cce8",
     "to": "volume::physical review b (condensed matter)::1996",
     "type": "PUBLISHED_IN"
@@ -7442,6 +7447,11 @@
   {
     "from": "0072e80066b5e342f4aca3635a4bd820f4927680",
     "to": "volume::materia socio-medica::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0072f0d2abef12f3153106bacfc1579c1e9d5612",
+    "to": "volume::journal of applied economic sciences::2026",
     "type": "PUBLISHED_IN"
   },
   {

@@ -35,7 +35,7 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::2025 5th international conference on innovative research in applied science, engineering and technology (iraset)",
+    "from": "workshop::2014 ieee international conference on pervasive computing and communication workshops (percom workshops)",
     "to": "proceeding::2014 ieee international conference on pervasive computing and communication workshops (percom workshops)::2014",
     "type": "HAS_EDITION"
   },
@@ -225,7 +225,7 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::lecture notes in computer science",
+    "from": "workshop::2009 ieee international symposium on a world of wireless, mobile and multimedia networks & workshops",
     "to": "proceeding::2009 ieee international symposium on a world of wireless, mobile and multimedia networks & workshops::2009",
     "type": "HAS_EDITION"
   },
@@ -265,7 +265,7 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::proceedings of the 6th international conference on management science and management innovation (msmi 2019)",
+    "from": "workshop::international workshop on quality of service",
     "to": "proceeding::international workshop on quality of service::2010",
     "type": "HAS_EDITION"
   },
@@ -605,7 +605,7 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::proceedings of the international academic conference on frontiers in social sciences and management innovation (iafsm 2019)",
+    "from": "workshop::proceedings of the 29th eg-ice international workshop on intelligent computing in engineering",
     "to": "proceeding::proceedings of the 29th eg-ice international workshop on intelligent computing in engineering::2022",
     "type": "HAS_EDITION"
   },
@@ -910,7 +910,7 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::ieee india conference",
+    "from": "workshop::international workshop on the semantic web",
     "to": "proceeding::international workshop on the semantic web::2013",
     "type": "HAS_EDITION"
   },
@@ -930,12 +930,12 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::world congress on information and communication technologies",
+    "from": "workshop::international workshop on databases, information systems, and peer-to-peer computing",
     "to": "proceeding::international workshop on databases, information systems, and peer-to-peer computing::2005",
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::world congress on information and communication technologies",
+    "from": "workshop::icpr workshops",
     "to": "proceeding::icpr workshops::2021",
     "type": "HAS_EDITION"
   },
@@ -945,27 +945,27 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::international conference on advances in ict for emerging regions",
+    "from": "workshop::acm sigspatial international workshop on advances in geographic information systems",
     "to": "proceeding::acm sigspatial international workshop on advances in geographic information systems::2011",
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::international conference on advances in ict for emerging regions",
+    "from": "workshop::international workshop on semantic evaluation",
     "to": "proceeding::international workshop on semantic evaluation::2022",
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::international conference on advances in ict for emerging regions",
+    "from": "workshop::2007 ieee international workshop on databases for next generation researchers",
     "to": "proceeding::2007 ieee international workshop on databases for next generation researchers::2007",
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::international conference on advances in ict for emerging regions",
+    "from": "workshop::acm sigspatial international workshop on advances in geographic information systems",
     "to": "proceeding::acm sigspatial international workshop on advances in geographic information systems::2002",
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::international conference on advances in ict for emerging regions",
+    "from": "workshop::workshop on computational geometry",
     "to": "proceeding::workshop on computational geometry::1991",
     "type": "HAS_EDITION"
   },
@@ -990,7 +990,7 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::biodiversity information science and standards",
+    "from": "workshop::2014 ieee international conference on data mining workshop",
     "to": "proceeding::2014 ieee international conference on data mining workshop::2014",
     "type": "HAS_EDITION"
   },
@@ -1030,7 +1030,7 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::proceedings of the sriwijaya international conference on information technology and its applications (siconian 2019)",
+    "from": "workshop::proceedings of 7th international conference and workshop on database and expert systems applications: dexa 96",
     "to": "proceeding::proceedings of 7th international conference and workshop on database and expert systems applications: dexa 96::1996",
     "type": "HAS_EDITION"
   },
@@ -1055,7 +1055,7 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::proceedings. the ieee 5th international conference on intelligent transportation systems",
+    "from": "workshop::2012 second international workshop on developing tools as plug-ins (topi)",
     "to": "proceeding::2012 second international workshop on developing tools as plug-ins (topi)::2012",
     "type": "HAS_EDITION"
   },
@@ -1075,7 +1075,7 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::journal of clinical oncology",
+    "from": "workshop::proceedings of the 4th international workshop on knowledge-augmented methods for natural language processing",
     "to": "proceeding::proceedings of the 4th international workshop on knowledge-augmented methods for natural language processing::2025",
     "type": "HAS_EDITION"
   },
@@ -1120,7 +1120,7 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::2021 ieee international conference on artificial intelligence and computer applications (icaica)",
+    "from": "workshop::acm sigspatial international workshop on advances in geographic information systems",
     "to": "proceeding::acm sigspatial international workshop on advances in geographic information systems::1998",
     "type": "HAS_EDITION"
   },
@@ -1165,12 +1165,12 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::2022 global reliability and prognostics and health management (phm-yantai)",
+    "from": "workshop::2011 ieee international conference on bioinformatics and biomedicine workshops (bibmw)",
     "to": "proceeding::2011 ieee international conference on bioinformatics and biomedicine workshops (bibmw)::2011",
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::2022 global reliability and prognostics and health management (phm-yantai)",
+    "from": "workshop::proceedings. tenth international workshop on database and expert systems applications. dexa 99",
     "to": "proceeding::proceedings. tenth international workshop on database and expert systems applications. dexa 99::1999",
     "type": "HAS_EDITION"
   },
@@ -1190,7 +1190,7 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::ankara hacı bayram veli üniversitesi i̇ktisadi ve i̇dari bilimler fakültesi dergisi",
+    "from": "workshop::international workshop on document analysis systems",
     "to": "proceeding::international workshop on document analysis systems::2016",
     "type": "HAS_EDITION"
   },
@@ -1210,7 +1210,7 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::asset analytics",
+    "from": "workshop::international workshop on multiple classifier systems",
     "to": "proceeding::international workshop on multiple classifier systems::2010",
     "type": "HAS_EDITION"
   },
@@ -1230,7 +1230,7 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::ieee joint international information technology and artificial intelligence conference",
+    "from": "workshop::otm workshops",
     "to": "proceeding::otm workshops::2004",
     "type": "HAS_EDITION"
   },
@@ -1290,7 +1290,7 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::frontiers in education conference",
+    "from": "workshop::east/west database workshop",
     "to": "proceeding::east/west database workshop::1990",
     "type": "HAS_EDITION"
   },
@@ -1300,7 +1300,7 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::defense + commercial sensing",
+    "from": "workshop::international workshop on the semantic web",
     "to": "proceeding::international workshop on the semantic web::2008",
     "type": "HAS_EDITION"
   },
@@ -1340,7 +1340,7 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::international journal of advanced computer science and applications",
+    "from": "workshop::international workshop on data warehousing and olap",
     "to": "proceeding::international workshop on data warehousing and olap::2013",
     "type": "HAS_EDITION"
   },
@@ -1350,7 +1350,7 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::international conference on computational intelligence and communication networks",
+    "from": "workshop::ieee workshop/winter conference on applications of computer vision",
     "to": "proceeding::ieee workshop/winter conference on applications of computer vision::2017",
     "type": "HAS_EDITION"
   },
@@ -1385,7 +1385,7 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::research in international business and finance",
+    "from": "workshop::acm international workshop on web information and data management",
     "to": "proceeding::acm international workshop on web information and data management::2003",
     "type": "HAS_EDITION"
   },
@@ -1395,7 +1395,7 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::bulletin of the school of oriental and african studies",
+    "from": "workshop::2010 second international workshop on education technology and computer science",
     "to": "proceeding::2010 second international workshop on education technology and computer science::2010",
     "type": "HAS_EDITION"
   },
@@ -1430,7 +1430,7 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::ideas: jurnal pendidikan, sosial, dan budaya",
+    "from": "workshop::proceedings of the first ieee international workshop on sensor network protocols and applications, 2003.",
     "to": "proceeding::proceedings of the first ieee international workshop on sensor network protocols and applications, 2003.::2003",
     "type": "HAS_EDITION"
   },
@@ -1475,7 +1475,7 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::stroke",
+    "from": "workshop::1998 ieee second workshop on multimedia signal processing (cat. no.98ex175)",
     "to": "proceeding::1998 ieee second workshop on multimedia signal processing (cat. no.98ex175)::1998",
     "type": "HAS_EDITION"
   },
@@ -1535,7 +1535,7 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::international conference on crowd science and engineering",
+    "from": "workshop::2010 ieee international conference on bioinformatics and biomedicine workshops (bibmw)",
     "to": "proceeding::2010 ieee international conference on bioinformatics and biomedicine workshops (bibmw)::2010",
     "type": "HAS_EDITION"
   },
@@ -1600,7 +1600,7 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::biorxiv",
+    "from": "workshop::third international workshop on hardware/software codesign",
     "to": "proceeding::third international workshop on hardware/software codesign::1994",
     "type": "HAS_EDITION"
   },
@@ -1610,7 +1610,7 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::2006 international telecommunications symposium",
+    "from": "workshop::ieee international workshop on multimedia signal processing",
     "to": "proceeding::ieee international workshop on multimedia signal processing::2014",
     "type": "HAS_EDITION"
   },
@@ -1625,7 +1625,7 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::machines",
+    "from": "workshop::2009 first workshop on hyperspectral image and signal processing: evolution in remote sensing",
     "to": "proceeding::2009 first workshop on hyperspectral image and signal processing: evolution in remote sensing::2009",
     "type": "HAS_EDITION"
   },
@@ -1665,7 +1665,7 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::journal of clinical and nursing research",
+    "from": "workshop::2023 ieee/cvf conference on computer vision and pattern recognition workshops (cvprw)",
     "to": "proceeding::2023 ieee/cvf conference on computer vision and pattern recognition workshops (cvprw)::2023",
     "type": "HAS_EDITION"
   },
@@ -1750,7 +1750,7 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::2023 international conference on self sustainable artificial intelligence systems (icssas)",
+    "from": "workshop::2024 ieee international conference on communications workshops (icc workshops)",
     "to": "proceeding::2024 ieee international conference on communications workshops (icc workshops)::2024",
     "type": "HAS_EDITION"
   },
@@ -1770,7 +1770,7 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::2019 international conference on intelligent informatics and biomedical sciences (iciibms)",
+    "from": "workshop::international workshop on complex networks & their applications",
     "to": "proceeding::international workshop on complex networks & their applications::2020",
     "type": "HAS_EDITION"
   },
@@ -1875,7 +1875,7 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::spie optics + photonics",
+    "from": "workshop::2019 asee zone i conference &amp; workshop proceedings",
     "to": "proceeding::2019 asee zone i conference &amp; workshop proceedings::2019",
     "type": "HAS_EDITION"
   },
@@ -1935,7 +1935,7 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::turkish journal of agriculture - food science and technology",
+    "from": "workshop::workshop on cognitive aspects of the lexicon",
     "to": "proceeding::workshop on cognitive aspects of the lexicon::2024",
     "type": "HAS_EDITION"
   },
@@ -2340,7 +2340,7 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::journal of physics: conference series",
+    "from": "workshop::2016 30th international conference on advanced information networking and applications workshops (waina)",
     "to": "proceeding::2016 30th international conference on advanced information networking and applications workshops (waina)::2016",
     "type": "HAS_EDITION"
   },
@@ -2610,7 +2610,7 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::ieee symposium on business, engineering and industrial applications",
+    "from": "workshop::2024 ivannikov memorial workshop (ivmem)",
     "to": "proceeding::2024 ivannikov memorial workshop (ivmem)::2024",
     "type": "HAS_EDITION"
   },
@@ -2635,7 +2635,7 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::engineering headway",
+    "from": "workshop::aina workshops",
     "to": "proceeding::aina workshops::2019",
     "type": "HAS_EDITION"
   },
@@ -2650,7 +2650,7 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::2023 international conference on artificial intelligence for innovations in healthcare industries (icaiihi)",
+    "from": "workshop::proceedings of the proceedings of 1st workshop on environmental science, society, and technology, westech 2018, december 8th, 2018, medan, indonesia",
     "to": "proceeding::proceedings of the proceedings of 1st workshop on environmental science, society, and technology, westech 2018, december 8th, 2018, medan, indonesia::2019",
     "type": "HAS_EDITION"
   },
@@ -2695,7 +2695,7 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::social science research network",
+    "from": "workshop::anais do brazilian e-science workshop (bresci)",
     "to": "proceeding::anais do brazilian e-science workshop (bresci)::2018",
     "type": "HAS_EDITION"
   },
@@ -2710,7 +2710,7 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::international conference civil engineering and architecture",
+    "from": "workshop::2022 moscow workshop on electronic and networking technologies (mwent)",
     "to": "proceeding::2022 moscow workshop on electronic and networking technologies (mwent)::2022",
     "type": "HAS_EDITION"
   },
@@ -2905,7 +2905,7 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::other conferences",
+    "from": "workshop::international workshop on signal processing advances in wireless communications",
     "to": "proceeding::international workshop on signal processing advances in wireless communications::2023",
     "type": "HAS_EDITION"
   },
@@ -2920,7 +2920,7 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::international conference on big data computing service and applications",
+    "from": "workshop::2015 ieee international conference on data mining workshop (icdmw)",
     "to": "proceeding::2015 ieee international conference on data mining workshop (icdmw)::2015",
     "type": "HAS_EDITION"
   },
@@ -3045,7 +3045,7 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::advances in civil and industrial engineering",
+    "from": "workshop::2016 ieee/acm 2nd international workshop on big data software engineering (bigdse)",
     "to": "proceeding::2016 ieee/acm 2nd international workshop on big data software engineering (bigdse)::2016",
     "type": "HAS_EDITION"
   },
@@ -3325,11 +3325,6 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::library hi tech news",
-    "to": "proceeding::library hi tech news::2019",
-    "type": "HAS_EDITION"
-  },
-  {
     "from": "conference::international journal of business, management and economics",
     "to": "proceeding::international journal of business, management and economics::2021",
     "type": "HAS_EDITION"
@@ -3460,7 +3455,7 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::scientific investigations report",
+    "from": "workshop::european workshop on optical fibre sensors",
     "to": "proceeding::european workshop on optical fibre sensors::2016",
     "type": "HAS_EDITION"
   },
@@ -3650,7 +3645,7 @@
     "type": "HAS_EDITION"
   },
   {
-    "from": "conference::journal of physics: conference series",
+    "from": "workshop::2009 ieee globecom workshops",
     "to": "proceeding::2009 ieee globecom workshops::2009",
     "type": "HAS_EDITION"
   },

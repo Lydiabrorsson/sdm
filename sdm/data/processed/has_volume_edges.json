@@ -5290,6 +5290,11 @@
     "type": "HAS_VOLUME"
   },
   {
+    "from": "journal::rmd open",
+    "to": "volume::rmd open::2026",
+    "type": "HAS_VOLUME"
+  },
+  {
     "from": "journal::physical review b (condensed matter)",
     "to": "volume::physical review b (condensed matter)::1996",
     "type": "HAS_VOLUME"
@@ -7007,6 +7012,11 @@
   {
     "from": "journal::materia socio-medica",
     "to": "volume::materia socio-medica::2021",
+    "type": "HAS_VOLUME"
+  },
+  {
+    "from": "journal::journal of applied economic sciences",
+    "to": "volume::journal of applied economic sciences::2026",
     "type": "HAS_VOLUME"
   },
   {

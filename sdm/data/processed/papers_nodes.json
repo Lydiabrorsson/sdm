@@ -100,7 +100,7 @@
     "title": "National Emergency Resuscitation Airway Audit (NERAA): a pilot multicentre analysis of emergency intubations in Irish emergency departments",
     "year": 2022,
     "abstract": "Background There is paucity of literature on why and how patients are intubated, and by whom, in Irish Emergency Departments (EDs). The aim of this pilot study was to characterise emergency airway management (EAM) of critically unwell patients presenting to Irish EDs. Methods A multisite prospective pilot study was undertaken from February 10 to May 10, 2020. This project was facilitated through the Irish Trainee Emergency Research Network (ITERN). All patients over 16 years of age requiring EAM were included. Eleven EDs participated in the project. Data recorded included patients’ demographics, indication for intubation, technique of airway management, medications used to facilitate intubation, level of training and specialty of the intubating clinician, number of attempts, success/complications rates and variation across centres. Results Over a 3-month period, 118 patients underwent 131 intubation attempts across 11 EDs. The median age was 57 years (IQR: 40–70). Medical indications were reported in 83% of patients compared to 17% for trauma. Of the 118 patients intubated, Emergency Medicine (EM) doctors performed 54% of initial intubations, while anaesthesiology/intensive care medicine (ICM) doctors performed 46%. The majority (90%) of intubating clinicians were at registrar level. Emergency intubation check lists, video laryngoscopy and bougie were used in 55, 53 and 64% of first attempts, respectively. The first pass success rate was 89%. Intubation complications occurred in 19% of patients. EM doctors undertook a greater proportion of intubations in EDs with > 50,000 attendance (65%) compared to EDs with < 50,000 attendances (16%) ( p  < 0.000). Conclusion This is the first study to describe EAM in Irish EDs, and demonstrates comparable first pass success and complication rates to international studies. This study highlights the need for continuous EAM surveillance and could provide a vector for developing national standards for EAM and EAM training in Irish EDs.",
-    "citationCount": 7,
+    "citationCount": 8,
     "doi": "10.1186/s12873-022-00644-2"
   },
   {
@@ -2188,7 +2188,7 @@
     "title": "Pengaruh Keterampilan Manajerial Kepala Sekolah Dan Peran Komite Terhadap Efektivitas Manajemen Berbasis Sekolah",
     "year": 2021,
     "abstract": "School-based management is a form of autonomy in education management in educational units, in which case the principal or madrasah and teachers are assisted by the school committee or madrasah in managing educational activities. The purpose of this study, among others, was to determine and analyze the variables of managerial skills of school principals and school committees that influence the effectiveness of school-based management in SD Negeri Se-Karangrejo District. The research method was carried out with an explanatory quantitative design. The data collection technique was carried out by using a questionnaire before the level of validity and reliability had been tested on 60 respondents as the sample in this study. The collected data were then analyzed using multiple linear regression tests with the help of SPSS version 17.0 software. The results showed that (1) descriptively the effectiveness of SBM in good categories, managerial skills of school principals and the role of school committees in good categories, (2) there was a positive and significant influence between principal managerial skills on the effectiveness of SBM by 56.8%, (3) there was a positive and significant role of the school committee on the effectiveness of SBM by 36.8%, (4) there was a positive and significant influence on the managerial skills of school principals and the role of school committees together on the effectiveness of SBM by 63.3%. (5) Between the two independent variables, the managerial skills of school principals had a dominant influence on the effectiveness of SBM",
-    "citationCount": 17,
+    "citationCount": 18,
     "doi": "10.31004/BASICEDU.V5I3.970"
   },
   {
@@ -2644,7 +2644,7 @@
     "title": "Behaviour model for diabetic ulcer prevention",
     "year": 2020,
     "abstract": null,
-    "citationCount": 27,
+    "citationCount": 28,
     "doi": "10.1007/s40200-019-00484-1"
   },
   {
@@ -5060,7 +5060,7 @@
     "title": "The Algorithmic Foundations of Differential Privacy",
     "year": 2014,
     "abstract": null,
-    "citationCount": 8919,
+    "citationCount": 8923,
     "doi": "10.1561/0400000042"
   },
   {
@@ -5196,7 +5196,7 @@
     "title": "Cytoscape: a software environment for integrated models of biomolecular interaction networks.",
     "year": 2003,
     "abstract": "Cytoscape is an open source software project for integrating biomolecular interaction networks with high-throughput expression data and other molecular states into a unified conceptual framework. Although applicable to any system of molecular components and interactions, Cytoscape is most powerful when used in conjunction with large databases of protein-protein, protein-DNA, and genetic interactions that are increasingly available for humans and model organisms. Cytoscape's software Core provides basic functionality to layout and query the network; to visually integrate the network with expression profiles, phenotypes, and other molecular states; and to link the network to databases of functional annotations. The Core is extensible through a straightforward plug-in architecture, allowing rapid development of additional computational analyses and features. Several case studies of Cytoscape plug-ins are surveyed, including a search for interaction pathways correlating with changes in gene expression, a study of protein complexes involved in cellular recovery to DNA damage, inference of a combined physical/functional interaction network for Halobacterium, and an interface to detailed stochastic/kinetic gene regulatory models.",
-    "citationCount": 44184,
+    "citationCount": 44188,
     "doi": "10.1101/GR.1239303"
   },
   {
@@ -6164,7 +6164,7 @@
     "title": "Adaptive Multi-Model Reinforcement Learning for Online Database Tuning",
     "year": 2021,
     "abstract": null,
-    "citationCount": 10,
+    "citationCount": 11,
     "doi": "10.5441/002/edbt.2021.48"
   },
   {
@@ -7116,7 +7116,7 @@
     "title": "The Snowflake Elastic Data Warehouse",
     "year": 2016,
     "abstract": null,
-    "citationCount": 363,
+    "citationCount": 364,
     "doi": "10.1145/2882903.2903741"
   },
   {
@@ -7764,7 +7764,7 @@
     "title": "Colorectal cancer cells from patients treated with FOLFOX or CAPOX are resistant to oxaliplatin.",
     "year": 2020,
     "abstract": "BACKGROUND\nNumerous studies have suggested benefit for heated intraperitoneal chemotherapy (HIPEC) in the treatment of peritoneal metastases from colon cancer. However, the PRODIGE 7 trial that randomized 265 colon cancer patients to surgery plus HIPEC vs. surgery alone after neoadjuvant chemotherapy (NACT) did not confirm benefit. These data were published as an abstract and not as a peer-reviewed manuscript. One concern is that prior drug exposure may select for drug resistance and blunt HIPEC efficacy.\n\n\nMETHODS\nA database query identified colon cancer specimens evaluated for chemotherapy sensitivity by ex-vivo analysis of programmed cell death (EVA/PCD), a primary culture platform that examines drug-induced cell death (apoptotic & non-apoptotic) by morphologic, metabolic and histologic endpoints.\n\n\nRESULTS\nOf 87 fresh colon cancer specimens, 54 (62%) were untreated and 33 (38%) had received prior folinic acid, 5-fluorouracil, oxaliplatin (FOLFOX) or capecitabine and oxaliplatin (CAPOX). In an apoptosis assay, the lethal concentration of 50% (LC50) in untreated patients was significantly lower than in patients treated by FOLFOX (p = 0.002). Then to approximate PRODIGE 7, treated patients were separated by having received oxaliplatin treatment less than or greater than 2 months before EVA/PCD analysis. The degree of resistance increasing significantly for patients who received treatment less than 2 months prior to EVA/PCD (p < 0.002). Activity for mitomycin and irinotecan was not significantly different for untreated vs. treated patients, but 5-FU was more resistant (P = 0.048).\n\n\nCONCLUSIONS\nThe failure of PRODIGE 7 to improve survival with surgery plus HIPEC following NACT may reflect diminished oxaliplatin cytotoxicity in patients whose residual disease has been selected for oxaliplatin and 5-FU resistance.",
-    "citationCount": 51,
+    "citationCount": 52,
     "doi": "10.1016/j.ejso.2020.09.017"
   },
   {
@@ -8132,7 +8132,7 @@
     "title": "Query optimization for massively parallel data processing",
     "year": 2011,
     "abstract": null,
-    "citationCount": 179,
+    "citationCount": 180,
     "doi": "10.1145/2038916.2038928"
   },
   {
@@ -9420,7 +9420,7 @@
     "title": "Data integration: a theoretical perspective",
     "year": 2002,
     "abstract": null,
-    "citationCount": 3018,
+    "citationCount": 3019,
     "doi": "10.1145/543613.543644"
   },
   {
@@ -10364,7 +10364,7 @@
     "title": "Neural parameters estimation for brain tumor growth modeling",
     "year": 2019,
     "abstract": "Understanding the dynamics of brain tumor progression is essential for optimal treatment planning. Cast in a mathematical formulation, it is typically viewed as evaluation of a system of partial differential equations, wherein the physiological processes that govern the growth of the tumor are considered. To personalize the model, i.e. find a relevant set of parameters, with respect to the tumor dynamics of a particular patient, the model is informed from empirical data, e.g., medical images obtained from diagnostic modalities, such as magnetic-resonance imaging. Existing model-observation coupling schemes require a large number of forward integrations of the biophysical model and rely on simplifying assumption on the functional form, linking the output of the model with the image information. In this work, we propose a learning-based technique for the estimation of tumor growth model parameters from medical scans. The technique allows for explicit evaluation of the posterior distribution of the parameters by sequentially training a mixture-density network, relaxing the constraint on the functional form and reducing the number of samples necessary to propagate through the forward model for the estimation. We test the method on synthetic and real scans of rats injected with brain tumors to calibrate the model and to predict tumor progression.",
-    "citationCount": 27,
+    "citationCount": 28,
     "doi": "10.1007/978-3-030-32245-8_87"
   },
   {
@@ -11284,7 +11284,7 @@
     "title": "AN ANALYSIS OF SEMIOTIC RIFFATERRE IN WALT WHITMAN SELECTED POEM",
     "year": 2019,
     "abstract": "The object research in the Walt whitman poem was an Semiotic analysis seen from Michael Riffaterre’s theory. This research used the descriptive qualitative method for this research. That means the method of data collection by analyzing and interpreting also described to understand the theories contained in the poem. In this qualitative research, researcher used the Semiotic theory by Michael Riffaterre in his book Semiotic of poetry as a basic concept and framework of thinking. The concept contains three point: The first was unsustainability of expression in poetry include the displacing meaning, distorting meaning, and the creating of meaning. It discussed the figurative language such as metaphor, personification and also the structure of verse. The second was Heuristic and Hermeneutic reading that has a relation with reading a verse based on language convension and overall rereading with interpretation. The last was Matrix, model, and varian is key,transformation, and description in a poem. In the Walt whitman selected poem finds some point based on the result of the analysis the data. From an analysis, the researcher concluded the dominant point in the Walt whitman poem is unsustainability of expression in poetry.",
-    "citationCount": 9,
+    "citationCount": 10,
     "doi": "10.33884/basisupb.v6i2.1428"
   },
   {
@@ -11928,6 +11928,14 @@
     "doi": "10.3390/agriculture14111900"
   },
   {
+    "paperId": "0005ab8a1020ae3722355a5b3bd045327cca8d2a",
+    "title": "Can alternative means of phenotyping rheumatoid arthritis reduce its apparent heterogeneity? A comparison of three disease activity classifications with DAS28",
+    "year": 2026,
+    "abstract": null,
+    "citationCount": 0,
+    "doi": "10.1136/rmdopen-2025-005955"
+  },
+  {
     "paperId": "0005b1e1abdfc16b6667354ac6a06e04e759cce8",
     "title": "Landau-like states in the magneto-optical spectrum of a shallow donor impurity: Theory versus experiment.",
     "year": 1996,
@@ -12116,7 +12124,7 @@
     "title": "DecGPU: distributed error correction on massively parallel graphics processing units using CUDA and MPI",
     "year": 2011,
     "abstract": "BackgroundNext-generation sequencing technologies have led to the high-throughput production of sequence data (reads) at low cost. However, these reads are significantly shorter and more error-prone than conventional Sanger shotgun reads. This poses a challenge for the de novo assembly in terms of assembly quality and scalability for large-scale short read datasets.ResultsWe present DecGPU, the first parallel and distributed error correction algorithm for high-throughput short reads (HTSRs) using a hybrid combination of CUDA and MPI parallel programming models. DecGPU provides CPU-based and GPU-based versions, where the CPU-based version employs coarse-grained and fine-grained parallelism using the MPI and OpenMP parallel programming models, and the GPU-based version takes advantage of the CUDA and MPI parallel programming models and employs a hybrid CPU+GPU computing model to maximize the performance by overlapping the CPU and GPU computation. The distributed feature of our algorithm makes it feasible and flexible for the error correction of large-scale HTSR datasets. Using simulated and real datasets, our algorithm demonstrates superior performance, in terms of error correction quality and execution speed, to the existing error correction algorithms. Furthermore, when combined with Velvet and ABySS, the resulting DecGPU-Velvet and DecGPU-ABySS assemblers demonstrate the potential of our algorithm to improve de novo assembly quality for de-Bruijn-graph-based assemblers.ConclusionsDecGPU is publicly available open-source software, written in CUDA C++ and MPI. The experimental results suggest that DecGPU is an effective and feasible error correction algorithm to tackle the flood of short reads produced by next-generation sequencing technologies.",
-    "citationCount": 66,
+    "citationCount": 67,
     "doi": "10.1186/1471-2105-12-85"
   },
   {
@@ -13660,7 +13668,7 @@
     "title": "The European General Data Protection Regulation (GDPR) in mHealth: Theoretical and practical aspects for practitioners’ use",
     "year": 2022,
     "abstract": "The extensive use of smart technology (smartphones and wearables) and the vast amount of information they contain have positioned remote devices and technology as a massive database resource. Harnessing these big data into the clinical and research fields has introduced a new horizon of possibilities along with significant privacy issues. A significant evolution in this respect has been the introduction of the new European Union (EU) General Data Protection Regulation (GDPR). The GDPR acknowledges that information related to individuals (i.e. personal data), as well as data flow, and thus databases, are of high political, clinical, and economic value. Hence, the Regulation aims to protect personal data and, consequentially, privacy. Nevertheless, the GDPR is a legal document with legal language. The purpose of this paper is to serve as a – practical guidance as well as a theoretical framework – for clinicians (and non-clinicians) who integrates digital tools in their clinical and research work.",
-    "citationCount": 42,
+    "citationCount": 43,
     "doi": "10.1177/00258024221118411"
   },
   {
@@ -13948,7 +13956,7 @@
     "title": "A Data-Driven LiFePO4 Battery Capacity Estimation Method Based on Cloud Charging Data from Electric Vehicles",
     "year": 2023,
     "abstract": "The accuracy of capacity estimation is of great importance to the safe, efficient, and reliable operation of battery systems. In recent years, data-driven methods have emerged as promising alternatives to capacity estimation due to higher estimation accuracy. Despite significant progress, data-driven methods are mainly developed by experimental data under well-controlled charge–discharge processes, which are seldom available for practical battery health monitoring under realistic conditions due to uncertainties in environmental and operational conditions. In this paper, a novel method to estimate the capacity of large-format LiFePO4 batteries based on real data from electric vehicles is proposed. A comprehensive dataset consisting of 85 vehicles that has been running for around one year under diverse nominal conditions derived from a cloud platform is generated. A classification and aggregation capacity prediction method is developed, combining a battery aging experiment with big data analysis on cloud data. Based on degradation mechanisms, IC curve features are extracted, and a linear regression model is established to realize high-precision estimation for slow-charging data with constant-current charging. The selected features are highly correlated with capacity (Pearson correlation coefficient < 0.85 for all vehicles), and the MSE of the capacity estimation results is less than 1 Ah. On the basis of protocol analysis and mechanism studies, a feature set including internal resistance, temperature, and statistical characteristics of the voltage curve is constructed, and a neural network (NN) model is established for multi-stage variable-current fast-charging data. Finally, the above two models are integrated to achieve capacity prediction under complex and changeable realistic working conditions, and the relative error of the capacity estimation method is less than 0.8%. An aging experiment using the battery, which is the same as those equipped in the vehicles in the dataset, is carried out to verify the methods. To the best of the authors’ knowledge, our study is the first to verify a capacity estimation model derived from field data using an aging experiment of the same type of battery.",
-    "citationCount": 27,
+    "citationCount": 28,
     "doi": "10.3390/batteries9030181"
   },
   {
@@ -15452,7 +15460,7 @@
     "title": "Global output on artificial intelligence in the field of nursing: A bibliometric analysis and science mapping.",
     "year": 2022,
     "abstract": "PURPOSE\nTo analyze the AI research in the field of nursing, to explore the current situation, hot topics, and prospects of AI research in the field of nursing, and to provide a reference for researchers to carry out related studies.\n\n\nMETHODS\nWe used the VOSviewer 1.6.17, SciMAT, and CiteSpace 5.8.R3 to generate visual cooperation network maps for the country, organizations, authors, citations, and keywords and perform burst detection, theme evolution, and so forth.\n\n\nFINDINGS\nA total of 9318 articles were obtained from the Web of Science Core Collection database. Four hundred and thirty-one AI research related to the field of nursing was published by 855 institutions from 54 countries. CIN-Computers Informatics Nursing was the top productive journal. The United States was the dominant country. The transnational cooperation between authors from developed countries was closer than that between authors from developing countries. The main hot topics included nurse rostering, nursing diagnosis, nursing decision support, disease risk factor prediction, nursing big data management, expert system, support vector machine, decision tree, deep learning, natural language processing, and nursing education. Machine learning represented one of the cutting-edge and most applicable branches of artificial intelligence in the field of nursing, and deep learning was the hottest technology among many machine learning methods in recent years. One of the most cited papers was published by Burke in 2004 and cited 500 times, which critically evaluated AI methods to deal with nurse scheduling problems.\n\n\nCONCLUSIONS\nAlthough AI has been paid more and more attention to the field of nursing, there is still a lack of high-yielding authors who have been engaged in this field for a long time. Most of the high contribution authors and institutions came from developed countries; therefore, more transnational and multi-disciplinary cooperation is needed to promote the development of AI in the nursing field. This bibliometric analysis not only provided a comprehensive overview to help researchers to understand the important articles, journals, potential collaborators, and institutions in this field but also analyzed the history, hot spots, and future trends of the research topic to provide inspiration for researchers to choose research directions.",
-    "citationCount": 29,
+    "citationCount": 30,
     "doi": "10.1111/jnu.12852"
   },
   {
@@ -16324,7 +16332,7 @@
     "title": "Data-driven science and machine learning methods in laser–plasma physics",
     "year": 2022,
     "abstract": "Abstract Laser-plasma physics has developed rapidly over the past few decades as lasers have become both more powerful and more widely available. Early experimental and numerical research in this field was dominated by single-shot experiments with limited parameter exploration. However, recent technological improvements make it possible to gather data for hundreds or thousands of different settings in both experiments and simulations. This has sparked interest in using advanced techniques from mathematics, statistics and computer science to deal with, and benefit from, big data. At the same time, sophisticated modeling techniques also provide new ways for researchers to deal effectively with situation where still only sparse data are available. This paper aims to present an overview of relevant machine learning methods with focus on applicability to laser-plasma physics and its important sub-fields of laser-plasma acceleration and inertial confinement fusion.",
-    "citationCount": 92,
+    "citationCount": 93,
     "doi": "10.1017/hpl.2023.47"
   },
   {
@@ -16648,6 +16656,14 @@
     "doi": "10.5455/msm.2021.33.195-198"
   },
   {
+    "paperId": "0072f0d2abef12f3153106bacfc1579c1e9d5612",
+    "title": "Digital Transformation and Investment Dynamics of Transport Enterprises: A Comparative Analysis of BRICS, Germany, and Ukraine",
+    "year": 2026,
+    "abstract": "This research paper examines the nexus between digital transformation and investment activity across a diverse economic spectrum, encompassing the rapid growth of the BRICS bloc, the advanced industrial framework of Germany, and the resilient, IT-driven economy of Ukraine. As global logistics networks shift toward \"Industry 4.0\" standards, the traditional investment model, historically focused on physical fleet expansion, is being restructured to prioritize digital infrastructure, AI-driven logistics, and Big Data analytics. Utilizing a structural-analytical framework, this research evaluates how these digital investments enhance the financial sustainability of transport firms by optimizing asset utilization and reducing operational risks. The findings demonstrate that digital transformation acts as a catalyst for institutional change, enabling firms to achieve higher capital productivity and long-term economic resilience. In the context of transitional markets, the shift toward digitalized investment activity serves to mitigate macroeconomic vulnerabilities by lowering logistics costs and improving regional trade integration. The study concludes that for transport enterprises, digital-led structural reforms are not merely technological upgrades but are essential strategies for ensuring fiscal stability and competitive advantage in an increasingly volatile global economy. Practical recommendations for managers and policymakers focus on balancing CAPEX between physical assets and digital innovation to ensure sustainable growth.Copyright© 2026 The Author(s). This article is distributed under the terms of the license CC-BY 4.0., which permits any further distribution in any medium, provided the original work is properly cited.Article’s history: Received 29th of October, 2025; Revised 9th of December, 2025; Accepted 12th of January, 2026; Available online: 15th of March, 2026. Published as article in the Volume XXI, Special Issue, 1(91), 2026.",
+    "citationCount": 0,
+    "doi": "10.57017/jaes.v21.si.1(91).15"
+  },
+  {
     "paperId": "0072f6a88ed01d5369d3d882ac062e40b50187b4",
     "title": "Social Media Analytics and New Product Development",
     "year": 2019,
@@ -16812,7 +16828,7 @@
     "title": "Retention of medical doctors at the district level: a qualitative study of experiences from Tanzania",
     "year": 2018,
     "abstract": "BackgroundRetention of Human Resources for Health (HRH), particularly doctors at district level is a big challenge facing the decentralized health systems in poorly resourced countries. Tanzania, with 75% of its population in rural areas, has only 26% of doctors serving in rural areas. We aimed to analyze the experiences regarding the retention of doctors at district level in Tanzania from doctors’ and district health managers’ perspectives.MethodsA qualitative study was carried out in three districts from June to September 2013. We reviewed selected HRH documents and then conducted 15 key informant interviews with members of the District Health Management teams and medical doctors working at the district hospitals. In addition, we conducted three focus group discussions with Council Health Management Team members in the three districts. Incentive package plans, HRH establishment, and health sector development plans from the three districts were reviewed. Data analysis was performed using qualitative content analysis.ResultsNone of the districts in this study has the number of doctors recommended. Retention of doctors in the districts faced the following challenges: unfavourable working conditions including poor working environment, lack of assurance of career progression, and a non-uniform financial incentive system across districts; unsupportive environment in the community, characterized by: difficulty in securing houses for rent, lack of opportunities to earn extra income, lack of appreciation from the community and poor social services.Health managers across districts endeavour to retain their doctors through different retention strategies, including: career development plans, minimum financial incentive packages and avenues for private practices in the district hospitals. However, managers face constrained financial resources, with many competing priorities at district level.ConclusionsRetention of doctors at district level faces numerous challenges. Assurance of career growth, provision of uniform minimum financial incentives and ensuring availability of good social services and economic opportunities within the community are among important retention strategies.",
-    "citationCount": 38,
+    "citationCount": 40,
     "doi": "10.1186/s12913-018-3059-0"
   },
   {
@@ -18046,14 +18062,6 @@
     "abstract": "In the presence of dynamic and non stationary environments which the existing techniques of traditional noise reduction are not so well adapted. In this work, this work studies transfer learning as a way to improve noise reduction in other wireless communication channels by using pretrained multichannel models or using domain adaptation strategies. The answer to this reason is why we utilize big data sets trained on both state of the art models with deep learning architectures; Convolutional Neural Networks (CNN) and Transformer based models. We then base ourselves on these representations robust to noisy signals in the frame of self supervised learning framworks and learn to find them tuned for a given channel conditions. To this end, we also simulate noise profiles using GANs for resolution to learned models. We demonstrate this with experimental results of the given wireless signal benchmarks in terms of improved SNR and Bit Error Rate. We demonstrate that actual continuous suppression of noise on an evolving wireless occasions is possible with present day AI frameworks and move learning at scale and adaptability.",
     "citationCount": 0,
     "doi": "10.1109/ICCTDC64446.2025.11158006"
-  },
-  {
-    "paperId": "00a67e8bea7296aa4480cea6b9b7113fde5c70d7",
-    "title": "Consumer electronics show 2019, from connected devices and big data to artificial intelligence: implications for libraries",
-    "year": 2019,
-    "abstract": "\nPurpose\nReport of the CES 2019 Conference\n\n\nDesign/methodology/approach\nAttendance at the conference\n\n\nFindings\nImplications for libraries\n\n\nOriginality/value\nOriginal thoughts\n",
-    "citationCount": 0,
-    "doi": "10.1108/LHTN-04-2019-0030"
   },
   {
     "paperId": "00000120a0365bfd0c2d944cb6586af846cfcf30",
@@ -20132,7 +20140,7 @@
     "title": "Once-Weekly Semaglutide in Adults with Overweight or Obesity.",
     "year": 2021,
     "abstract": "BACKGROUND\nObesity is a global health challenge with few pharmacologic options. Whether adults with obesity can achieve weight loss with once-weekly semaglutide at a dose of 2.4 mg as an adjunct to lifestyle intervention has not been confirmed.\n\n\nMETHODS\nIn this double-blind trial, we enrolled 1961 adults with a body-mass index (the weight in kilograms divided by the square of the height in meters) of 30 or greater (≥27 in persons with ≥1 weight-related coexisting condition), who did not have diabetes, and randomly assigned them, in a 2:1 ratio, to 68 weeks of treatment with once-weekly subcutaneous semaglutide (at a dose of 2.4 mg) or placebo, plus lifestyle intervention. The coprimary end points were the percentage change in body weight and weight reduction of at least 5%. The primary estimand (a precise description of the treatment effect reflecting the objective of the clinical trial) assessed effects regardless of treatment discontinuation or rescue interventions.\n\n\nRESULTS\nThe mean change in body weight from baseline to week 68 was -14.9% in the semaglutide group as compared with -2.4% with placebo, for an estimated treatment difference of -12.4 percentage points (95% confidence interval [CI], -13.4 to -11.5; P<0.001). More participants in the semaglutide group than in the placebo group achieved weight reductions of 5% or more (1047 participants [86.4%] vs. 182 [31.5%]), 10% or more (838 [69.1%] vs. 69 [12.0%]), and 15% or more (612 [50.5%] vs. 28 [4.9%]) at week 68 (P<0.001 for all three comparisons of odds). The change in body weight from baseline to week 68 was -15.3 kg in the semaglutide group as compared with -2.6 kg in the placebo group (estimated treatment difference, -12.7 kg; 95% CI, -13.7 to -11.7). Participants who received semaglutide had a greater improvement with respect to cardiometabolic risk factors and a greater increase in participant-reported physical functioning from baseline than those who received placebo. Nausea and diarrhea were the most common adverse events with semaglutide; they were typically transient and mild-to-moderate in severity and subsided with time. More participants in the semaglutide group than in the placebo group discontinued treatment owing to gastrointestinal events (59 [4.5%] vs. 5 [0.8%]).\n\n\nCONCLUSIONS\nIn participants with overweight or obesity, 2.4 mg of semaglutide once weekly plus lifestyle intervention was associated with sustained, clinically relevant reduction in body weight. (Funded by Novo Nordisk; STEP 1 ClinicalTrials.gov number, NCT03548935).",
-    "citationCount": 2689,
+    "citationCount": 2692,
     "doi": "10.1056/NEJMoa2032183"
   },
   {

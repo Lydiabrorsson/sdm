@@ -53,7 +53,7 @@ def fetch_cites_edges():
             for ref in references:
                 if ref.get("paperId") is None:
                     continue
-                #if ref.id in paper_id_set:
+                #if ref.get("paperId") in paper_id_set:
                 cites_edges.append({
                     "from": paper.get("paperId"),
                     "to": ref.get("paperId"),

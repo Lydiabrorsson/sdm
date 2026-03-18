@@ -5290,6 +5290,11 @@
     "year": 2024
   },
   {
+    "volumeId": "volume::rmd open::2026",
+    "volumeNumber": "2026",
+    "year": 2026
+  },
+  {
     "volumeId": "volume::physical review b (condensed matter)::1996",
     "volumeNumber": "1996",
     "year": 1996
@@ -7008,6 +7013,11 @@
     "volumeId": "volume::materia socio-medica::2021",
     "volumeNumber": "2021",
     "year": 2021
+  },
+  {
+    "volumeId": "volume::journal of applied economic sciences::2026",
+    "volumeNumber": "2026",
+    "year": 2026
   },
   {
     "volumeId": "volume::journal of economics and public finance::2024",

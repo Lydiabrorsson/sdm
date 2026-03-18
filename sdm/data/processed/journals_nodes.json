@@ -3528,6 +3528,10 @@
     "name": "Agriculture"
   },
   {
+    "journalId": "journal::rmd open",
+    "name": "RMD Open"
+  },
+  {
     "journalId": "journal::physical review b (condensed matter)",
     "name": "Physical Review B (Condensed Matter)"
   },
@@ -4654,6 +4658,10 @@
   {
     "journalId": "journal::materia socio-medica",
     "name": "Materia socio-medica"
+  },
+  {
+    "journalId": "journal::journal of applied economic sciences",
+    "name": "Journal of Applied Economic Sciences"
   },
   {
     "journalId": "journal::journal of economics and public finance",
