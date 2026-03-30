@@ -301,7 +301,7 @@ def process_graph(raw_papers):
 
         candidates = [
             p for p in paper_list
-            if p["paperId"] != source_id and p["year"] <= source_year
+            if p["paperId"] != source_id and p["year"] < source_year
         ]
 
         if not candidates:
