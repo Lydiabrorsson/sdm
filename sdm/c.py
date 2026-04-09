@@ -11,10 +11,6 @@ def create_constraints(tx):
         CREATE CONSTRAINT community_name IF NOT EXISTS
         FOR (c:Community) REQUIRE c.name IS UNIQUE
     """)
-    tx.run("""
-        CREATE CONSTRAINT topic_name IF NOT EXISTS
-        FOR (t:Topic) REQUIRE t.name IS UNIQUE
-    """)
 
 
 def define_database_community(tx):
