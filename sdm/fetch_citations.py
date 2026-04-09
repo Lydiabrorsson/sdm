@@ -6,6 +6,8 @@ from pathlib import Path
 
 # Made in own file because different API endpoint 
 
+## NOTE: THIS IS NOT USED IN THE CURRENT PIPELINE, BUT KEPT FOR FUTURE REFERENCE 
+
 API_KEY = os.environ["S2_API_KEY"]
 HEADERS = {"x-api-key": API_KEY}
 
