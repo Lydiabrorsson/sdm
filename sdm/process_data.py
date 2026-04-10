@@ -172,7 +172,6 @@ def process_graph(raw_papers):
             if volume_id not in volumes:
                 volumes[volume_id] = {
                     "volumeId": volume_id,
-                    "name": venue_name,
                     "volumeNumber": volume_nr,
                     "year": year
                 }
@@ -199,7 +198,6 @@ def process_graph(raw_papers):
             if edition_id not in editions:
                 editions[edition_id] = {
                     "editionId": edition_id,
-                    "name": venue_name,
                     "year": year,
                     "city": random.choice(cities)
                 }

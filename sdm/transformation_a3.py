@@ -1,8 +1,8 @@
 from neo4j import GraphDatabase
 import os
 
-URI = "neo4j+s://f4cce3df.databases.neo4j.io"
-USER = "f4cce3df"
+URI = "neo4j://127.0.0.1:7687"
+USER = "neo4j"
 PASSWORD = os.environ["NEO4J_PASSWORD"]
 
 
@@ -17,9 +17,24 @@ def create_constraints(tx):
     """)
 
 
+def set_required_reviews(tx):
+    tx.run("""
+        MATCH (c:Conference)
+        SET c.requiredReviews = 3
+    """)
+    tx.run("""
+        MATCH (w:Workshop)
+        SET w.requiredReviews = 3
+    """)
+    tx.run("""
+        MATCH (j:Journal)
+        SET j.requiredReviews = 3
+    """)
+
+
 def migrate_review_relationships(tx):
     tx.run("""
-        MATCH (a:Authors)-[old:REVIEWS]->(p:Paper)
+        MATCH (a:Author)-[old:REVIEWS]->(p:Paper)
         WITH a, old, p,
              CASE
                  WHEN rand() < 0.5 THEN "accept"
@@ -27,17 +42,14 @@ def migrate_review_relationships(tx):
              END AS generatedDecision
         CREATE (rev:Review {
             id: randomUUID(),
-            content: coalesce(
-                old.content,
-                CASE
-                    WHEN generatedDecision = "accept"
-                    THEN "Synthetic review: the paper is relevant and should be accepted."
-                    ELSE "Synthetic review: the paper needs improvement and should be rejected."
-                END
-            ),
+            content: CASE
+                WHEN generatedDecision = "accept"
+                THEN "Synthetic review: the paper is relevant and should be accepted."
+                ELSE "Synthetic review: the paper needs improvement and should be rejected."
+            END,
             decision: generatedDecision
         })
-        CREATE (a)-[:WROTE_REVIEW]->(rev)
+        CREATE (a)-[:SUBMITS_REVIEW]->(rev)
         CREATE (rev)-[:REVIEWS]->(p)
         DELETE old
     """)
@@ -47,8 +59,8 @@ def create_synthetic_organizations(tx):
     tx.run("""
         UNWIND [
             {id: "org_001", name: "Stanford University", type: "university"},
-            {id: "org_002", name: "Massachusetts Institute of Technology", type: "university"},
-            {id: "org_003", name: "University of Oxford", type: "university"},
+            {id: "org_002", name: "MIT", type: "university"},
+            {id: "org_003", name: "Oxford University", type: "university"},
             {id: "org_004", name: "Google", type: "company"},
             {id: "org_005", name: "Microsoft", type: "company"},
             {id: "org_006", name: "Amazon", type: "company"},
@@ -63,7 +75,7 @@ def create_synthetic_organizations(tx):
 
 def assign_authors_to_organizations(tx):
     tx.run("""
-        MATCH (a:Authors)
+        MATCH (a:Author)
         WHERE NOT (a)-[:AFFILIATED_WITH]->(:Organization)
         WITH a, toInteger(rand() * 7) AS idx
         MATCH (o:Organization)
@@ -89,10 +101,13 @@ def compute_paper_acceptance(tx):
     """)
 
 
-def remove_publication_for_rejected_papers(tx):
+def remove_publication_for_invalid_papers(tx):
     tx.run("""
-        MATCH (p:Paper)-[pub:PUBLISHED_IN]->()
-        WHERE p.accepted IS NOT NULL AND p.accepted = false
+        MATCH (p:Paper)-[pub:PUBLISHED_IN]->(container)
+        OPTIONAL MATCH (p)-[:PUBLISHED_IN]->(:Proceeding)<-[:HAS_PROCEEDING]-(:Edition)<-[:HAS_EDITION]-(v1)
+        OPTIONAL MATCH (p)-[:PUBLISHED_IN]->(:Volume)<-[:HAS_VOLUME]-(v2)
+        WITH p, pub, coalesce(v1.requiredReviews, v2.requiredReviews, 3) AS requiredReviews
+        WHERE p.accepted = false OR p.review_count < requiredReviews
         DELETE pub
     """)
 
@@ -102,11 +117,12 @@ def main():
 
     with driver.session() as session:
         session.execute_write(create_constraints)
+        session.execute_write(set_required_reviews)
         session.execute_write(migrate_review_relationships)
         session.execute_write(create_synthetic_organizations)
         session.execute_write(assign_authors_to_organizations)
         session.execute_write(compute_paper_acceptance)
-        session.execute_write(remove_publication_for_rejected_papers)
+        session.execute_write(remove_publication_for_invalid_papers)
 
     driver.close()
 

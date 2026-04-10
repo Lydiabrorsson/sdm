@@ -1,8 +1,8 @@
 from neo4j import GraphDatabase
 import os
 
-URI = "neo4j+s://f4cce3df.databases.neo4j.io"
-USER = "f4cce3df"
+URI = "neo4j://127.0.0.1:7687"
+USER = "neo4j"
 PASSWORD = os.environ["NEO4J_PASSWORD"]  # Ensure this environment variable is set with your Neo4j password
 driver = GraphDatabase.driver(URI, auth=(USER, PASSWORD))
 
