@@ -1,9 +1,11 @@
 import json
 from pathlib import Path
 import random
+import csv
+import hashlib
 
 RAW_DIR = Path("data/raw")
-PROCESSED_DIR = Path("data/processed")
+PROCESSED_DIR = Path("data/complete")
 PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
 
 INPUT_FILE = RAW_DIR / "papers.json"
@@ -73,9 +75,17 @@ def make_proceeding_id(name, year):
     return f"proceeding::{name.lower()}::{year}"
 
 
-def make_volume_id(name, year):
-    return f"volume::{name.lower()}::{year}"
+def make_volume_id(name, year, volume_nr):
+    return f"volume::{name.lower()}::{year}::{volume_nr}"
 
+def make_edition_id(name, year):
+    return f"edition::{name.lower()}::{year}"
+
+def make_isbn(venue_name, year):
+    key = f"{venue_name.lower()}-{year}"
+    hash_val = hashlib.md5(key.encode()).hexdigest()[:12] 
+    digits = ''.join(str(int(c, 16) % 10) for c in hash_val)
+    return f"978-{digits[:3]}-{digits[3:6]}-{digits[6:9]}-{digits[9:]}"
 
 def process_graph(raw_papers):
     papers = {}
@@ -84,6 +94,7 @@ def process_graph(raw_papers):
 
     conferences = {}
     workshops = {}
+    editions = {}
     journals = {}
     proceedings = {}
     volumes = {}
@@ -91,6 +102,7 @@ def process_graph(raw_papers):
     review_edges = []
     wrote_edges = []
     has_topic_edges = []
+    has_proceeding_edges = []
 
     published_in_proceeding_edges = []
     published_in_volume_edges = []
@@ -123,8 +135,9 @@ def process_graph(raw_papers):
             "title": title,
             "year": year,
             "abstract": abstract,
-            "citationCount": citation_count if citation_count is not None else 0,
-            "doi": doi
+            "pages": random.randint(6, 15),
+            "doi": doi,
+            "citationCount": citation_count
         }
 
         # Topic nodes + has_topic edges
@@ -140,15 +153,15 @@ def process_graph(raw_papers):
             has_topic_edges.append({
                 "from": paper_id,
                 "to": topic_id,
-                "type": "HAS_TOPIC"
             })
 
         # Publication structure
         venue_type = classify_venue(venue_name, publication_types)
 
         if venue_type == "Journal":
+            volume_nr = random.randint(1, 20)
             journal_id = make_journal_id(venue_name)
-            volume_id = make_volume_id(venue_name, year)
+            volume_id = make_volume_id(venue_name, year, volume_nr)
 
             if journal_id not in journals:
                 journals[journal_id] = {
@@ -159,7 +172,8 @@ def process_graph(raw_papers):
             if volume_id not in volumes:
                 volumes[volume_id] = {
                     "volumeId": volume_id,
-                    "volumeNumber": str(year),
+                    "name": venue_name,
+                    "volumeNumber": volume_nr,
                     "year": year
                 }
 
@@ -169,31 +183,34 @@ def process_graph(raw_papers):
                 has_volume_edges.append({
                     "from": journal_id,
                     "to": volume_id,
-                    "type": "HAS_VOLUME"
                 })
 
             published_in_volume_edges.append({
                 "from": paper_id,
                 "to": volume_id,
-                "type": "PUBLISHED_IN"
             })
 
         else:
-            proceeding_id = make_proceeding_id(venue_name, year)
+            edition_id = make_edition_id(venue_name, year)
+            isbn = make_isbn(venue_name, year)
 
-            if proceeding_id not in proceedings:
-                proceedings[proceeding_id] = {
-                    "proceedingId": proceeding_id,
-                    "editionNumber": str(year),
+            cities = ["Barcelona", "New York", "London", "Tokyo","Paris", "Berlin", "Singapore", "Sydney"]
+
+            if edition_id not in editions:
+                editions[edition_id] = {
+                    "editionId": edition_id,
+                    "name": venue_name,
                     "year": year,
-                    "city": ""
+                    "city": random.choice(cities)
                 }
 
-            published_in_proceeding_edges.append({
-                "from": paper_id,
-                "to": proceeding_id,
-                "type": "PUBLISHED_IN"
-            })
+            publishers = ["Springer", "IEEE", "ACM", "Elsevier", "Wiley", "Oxford University Press"]
+
+            if isbn not in proceedings:
+                proceedings[isbn] = {
+                    "isbn": isbn,
+                    "publisher": random.choice(publishers)
+                }
 
             if venue_type == "Workshop":
                 workshop_id = make_workshop_id(venue_name)
@@ -204,14 +221,22 @@ def process_graph(raw_papers):
                         "name": venue_name
                     }
 
-                edge_key = (workshop_id, proceeding_id, "HAS_EDITION")
+                edge_key = (workshop_id, edition_id, "HAS_EDITION")
                 if edge_key not in seen_has_edition_edges:
                     seen_has_edition_edges.add(edge_key)
                     has_edition_edges.append({
                         "from": workshop_id,
-                        "to": proceeding_id,
-                        "type": "HAS_EDITION"
+                        "to": edition_id,
                     })
+                    has_proceeding_edges.append({
+                        "from": edition_id,
+                        "to": isbn,
+                    })
+
+                published_in_proceeding_edges.append({
+                    "from": paper_id,
+                    "to": isbn,
+                })
 
             else:
                 conference_id = make_conference_id(venue_name)
@@ -222,10 +247,21 @@ def process_graph(raw_papers):
                         "name": venue_name
                     }
 
-                has_edition_edges.append({
-                    "from": conference_id,
-                    "to": proceeding_id,
-                    "type": "HAS_EDITION"
+                edge_key = (conference_id, edition_id, "HAS_EDITION")
+                if edge_key not in seen_has_edition_edges:
+                    seen_has_edition_edges.add(edge_key)
+                    has_edition_edges.append({
+                        "from": conference_id,
+                        "to": edition_id,
+                    })
+                    has_proceeding_edges.append({
+                        "from": edition_id,
+                        "to": isbn,
+                    })
+
+                published_in_proceeding_edges.append({
+                    "from": paper_id,
+                    "to": isbn,
                 })
 
         # Author nodes + wrote edges
@@ -243,7 +279,6 @@ def process_graph(raw_papers):
 
                 authors[author_id] = {
                     "authorId": author_id,
-                    "name": author_name,
                     "firstName": first_name,
                     "lastName": last_name
                 }
@@ -251,7 +286,6 @@ def process_graph(raw_papers):
             wrote_edges.append({
                 "from": author_id,
                 "to": paper_id,
-                "type": "WROTE",
                 "authorOrder": idx,
                 "corresponding": idx == 1
             })
@@ -287,13 +321,10 @@ def process_graph(raw_papers):
             review_edges.append({
                 "from": reviewer_id,
                 "to": paper_id,
-                "type": "REVIEWS"
             })
 
     # generate cite edges
-
     cites_edges = []
-    seen_cites = set()
     paper_list = list(papers.values())
     for source_paper in paper_list:
         source_id = source_paper["paperId"]
@@ -301,24 +332,20 @@ def process_graph(raw_papers):
 
         candidates = [
             p for p in paper_list
-            if p["paperId"] != source_id and p["year"] < source_year
+            if p["paperId"] != source_id and p["year"] > source_year
         ]
 
         if not candidates:
             continue
 
-        num_references = random.randint(1, min(5, len(candidates)))
-        chosen = random.sample(candidates, num_references)
+        citations = min(len(candidates), source_paper.get("citationCount", 0))
+        chosen = random.sample(candidates, citations)
 
         for target_paper in chosen:
-            edge_key = (source_id, target_paper["paperId"])
-            if edge_key not in seen_cites:
-                seen_cites.add(edge_key)
-                cites_edges.append({
-                    "from": source_id,
-                    "to": target_paper["paperId"],
-                    "type": "CITES"
-                })
+            cites_edges.append({
+                "from": target_paper["paperId"],
+                "to": source_id,
+            })
 
     return {
         "papers": list(papers.values()),
@@ -329,9 +356,11 @@ def process_graph(raw_papers):
         "journals": list(journals.values()),
         "proceedings": list(proceedings.values()),
         "volumes": list(volumes.values()),
+        "editions": list(editions.values()),
         "wrote_edges": wrote_edges,
         "has_topic_edges": has_topic_edges,
         "published_in_proceeding_edges": published_in_proceeding_edges,
+        "has_proceeding_edges": has_proceeding_edges,
         "published_in_volume_edges": published_in_volume_edges,
         "has_edition_edges": has_edition_edges,
         "has_volume_edges": has_volume_edges,
@@ -340,10 +369,23 @@ def process_graph(raw_papers):
     }
 
 
-def save_json(filename, data):
+def save_csv(filename, data):
+    if not data:
+        print(f"No data for {filename}")
+        return
+
     out_file = PROCESSED_DIR / filename
-    with open(out_file, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
+
+    columns = set()
+    for row in data:
+        columns.update(row.keys())
+    columns = sorted(columns)
+
+    with open(out_file, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=columns)
+        writer.writeheader()
+        writer.writerows(data)
+
     print(f"Saved {out_file}")
 
 
@@ -353,21 +395,23 @@ if __name__ == "__main__":
 
     graph = process_graph(raw_papers)
 
-    save_json("papers_nodes.json", graph["papers"])
-    save_json("authors_nodes.json", graph["authors"])
-    save_json("topics_nodes.json", graph["topics"])
+    save_csv("papers_nodes.csv", graph["papers"])
+    save_csv("authors_nodes.csv", graph["authors"])
+    save_csv("topics_nodes.csv", graph["topics"])
 
-    save_json("conferences_nodes.json", graph["conferences"])
-    save_json("workshops_nodes.json", graph["workshops"])
-    save_json("journals_nodes.json", graph["journals"])
-    save_json("proceedings_nodes.json", graph["proceedings"])
-    save_json("volumes_nodes.json", graph["volumes"])
+    save_csv("conferences_nodes.csv", graph["conferences"])
+    save_csv("workshops_nodes.csv", graph["workshops"])
+    save_csv("editions_nodes.csv", graph["editions"])
+    save_csv("journals_nodes.csv", graph["journals"])
+    save_csv("proceedings_nodes.csv", graph["proceedings"])
+    save_csv("volumes_nodes.csv", graph["volumes"])
 
-    save_json("wrote_edges.json", graph["wrote_edges"])
-    save_json("has_topic_edges.json", graph["has_topic_edges"])
-    save_json("published_in_proceeding_edges.json", graph["published_in_proceeding_edges"])
-    save_json("published_in_volume_edges.json", graph["published_in_volume_edges"])
-    save_json("has_edition_edges.json", graph["has_edition_edges"])
-    save_json("has_volume_edges.json", graph["has_volume_edges"])
-    save_json("review_edges.json", graph["review_edges"])
-    save_json("cites_edges.json", graph["cites_edges"])
+    save_csv("wrote_edges.csv", graph["wrote_edges"])
+    save_csv("has_topic_edges.csv", graph["has_topic_edges"])
+    save_csv("has_proceeding_edges.csv", graph["has_proceeding_edges"])
+    save_csv("published_in_proceeding_edges.csv", graph["published_in_proceeding_edges"])
+    save_csv("published_in_volume_edges.csv", graph["published_in_volume_edges"])
+    save_csv("has_edition_edges.csv", graph["has_edition_edges"])
+    save_csv("has_volume_edges.csv", graph["has_volume_edges"])
+    save_csv("review_edges.csv", graph["review_edges"])
+    save_csv("cites_edges.csv", graph["cites_edges"])

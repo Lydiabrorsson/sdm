@@ -1,0 +1,4062 @@
+[
+  {
+    "from": "00004a906cd066059838ce2a39f41db637b188f9",
+    "to": "proceeding::acm sigmobile international conference on mobile systems, applications, and services::2012",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0000f016ff8372dc234d4d34b9f9896c273a6b19",
+    "to": "proceeding::(jems) jurnal entrepreneur dan manajemen sains::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0000f18d11ffb78b2d813750f93ddcfaeb7d4463",
+    "to": "proceeding::iet renewable power generation::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0000f222b7cf6a56d603608e97f3a34227a28171",
+    "to": "proceeding::earth systems and environment::2025",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000141aeb58a8cfb10474f3438599d668196a69e",
+    "to": "proceeding::marine policy::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0001670a1471a4b8efd132ccd4b589e6325f2c05",
+    "to": "proceeding::video journal of biomedicine::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0001d57c1bdd8c1f5cf7de06b8ceb186b1388a20",
+    "to": "proceeding::2025 5th international conference on innovative research in applied science, engineering and technology (iraset)::2025",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0002227729a22397eb53368ea7a3408b6e887784",
+    "to": "proceeding::2014 ieee international conference on pervasive computing and communication workshops (percom workshops)::2014",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000299ed88172682bc24f41bcba4cce0bb45e7d7",
+    "to": "proceeding::proceedings of the 2019 european conference on computing in construction::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0002b68402c0c4eea932b871e82e803db0a55991",
+    "to": "proceeding::ukrainian journal on library and information science::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0002f985e76aa4c63c8954fcb76dd816a3359110",
+    "to": "proceeding::2020 5th international conference on electromechanical control technology and transportation (icectt)::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0002fd244c9b4170bfb63c1549d20f568e090fc5",
+    "to": "proceeding::journal of hypertension::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0003110d118cd283d2aebb180e7f216c56fdf8d1",
+    "to": "proceeding::weed science::1996",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000330d4d302ae6acc60ad7869f7061c62f67df3",
+    "to": "proceeding::asian-australasian journal of food safety and security::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0003362dda66fb17f79daad6e65d2274d3d13186",
+    "to": "proceeding::forests::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0003447b8f0eef091ac0d4d8725433aaf4bfc047",
+    "to": "proceeding::international journal of agriculture environment and bioresearch::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00034798649c97cae875af2c2d228bea0dd27860",
+    "to": "proceeding::anesthesia and analgesia::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00034b4097d2f3dee45358c803cf3f30354683c6",
+    "to": "proceeding::british journal of surgery::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000356dc78c3ff57940a76bb442b1c854b6d3c1a",
+    "to": "proceeding::international conference on intelligent cloud computing::2025",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0003624cfa1c22d0280751cb2997f581f2b9ef11",
+    "to": "proceeding::british journal of dermatology::2000",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000370cff10dfc558d69c3b9dd1143b4d97f8988",
+    "to": "proceeding::problems and perspectives in management::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00039d929a30c80bfb827b7a35b97a4c83b3bbad",
+    "to": "proceeding::kanzo::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0003fe6aede061fcc03c313dd38f68387adfef52",
+    "to": "proceeding::fisheries research::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00043ebdf59fbe88328078e9f7895cfa12a14887",
+    "to": "proceeding::indian journal of neurotrauma::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00044739ad9ed2d30b6434cb86a65b087f242bb4",
+    "to": "proceeding::journal of the japanese association of rural medicine::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0004c41d2edc6e3c5722b0e0ba117f913ff2318f",
+    "to": "proceeding::internal medicine journal (print)::2015",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0004c99626346c5420f690468b63253edb2fb3c4",
+    "to": "proceeding::jane - jurnal administrasi negara::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0004f38af0cafa82023d8ac95853c885fb4a1cff",
+    "to": "proceeding::frontiers in oncology::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00053931b6bb48ed778edb3d0eaf5de1adc78cf8",
+    "to": "proceeding::international journal of productivity and performance management::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00056636e9826dd4a7f66cbbc8947162bd9141b4",
+    "to": "proceeding::bmc medical education::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0005acc470aaf9993320fd839a93d16d8a2038f2",
+    "to": "proceeding::lecture notes in computer science::1996",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0005bc924539b3f557a5ddf803851185371ff891",
+    "to": "proceeding::lékař a technika::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0005ca425ed75f4bb364719468fa5103c2dbadac",
+    "to": "proceeding::transportation research part c: emerging technologies::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00062b41119d8000ef8509f23e34cc9d7ffd81ff",
+    "to": "proceeding::ieee uttar pradesh section international conference on electrical, computer and electronics engineering::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000638c8a107b87dc14e8daab80794f3ae740d14",
+    "to": "proceeding::the international journal of science and society::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000665c9c322f837d62c6a00f37ce6431093af3a",
+    "to": "proceeding::intelligent systems and networks::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0006e2ad5d26d7e86999fb5ee61ebf8d71cce354",
+    "to": "proceeding::diversity::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000713f7dda32829a4d6de756552b7e3d6339cbe",
+    "to": "proceeding::nephrology, dialysis and transplantation::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0007149b9206211f3055f9eb9286caf91fa799a4",
+    "to": "proceeding::american journal of industrial and business management::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00072f85ae966702ac3f0f89c7120507d15663ca",
+    "to": "proceeding::journal of soil and water conservation::2011",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00073994565966ec46eb7978c8147d36b11da011",
+    "to": "proceeding::jurnal manajemen agribisnis (journal of agribusiness management)::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00079f5229cb06a2cada2702d3ff4430e7bb7fa8",
+    "to": "proceeding::apcc/mdmc '04. the 2004 joint conference of the 10th asia-pacific conference on communications and the 5th international symposium on multi-dimensional mobile communications proceeding::2004",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0007d313a5119fb22fd3a66cdff4abae8c184e08",
+    "to": "proceeding::proceedings of the 8th international congress on environmental geotechnics volume 2::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0007e9c7a9a05bc1ba7237d7c000a481e7d63da1",
+    "to": "proceeding::applied sciences::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0007ec4b9dc15ae60529f19488f119c118fe5b18",
+    "to": "proceeding::lecture notes in computer science::2003",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00085df6534ef484b7d7c0deb3a54e9795b4efa6",
+    "to": "proceeding::2009 ieee international symposium on a world of wireless, mobile and multimedia networks & workshops::2009",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000887cb7656f3ef1b78a4fe44696990fa99badc",
+    "to": "proceeding::revista argentina de cardiología::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0008a7f9d3534f5b1eda1bcd01b0ff0b7fc81426",
+    "to": "proceeding::tree genetics & genomes::2014",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0008b1b591a42de36bac0fa13101cbf7c96b7685",
+    "to": "proceeding::osteoporosis international::2017",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0008bf871cf9ba41dc3003439f313c8f57556d9d",
+    "to": "proceeding::european journal of forest research::2012",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0008de6528e0abe8f5c22c9e449d6363d6a466c3",
+    "to": "proceeding::nature genetics::1998",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0008f069cf3e6a2a37b572f1a0990b68bc31e119",
+    "to": "proceeding::revista amazonía investiga::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00092a36a0c0d524226559881f945a571f758a61",
+    "to": "proceeding::proceedings of the 6th international conference on management science and management innovation (msmi 2019)::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00096538184874b971205483bbfad211a6d17eac",
+    "to": "proceeding::international workshop on quality of service::2010",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0009b861f56bd6f2154b54d3d48149d93204b0f6",
+    "to": "proceeding::2025 7th international conference on electrical engineering and control technologies (ceect)::2025",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0009db0475a5bf7be31f957996cae913c7851904",
+    "to": "proceeding::international conference on wireless communications, networking and mobile computing::2008",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0009f68da28932c8236cc3fcc17b718260bcb1c1",
+    "to": "proceeding::zbornik radova::2024",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0009fe9d748d890cf40a6f736b006309eca8bf95",
+    "to": "proceeding::bmj global health::2016",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000a6e6b88fc6da08c8e87b3c45c2f7f257548f2",
+    "to": "proceeding::revista interamericana de bibliotecología::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000a8c4b3bfb167812197845c4b800094449cfca",
+    "to": "proceeding::indian journal of gastroenterology::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000ac6f4632ebed77a1b9178ad258387f5af3b49",
+    "to": "proceeding::cases on digital strategies and management issues in modern organizations::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000acd591eecc1ef8237fdae2cfe6af3646f983a",
+    "to": "proceeding::journal of pure and applied microbiology::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000b0a06fcf910b22326cd06e5aac5e666db5a43",
+    "to": "proceeding::international journal of academic research in business and social sciences::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000b21586159cce55dd0b83daba1a36c4ef7f762",
+    "to": "proceeding::jurnal teknologi  dan sistem informasi bisnis::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000b5fa79dcb0f011e335e63e719a3ce0964fe20",
+    "to": "proceeding::new directions in cultural policy research::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000b6af684be953c84dba02eb0e6dfecbe5a6468",
+    "to": "proceeding::asia pacific journal of tourism research::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000b8997f185535491642baad00f6b072a936138",
+    "to": "proceeding::international conference on intelligent transportation, big data and smart city::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000ba1b23fb361c7918711cf8d45c74c3a90caa5",
+    "to": "proceeding::international journal of ethics and systems::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000c2e3f80250c6c34fd152de88513c082f87c41",
+    "to": "proceeding::gut::2012",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000c4a9c085ecd68b4c5f38547d936e381e925cb",
+    "to": "proceeding::hydrobiologia::2005",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000c54aa4ae7f2109fb5d2a04a4d3f04a37eb588",
+    "to": "proceeding::pharmaceutical medicine::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000c68797c622c00b8f3b112cc01d45022b5e123",
+    "to": "proceeding::ieee conference of russian young researchers in electrical and electronic engineering::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000c737622144c285bb71feceb64831f147afc88",
+    "to": "proceeding::international journal of advances in scientific research and engineering::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000caab378ee4a5379d01451687d51651f7b6fe8",
+    "to": "proceeding::african journal of range and forage science::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000caf9ac3538d112332784861e6a321ef73b460",
+    "to": "proceeding::hydrobiologia::2002",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000cb2505fbf72832eca289313177c6632614fea",
+    "to": "proceeding::simulations in medicine::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000d43e9027e39a34512e4d7a41cbac558f12dd2",
+    "to": "proceeding::le journal de la renaissance::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000d4da298b50d6007af6058c2f2ffc408e15fbe",
+    "to": "proceeding::aquatic sciences::2015",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000d7262e99a1c9ed3fae8f00e8243290a5bf001",
+    "to": "proceeding::anesthesia and analgesia::1999",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000e14e08fb007ef5fb1b494550d0df1e972e911",
+    "to": "proceeding::journal of contingencies and crisis management::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000e401b2d296c6daa702e66e908082b2aee324a",
+    "to": "proceeding::highlights in science engineering and technology::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000e613a0b05b29a54fef31f6f2bca49e2061b2c",
+    "to": "proceeding::2012 international conference on smart grid technology, economics and policies (sg-tep)::2012",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000e67efcfac2cb9f5c536574cd8baea22097457",
+    "to": "proceeding::agricultural water management::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000e78f19379655b33aaf7329d27657d2d8db300",
+    "to": "proceeding::international journal artificial intelligent and informatics::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000e84a83c5e65dae786978699781f8bf3c75b8e",
+    "to": "proceeding::jurnal basicedu::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000ea587f470e27887c09c565f7b2d0e21ba623a",
+    "to": "proceeding::south florida journal of development::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000eed64f34e81cb1d212ffd2208ae698c89ba72",
+    "to": "proceeding::thermal science::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000fdc1565bcdcb15270b644d95cd554de82a9d4",
+    "to": "proceeding::international journal of advanced research::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0010110e322b5ed622e9a57ff2aed1b092b3cf9e",
+    "to": "proceeding::sustainability::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0010439b2227182fc0265ad89249c3182cdc8b25",
+    "to": "proceeding::teaching english and language learning english journal (telle)::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "001073927f55df7ed2fd5711c1d9843f7cb2404b",
+    "to": "proceeding::bmj supportive & palliative care::2014",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00111c66bf150dee9620cf4719919e5b25a098b2",
+    "to": "proceeding::journal of pharmaceutical research international::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00117586cebb647b418f11dcbbfa457d1454e923",
+    "to": "proceeding::journal of soil and water conservation::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0011775c82786ccb8b87aee9d35d5faba5a68536",
+    "to": "proceeding::pharmaceutical & diagnostic innovation::2012",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "001186edfb0fd21f4b6a3216c158fe08d260bebb",
+    "to": "proceeding::journal of the geographical institute jovan cvijic, sasa::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00118978fe7ce69566084ebd723bb18ef08b57ba",
+    "to": "proceeding::ssr institute of international journal of life sciences::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0011db7fcfd578b5b51245f7d42ba5c76b585c1b",
+    "to": "proceeding::agricultural science::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0011ec6af3a69b5be94c591d3b490cf71036e369",
+    "to": "proceeding::sustainability::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0011edca7f156e915c4e80c4371d478a1a387eb1",
+    "to": "proceeding::e3s web of conferences::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0012248ec25dd1ee029d3d7cd0e304965dbef103",
+    "to": "proceeding::american journal of perinatology reports::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00122e5dd5361e1a055fed69ec0d6d5af7dc615c",
+    "to": "proceeding::british medical journal::2003",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "001255f812856e7842b9713f37c4bd940e9b271a",
+    "to": "proceeding::2025 ieee 5th international conference on sustainable energy and future electric transportation (sefet)::2025",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00127492cdf6c111a20f0cb7205d66678611c592",
+    "to": "proceeding::cdmw '12::2012",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0012cce1000c24c73b6d9fac75e1694b4e565de6",
+    "to": "proceeding::synergizing management, technology and innovation in generating sustainable and competitive business growth::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0012fc60f969e8be173555c951c6d783dccfd003",
+    "to": "proceeding::the journal of nutrition, health & aging::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00132c835ba2f92e33817ceeca71314e9f8cbb4e",
+    "to": "proceeding::proceedings of the 2024 6th blockchain and internet of things conference::2024",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0013a3921eca1385ad23619a628d2b91dac895d7",
+    "to": "proceeding::biodiversity information science and standards::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00145e122df9acbe707266a95b846050fb3a6168",
+    "to": "proceeding::iforest : biogeosciences and forestry::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0014747d600dd6e5126854e2ce2166ff35378f6f",
+    "to": "proceeding::2025 2nd international conference on software, systems and information technology (ssitcon)::2025",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "001489820a77467aa4ea0e168ba45b89cd81b059",
+    "to": "proceeding::rheumatology::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0014974312dfd8d2985037f9c6e053ca5316ef84",
+    "to": "proceeding::sustainability accounting, management and policy journal::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00149a8e1bf2ec13a499115989636330aae2e2ea",
+    "to": "proceeding::north american journal of fisheries management::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00149e106c4732f80cfe4cd7e9cafa7962010419",
+    "to": "proceeding::iop conference series: earth and environment::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0014d495d3258c652f579c0c9afd64f5f582ad03",
+    "to": "proceeding::cureus::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0014d94f6cfe7a8833b2ac6220e8af47696a15d6",
+    "to": "proceeding::free radical biology & medicine::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0014da9544d21ac1395ce1c5599e8b568bd42c63",
+    "to": "proceeding::cardiovascular and interventional radiology::2017",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0014f952ad661367259ff97ee0edacf3e510991f",
+    "to": "proceeding::water::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0015080982a9567ba2156129e288a39a3ba7363f",
+    "to": "proceeding::abi-technik::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00154f4ececeef833c9a35f15ab293b1e273458c",
+    "to": "proceeding::industrielle beziehungen. zeitschrift für arbeit, organisation und management::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00156d464f2090156ee550c0ce0c7be7e74e2ed2",
+    "to": "proceeding::technical  mechanics::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0015e53810da920b382b529dd57c8e95e0e93023",
+    "to": "proceeding::proceedings of the international academic conference on frontiers in social sciences and management innovation (iafsm 2019)::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0016113ab7c150924e30a0b40f25a6361e792cb8",
+    "to": "proceeding::proceedings of the 29th eg-ice international workshop on intelligent computing in engineering::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "001655a792dd467d4f1276e4d541d1c897ab6ed3",
+    "to": "proceeding::encyclopedia of personality and individual differences::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "001657e159f64ea77d1297e7e0de952da93fd8a9",
+    "to": "proceeding::future foods::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "001666ad6b1f1e60dbb47d6d6614a7d91f5dcc81",
+    "to": "proceeding::international journal of current science research and review::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0016ab017bc6b9f5d2ddaad6f8481918209e5099",
+    "to": "proceeding::international conference on measuring technology and mechatronics automation::2016",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0016bfbfb917c8057e8c2be345a7da514756a9e3",
+    "to": "proceeding::information security solutions europe::2012",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0016f8ceff8a9e24a300d3b48629c9ce4620e31b",
+    "to": "proceeding::e3s web of conferences::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "001720a782840652b573bb4794774aee826510ca",
+    "to": "proceeding::systems and information engineering design symposium::2024",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00175aab2871ca9a4a825072f26d3a05ac966934",
+    "to": "proceeding::2021 9th international conference on reliability, infocom technologies and optimization (trends and future directions) (icrito)::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "001808394f9f4cb124edfcf524c1866a29bb6f33",
+    "to": "proceeding::the jps jewish heritage torah commentary::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "001825d27b5dd827af6bac25699f92c258bfaf53",
+    "to": "proceeding::2017 23rd annual international conference in advanced computing and communications (adcom)::2017",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00182a1caa15604a468e7f433f70f6ae89a2ef28",
+    "to": "proceeding::ieee international conference on industrial engineering and engineering management::2009",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "001833f130bdc2b1547a3c8896cf1d920dcaab89",
+    "to": "proceeding::energies::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00189f80ebe6a63d4077d63284587f54c114458b",
+    "to": "proceeding::applied sciences::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0018b0826a9268de63228befa31779d6e87ee615",
+    "to": "proceeding::international journal of technology assessment in health care::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0018ea5ba5b08a7cb584d82e0caac06a249fdc7f",
+    "to": "proceeding::agronomy::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0018fabdd08706a00d284cc139310daf3f3f00bb",
+    "to": "proceeding::2023 ieee international conference on electrical, automation and computer engineering (iceace)::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "001942e9bf59f052ac6ab5ec62d263370c2e9c9e",
+    "to": "proceeding::international conference on industrial mechatronics and automation::2010",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00196f9f0e0944ff7d0b5887536e4587fcf1ea07",
+    "to": "proceeding::gut::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00197a59e99462d6e65d373504459458ee2da389",
+    "to": "proceeding::journal of applied ecology::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00197a8318cb1f584c0c6374426b12efe01d6e28",
+    "to": "proceeding::british journal of healthcare management::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0019d466430b7ff17c29c533319a3f3df10175f7",
+    "to": "proceeding::journal of hydrology::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "001a177aac2f60a62a791fda7e8111bc05073d0d",
+    "to": "proceeding::2012 international conference on computer vision in remote sensing::2012",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "001a1f3fc94c4477852518831ca2ba48d98d8b08",
+    "to": "proceeding::designs::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "001a2afba3ba5dddab1650514a8ba9cb6a2cca77",
+    "to": "proceeding::innovation in aging::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "001aa2bbc4572701de8360268bcb24397d50e5da",
+    "to": "proceeding::photonics europe::2010",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "001b466eacbc535901e9c582aefbfb3f1a6d848f",
+    "to": "proceeding::coral reefs::2005",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "001b7cb82418fcb31e3b7173e7ab82c6b652c372",
+    "to": "proceeding::herpetological monographs::2017",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "001bae6629a9aa56b17a222cfaa8d500ebd43587",
+    "to": "proceeding::biorxiv::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "001bcf9d807c575fd730588aebbb37f2ee3941b1",
+    "to": "proceeding::proceedings of the international scientific and practical conference strategy of development of regional ecosystems “education-science-industry” (ispcr 2021)::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "001c61d8ee148c9ceaae2b4672218c1aeefb1e0b",
+    "to": "proceeding::asian journal of agricultural extension economics & sociology::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "001c7118651a4dd643a3fabecab2668db1df78d2",
+    "to": "proceeding::journal of physics: conference series::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "001c860f9c90d6cfdb780139c444f23f763a6ef7",
+    "to": "proceeding::british journal of surgery::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "001ca7162107d2f7af81fecc4eec741077696a28",
+    "to": "proceeding::chemical engineering research & design::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "001dba90e7d5a6f5299cb6b315ee6d94ba66cbbb",
+    "to": "proceeding::pakistan journal of medical &amp; health sciences::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "001dc3198cc1f062947d763a376daef8a4958c27",
+    "to": "proceeding::proceedings of the 2025 international conference on economic management and big data application::2025",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "001dd13fab3eb46cc5fc2137752b88d35de400a7",
+    "to": "proceeding::archives of physical medicine and rehabilitation::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "001de7984113d00ae13a09654309dabb10de3dc5",
+    "to": "proceeding::logistik im wandel der zeit – von der produktionssteuerung zu vernetzten supply chains::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "001e15a42d3c2aec68347747873726124a0d3827",
+    "to": "proceeding::international conference on recent trends in information technology::2011",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "001e32c23304e8e78dce0e738f2182ea52e873e5",
+    "to": "proceeding::journal of lightwave technology::2016",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "001e4a9c679e6bfa0183ff102fad2f688466bd5b",
+    "to": "proceeding::geological society london engineering geology special publications::1996",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "001e4f495e09fd7a59b5e528c816f566a4d1cf7e",
+    "to": "proceeding::2024 opju international technology conference (otcon) on smart computing for innovation and advancement in industry 4.0::2024",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "001e55795905b1b6ab831d69113dbef34f4151a9",
+    "to": "proceeding::2025 world skills conference on universal data analytics and sciences (worldsuas)::2025",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "001e5e9878da2f2c2c78ce40b9196d405ad66c7d",
+    "to": "proceeding::neurology clinical practice::2017",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "001edc548d0737f38abaadb95dc12df4b234c538",
+    "to": "proceeding::veterinary anatomy and physiology::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "001f6d542e320ccfd349a6a0ca355d9f7e22b704",
+    "to": "proceeding::2021 joint international conference on digital arts, media and technology with ecti northern section conference on electrical, electronics, computer and telecommunication engineering::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "001ffe79382082c04c020ac10b59431d04122474",
+    "to": "proceeding::european urology::2011",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00202b283a1f5ddc449e8e99aef3bbf3a4549d59",
+    "to": "proceeding::international conference on wireless communications, networking and mobile computing::2008",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "002067d0bde0ceb1d25e11c84662390e7d098043",
+    "to": "proceeding::2023 8th international conference on cloud computing and big data analytics (icccbda)::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00209e2e3187b37fde465143c06bf63be99f2602",
+    "to": "proceeding::czech journal of civil engineering::2017",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0020b291bf64478e7992f667e4f7ceed364e6908",
+    "to": "proceeding::international journal of entertainment technology and management::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0020dc8af061201c1c46a679f50b73cdb23a77f7",
+    "to": "proceeding::international symposium on medical simulation::2013",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00210180a8e4b136ee7851c133b248c078f6d29a",
+    "to": "proceeding::online international conference on green engineering and technologies::2016",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00210764643f5cd4aa8476c1c87459fc6a7adead",
+    "to": "proceeding::proceedings. 2005 ieee intelligent transportation systems, 2005.::2005",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00211c1d4397e19fe3e2629450c02802a436376b",
+    "to": "proceeding::international conference on advanced communication technology::2008",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0021286fcfebfa4f1f06940c5a01ed6ff589c786",
+    "to": "proceeding::2025 11th international conference on wireless and telematics (icwt)::2025",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0002823978bfe94c10f9d14fdaf8c3d2a56545c5",
+    "to": "proceeding::asian test symposium::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0004dccc7e2df41cc980be310d827cc8d58b056a",
+    "to": "proceeding::international journal of computer trends and technology::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00057368c96d4ac05f82e280ceb4531506c921a7",
+    "to": "proceeding::international conference on cryptography, security and privacy::2015",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00058a0ef19b97ebd08ce2d0eabab2ee7518e2ee",
+    "to": "proceeding::open forum infectious diseases::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0007316746d9d3c2836ff6b81a6c0fb77d34e3f6",
+    "to": "proceeding::ieee india conference::2013",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000abaa062ba2b48c2130a30e1bbfc7d80ee3479",
+    "to": "proceeding::international workshop on the semantic web::2013",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000e09b0db5ec3e2e3fc17c62d2eafa3620785fd",
+    "to": "proceeding::international conference on informatics and analytics::2008",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000f1b7a1ce18539031a77ffc8dddbb940bd6346",
+    "to": "proceeding::sustainability science::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0013676358cdd4d34f58084a22a7953f3d68556d",
+    "to": "proceeding::world congress on information and communication technologies::2011",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0020448d7803cfd3aaba8a58bda4c8184ca518ed",
+    "to": "proceeding::international workshop on databases, information systems, and peer-to-peer computing::2005",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0021cb24a428354fafe9378363d4a98ba0b962fb",
+    "to": "proceeding::icpr workshops::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "002256f63b6e068b6e5d2d0df7b02affe276545e",
+    "to": "proceeding::international conference on advances in ict for emerging regions::2016",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00285a850f04f4f2f910a51a1ebe45c33821d5bb",
+    "to": "proceeding::acm sigspatial international workshop on advances in geographic information systems::2011",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00298eef5c6fcd87b572a876e1e13df9bca85bce",
+    "to": "proceeding::international workshop on semantic evaluation::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "002c06eb04c589732c5e226cf0a47d46fabac5cb",
+    "to": "proceeding::2007 ieee international workshop on databases for next generation researchers::2007",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "002e1eb84184efe79981b2c08936c80312f0571a",
+    "to": "proceeding::acm sigspatial international workshop on advances in geographic information systems::2002",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "003149934c2a50363a786f34fa9724f454f724fb",
+    "to": "proceeding::workshop on computational geometry::1991",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0031570aa2ebdbc0a14d6c2b61d7bbc1c38c9f6e",
+    "to": "proceeding::2021 2nd international conference on secure cyber computing and communications (icsccc)::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "003721b87806e598cc5ad4da76e27bb4164a9419",
+    "to": "proceeding::journal of clinical oncology::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "003aacc9a706b2f85632b017df4c4c2d99266087",
+    "to": "proceeding::international conference on neural networks and brain::2005",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00401438894565bbbfcd8298edeac9ab2ce2405c",
+    "to": "proceeding::biodiversity information science and standards::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0042cd4b47732cf0260494615aafd3a14ca10895",
+    "to": "proceeding::2014 ieee international conference on data mining workshop::2014",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0043c5d664f7aa835a1d24eda163bf4273d14b9f",
+    "to": "proceeding::international conference on modeling, simulation, and applied optimization::2017",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00451395df51fc7e5066e7fd65c6060c3493448b",
+    "to": "proceeding::annals of internal medicine::1993",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "004b70df72e1b88a2d17469a165481827ce4baea",
+    "to": "proceeding::international conferences on biomedical and bioinformatics engineering::2009",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "004ca9290848a95fd04016cf87349a221db87f0f",
+    "to": "proceeding::encyclopedia of data warehousing and mining::2009",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0050a556a1009a348a85e7f666f7c16442837511",
+    "to": "proceeding::confluence::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "005ce0cac5a0aa2e9f6279f6655930d6b61b023a",
+    "to": "proceeding::2015 international conference on pervasive computing (icpc)::2015",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "005dc06ebe2453f18beb25949710c8a62d761c50",
+    "to": "proceeding::proceedings of the sriwijaya international conference on information technology and its applications (siconian 2019)::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "006660077d5658e654194379f2023907d36ab096",
+    "to": "proceeding::proceedings of 7th international conference and workshop on database and expert systems applications: dexa 96::1996",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0067bc22bd100223a18c68c76f7f7153425b0eb8",
+    "to": "proceeding::smart::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0069cab68c6fce8c3ea696fa5ccc83c9997d72d2",
+    "to": "proceeding::2022 3rd international conference on smart electronics and communication (icosec)::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00788d32b5d7940bbf1c1780d48e4d06a4ac924d",
+    "to": "proceeding::yoga mimamsa::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "008505dd28fc019062fb1c7bcde19922ad3b4e0e",
+    "to": "proceeding::proceedings. the ieee 5th international conference on intelligent transportation systems::2002",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00883ff104040d32a444103a940e1a514ab76bec",
+    "to": "proceeding::2012 second international workshop on developing tools as plug-ins (topi)::2012",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "008c6c99d053b8109ab82abdbf8d7dc84d0a9adf",
+    "to": "proceeding::day 3 thu, may 09, 2024::2024",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0090cb77d0b924e3270453c4faccc95ff9d3b4a2",
+    "to": "proceeding::2024 ieee international conference on intelligent signal processing and effective communication technologies (inspect)::2024",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0091ad9b85507a1102c93582b5f3b1059cc61ade",
+    "to": "proceeding::journal of clinical oncology::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00949326441eb6feffb1bf0f6d378a998a632b0b",
+    "to": "proceeding::proceedings of the 4th international workshop on knowledge-augmented methods for natural language processing::2025",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "009839980b3cae29088e462a24b843785b6a3471",
+    "to": "proceeding::big data in bioeconomy::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "009a0619e490ef773c3cac556ab43214289a0e28",
+    "to": "proceeding::2016 advances in wireless and optical communications (rtuwo)::2016",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "009dbd3e740040f93c9fe64488b6c299baa73e7b",
+    "to": "proceeding::lecture notes in computer science::2016",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00a02b73a90bb7bda5507e12355b63f931686fe6",
+    "to": "proceeding::pharmacy world & science::2004",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00a327e97bea22c2d86ecf762b6a5044b959c06a",
+    "to": "proceeding::2025 6th international conference on big data, artificial intelligence and internet of things engineering (icbaie)::2025",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00a9885809c3a8d106ab5bbac3063f1cd3353ecd",
+    "to": "proceeding::international conference intelligent computing and control systems::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00a9d5cb477e3fb7b3eb0ffa6030446edeb92a07",
+    "to": "proceeding::spie defense + commercial sensing::2003",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00ab33517f228adff1d86f703e1fa48e3610b1c4",
+    "to": "proceeding::2021 ieee international conference on artificial intelligence and computer applications (icaica)::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00acc6bf481d6d81995d231e7931113ccc9aa31d",
+    "to": "proceeding::acm sigspatial international workshop on advances in geographic information systems::1998",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00b09c90cea89aa0d61728d1f25ce3be86a78f4f",
+    "to": "proceeding::oceans::2009",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00b1b3b3cc64ce0cbfd1b60a4d8a29510b0261dc",
+    "to": "proceeding::ieee india conference::2016",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00b23989d0d931b9ba78342b940139577c359a7b",
+    "to": "proceeding::abstracts of the ica::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00b3827ce952ca80a3e0ff72f2646dcf92a6bda2",
+    "to": "proceeding::2022 international conference on electronics and renewable systems (icears)::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00b9bbc1490ee661e6c9feaf8c615b8e4b3df148",
+    "to": "proceeding::journal of clinical oncology::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00baa5ceb0e42d3513668f94020aaea3e221029e",
+    "to": "proceeding::confluence::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00bad2cc13ebb8a1c85f564f5b3523fc2d5d0b2f",
+    "to": "proceeding::journal of optometry::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00bbee220d012a792d63ab3398344705a92b1253",
+    "to": "proceeding::2022 global reliability and prognostics and health management (phm-yantai)::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00bc0a6d1d6128789a20c23d746016f14fd3268d",
+    "to": "proceeding::2011 ieee international conference on bioinformatics and biomedicine workshops (bibmw)::2011",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00c39fa66f90482438702b96bae917f4877f404c",
+    "to": "proceeding::proceedings. tenth international workshop on database and expert systems applications. dexa 99::1999",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00c59f684ac2c8c02011499b2ae63b4eb8711063",
+    "to": "proceeding::international journal of computer trends and technology::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00c647ffe724bb0b7fa8184c12e79e9974c94ccb",
+    "to": "proceeding::bmc neuroscience::2012",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00cef62ad2729544898ca4001fc606838d2e6cc0",
+    "to": "proceeding::ankara hacı bayram veli üniversitesi i̇ktisadi ve i̇dari bilimler fakültesi dergisi::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00cf16729d6868056f9ec24adfd7ab9c2c65f01c",
+    "to": "proceeding::international workshop on document analysis systems::2016",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00cf6ddc4b94429e0f104c35b801378f93ec14eb",
+    "to": "proceeding::applied sciences::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00d4d2b0748a3012571521d2e3960e7ac180975b",
+    "to": "proceeding::2024 6th international conference on frontier technologies of information and computer (icftic)::2024",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00d4ec97d25c05c55725d5b0cd0f94c86f343918",
+    "to": "proceeding::asset analytics::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00dff5a3350a2af6966cddfdf577072c206cf5e3",
+    "to": "proceeding::international workshop on multiple classifier systems::2010",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00e11e1c6eab915ae61a8bfd453a89f704fec8bb",
+    "to": "proceeding::circulation::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00e24432e7f4c51f34ab77c69424372510f5355d",
+    "to": "proceeding::blood::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00e77339afe690e53292ea4d08f821e41cdf8010",
+    "to": "proceeding::ieee joint international information technology and artificial intelligence conference::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00e9ee64c5c25c37f404c2fa1256f489af238a01",
+    "to": "proceeding::otm workshops::2004",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00ec3414df2bbef4695a0706982a1a1fa2fb50c6",
+    "to": "proceeding::geofluids::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00fb5f01f6daed7204e10c8db0f128333d7e8a11",
+    "to": "proceeding::2012 ieee symposium on robotics and applications (isra)::2012",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00fe713169f1f949c7c5c6e5d6c6419c45e55594",
+    "to": "proceeding::international journal for research in applied science and engineering technology::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00ffe8ad743332530b32906905b0159e13ea8fbb",
+    "to": "proceeding::international journal of retail & distribution management::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "01000007a8b3b6063f2ee07741d3e9b14e4b780c",
+    "to": "proceeding::environmental evidence::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0100c00dbf0899ce0acac8cfb878ff3654eb3e6f",
+    "to": "proceeding::asia pacific symposium on intelligent and evolutionary systems::2025",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "010ab2f3de425b1e8500ecbcc741dd0aecd325a8",
+    "to": "proceeding::applied sciences::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "010d57e188cbf9f40b47ff63b4616255271673e3",
+    "to": "proceeding::new trends of research in ontologies and lexical resources::2013",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "010f68b69e44b199759930751e678d84c81c6299",
+    "to": "proceeding::lecture notes in computer science::2015",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "01102d7b2f1ec0a7767ce78883fe90a23e60a164",
+    "to": "proceeding::academic psychiatry::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0112defa8a008005693c683bcdc630c0e04af0dc",
+    "to": "proceeding::frontiers in education conference::2025",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "01135421c7b47aa1850d0aebd8ec1085a5ba0829",
+    "to": "proceeding::east/west database workshop::1990",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0115aab19ef11f9bc84537f3e8719ba7c47f5043",
+    "to": "proceeding::defense + commercial sensing::2012",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "01177810d1a7a9c69b44ceef645dd5330de69d37",
+    "to": "proceeding::international workshop on the semantic web::2008",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "011c996b69ae6eaf69e36845a070d32872797f23",
+    "to": "proceeding::indonesian journal of electrical engineering and computer science::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "011d460ceac9f217e6a4b4575d3bfd49f6f3b0db",
+    "to": "proceeding::the superior journal of physical therapy and rehabilitation::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "01231ac1cd532937799bae610ee93ba9f5d1c081",
+    "to": "proceeding::2023 2nd international conference on edge computing and applications (icecaa)::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0124e50626f9345404ef2bda5d9670798679e28c",
+    "to": "proceeding::community-built databases::2011",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "012523dc6bf330e4148f04e9b523dbb824878b2c",
+    "to": "proceeding::international conference on technological advances in electrical, electronics and computer engineering::2013",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "012d029edeeed583edeb65fc5c3e034f906dc134",
+    "to": "proceeding::high performance visualization::2012",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "012d70ae7de058caefbea88d8a5d56bb3177eaa6",
+    "to": "proceeding::international journal of advanced computer science and applications::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0134f0543abe2dfac2de7ba02c6bd8b7851a15be",
+    "to": "proceeding::international workshop on data warehousing and olap::2013",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "013571d0250f4f7c1ef6c1c6793b2c205b4f4926",
+    "to": "proceeding::international conference on computational intelligence and communication networks::2011",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0138f22e7023902046ecd299d209cecf0da1dff5",
+    "to": "proceeding::ieee workshop/winter conference on applications of computer vision::2017",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "013ae3458cc662cc5117e1175ec421215ebe20eb",
+    "to": "proceeding::2024 international conference on automation and computation (autocom)::2024",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "013b166fd2e66686ceba1c2c93fa7c3abd56e07b",
+    "to": "proceeding::economics. law. innovaion::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "013b52be6611b98b1d75b9465dfd5e46acf9286f",
+    "to": "proceeding::international conference on artificial intelligence and soft computing::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "013c2e4281509a31f0ade5ce378b03652051d7a5",
+    "to": "proceeding::conference, emerging information technology 2005.::2005",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "013ce40ab8b960911500ebe08cad208e53be7fb1",
+    "to": "proceeding::international conference on signals and electronic systems::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "01417d685d55bcb807519820585d9e2b7d47858e",
+    "to": "proceeding::research in international business and finance::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "01419b712f4ba4e1bc5c02f0e6c130199426f162",
+    "to": "proceeding::acm international workshop on web information and data management::2003",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "014234ee02951a2c17d0121f46a1f699c950cafb",
+    "to": "proceeding::bulletin of the school of oriental and african studies::1987",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "014309de64af75824e5b3e8d4e7ee48e64c52344",
+    "to": "proceeding::2010 second international workshop on education technology and computer science::2010",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0145b20c87f439978e64779b1524034dae0452bf",
+    "to": "proceeding::2023 international conference on research methodologies in knowledge management, artificial intelligence and telecommunication engineering (rmkmate)::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0145f3bbf5f5d0dbb1efab13cec223a11b264a5c",
+    "to": "proceeding::bmc genomics::2015",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0146bf28ce9c360b431d06ae2ce82836be012e64",
+    "to": "proceeding::geoinformatics::2006",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000007f52007c82bd93f1286133aadecce44a51f",
+    "to": "proceeding::journal of plant growth regulation::2015",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00000cf99f69473ebc5ca90dcd86cecfa7ee8a40",
+    "to": "proceeding::sankhya b::2017",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0000147cbab39946a46b256dde4aea36a30490ad",
+    "to": "proceeding::ideas: jurnal pendidikan, sosial, dan budaya::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0000233de254693ff6577c5e8d3bf15b456d72be",
+    "to": "proceeding::proceedings of the first ieee international workshop on sensor network protocols and applications, 2003.::2003",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00002fe92249f0c2659ab6558ca2c6d0f77415f9",
+    "to": "proceeding::biorxiv::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00003833040dcab9f8e75357312a24ee098e58bb",
+    "to": "proceeding::international journal of engineering and technology::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00004ebbdbfee60e3caf70ed0050fc064ddef489",
+    "to": "proceeding::international journal of vehicle systems modelling and testing::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00005710e12946aa564c5b3ea682c5774ec242ad",
+    "to": "proceeding::ieee power & energy society general meeting::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00005accbdae370cfac87013a14de07339c817ff",
+    "to": "proceeding::perspectives on medical education::2013",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00005d3585aaccaf0198eb73140ae82f168985e2",
+    "to": "proceeding::moscow university geology bulletin::2016",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0000627a402141da113dfb8148711fecfcb4fdd1",
+    "to": "proceeding::security and communication networks::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000065e8e971cbc8e4b44fd61ac7b8b8b3cba014",
+    "to": "proceeding::stroke::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00007a2ab87982569a877440737e7803fd719cdd",
+    "to": "proceeding::1998 ieee second workshop on multimedia signal processing (cat. no.98ex175)::1998",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00007a36fbc12f47037ab81500aed6be2216c249",
+    "to": "proceeding::ieee transactions on industry applications::2010",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00009f50cae394a8755c69ad914ffbe0b8f9aa96",
+    "to": "proceeding::philosophical transactions of the royal society of london. series a: mathematical and physical sciences::1975",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0000bfee79a83b78c5da749062d0fdd54a5714fc",
+    "to": "proceeding::fifth international conference on advanced robotics 'robots in unstructured environments::1991",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0000c2e94c73976161cbd6a7fa23720b163c05e6",
+    "to": "proceeding::heart::2014",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0000d22c04d7fbb15e9647aff71303938f8838f9",
+    "to": "proceeding::photonics europe::2014",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0000efab1ef383cc17b1816c8612f1c6acc43dcc",
+    "to": "proceeding::journal of physics: conference series::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0000f7b97914da30c259a1d2acc1903371d7cfde",
+    "to": "proceeding::2026 5th international informatics and software engineering conference (iisec)::2026",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00011146c48e52a8447773b714a8432cda04020a",
+    "to": "proceeding::wireless communications and mobile computing::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000112b43c1315fb8f4059832d0860695a9751bc",
+    "to": "proceeding::pharmacoeconomics & outcomes news::2017",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00011c61f2584bc8ed2b2ae8a0fec57036a7f692",
+    "to": "proceeding::malaysian journal of learning & instruction::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0001472f791aafdde51953add2706280a25954b5",
+    "to": "proceeding::international conference on crowd science and engineering::2014",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00014f593feb05f3ca23328e7aab9b02b2e16555",
+    "to": "proceeding::2010 ieee international conference on bioinformatics and biomedicine workshops (bibmw)::2010",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0001637b3b3ccc5ca23813b7858494eef7d5b0ac",
+    "to": "proceeding::matec web of conferences::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0001773e5e3f30f6c1b730eba067fdb3577a0e5c",
+    "to": "proceeding::biorxiv::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000184e1da88ef4c14b23cba1d5670975dc95c83",
+    "to": "proceeding::proceedings of the 2nd international conference on economy, management and entrepreneurship (icoeme 2019)::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00019d0dea6d7068d057567da863cf9ffe8d25aa",
+    "to": "proceeding::aiaa aviation 2022 forum::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0001a6aba213ed2062517bf351e6cbe4968dae58",
+    "to": "proceeding::proceedings of the 2nd international conference on mathematical statistics and economic analysis, msea 2023, may 26–28, 2023, nanjing, china::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0001aaaab1a9dd41794f49791cbe7f95288ccec5",
+    "to": "proceeding::circulo de linguistica aplicada a la comunicacion::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0001d2042ed1f0ded9e85edc353860c2d5c3a0cc",
+    "to": "proceeding::other conferences::2024",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0001f3703fff201a1d5ae03f0f1138111e42e0b7",
+    "to": "proceeding::2023 international conference on network, multimedia and information technology (nmitcon)::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000219151b3178295c7626581be6f50eec0e985a",
+    "to": "proceeding::australian journal of agricultural and resource economics::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00021968c837d5a08ff7ebb16a17a28b94cd8e19",
+    "to": "proceeding::other conferences::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00024433e7a5844af2980106683f3faba60af4f1",
+    "to": "proceeding::computational continuum mechanics::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000244ab58b8d1460be208b30d9d4a1445ab20c5",
+    "to": "proceeding::biorxiv::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000253856a7b39be2fd8fef53440c3a493714388",
+    "to": "proceeding::third international workshop on hardware/software codesign::1994",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00025c537f1b267ccb5fed7ea8b5608d5773aba5",
+    "to": "proceeding::2006 international telecommunications symposium::2006",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0002622521ba2206628b0f9128759c57a67477cc",
+    "to": "proceeding::ieee international workshop on multimedia signal processing::2014",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00026227dc55b5e30ac2c7b7e338331b89fdf472",
+    "to": "proceeding::medrxiv::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00026610b41a906cf36073ec08c1e372976819ea",
+    "to": "proceeding::machines::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00027b0db92ab402ed9f8616c2a73c739875409b",
+    "to": "proceeding::2009 first workshop on hyperspectral image and signal processing: evolution in remote sensing::2009",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00027faf3c04a9cd15844989c01acb058853f748",
+    "to": "proceeding::bmc neuroscience::2013",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000281485e207d84486fb03aed5fe67f30c07592",
+    "to": "proceeding::journal of the geological society of india::2014",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00028361ecfa799c1eded2196f2cb6e0fd99000f",
+    "to": "proceeding::proceedings of the 3rd international conference on public administration and governance, icopag 2024, 30 october 2024, malang, indonesia::2025",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00028fd768453522c0f7fce8294ee62091e6ed0b",
+    "to": "proceeding::earth system science data::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0002bf52799ade3fa949fff1c7168c8e1fec937a",
+    "to": "proceeding::dharmas education journal (de_journal)::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0002cf7dd6522c819ef00315956fddd0a7a13cee",
+    "to": "proceeding::review of agricultural and applied economics::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0002d7cf5a70f20ee5918b8473b9c2e78f203d7f",
+    "to": "proceeding::journal of clinical and nursing research::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00031ea9ba2be7b1e6e20f7aba288e35c1313ec2",
+    "to": "proceeding::2023 ieee/cvf conference on computer vision and pattern recognition workshops (cvprw)::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000320345fa99d2f00cbda4d160efb70d5c7b726",
+    "to": "proceeding::international journal on advanced science, engineering and information technology::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000320f204ffa0327e6f7910d813df1669777127",
+    "to": "proceeding::hernia::2010",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000348094b75a6d175b9dd97d9f5635a6423a89b",
+    "to": "proceeding::inflammation::2011",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00035328d59878c9299b56feabcbd1dd995c57c0",
+    "to": "proceeding::long island systems, applications and technology conference::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000378a307e2fb64a2945378cbb490eb2f3b2b19",
+    "to": "proceeding::social science research network::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0003833fbc8cca649c4c0aac52ab2d69ddef5792",
+    "to": "proceeding::journal of sport management::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00038b819711deca2552d497f1f6106dee64ce17",
+    "to": "proceeding::frontiers in earth science::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00038fc0b8811b23388c1e474ed2845a98a4bd16",
+    "to": "proceeding::emc europe 2004, international symposium on electromagnetic compatibility::2004",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0003ab3b8ae7f908bc033ed5de659533768a0f3b",
+    "to": "proceeding::international journal of technology::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0003b516f8d94d16295d7047fdaf0e7842a48f56",
+    "to": "proceeding::2025 3rd international conference on iot, communication and automation technology (icicat)::2025",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0003e0ac0f8f4b50065f0e0c43b95896639fe2a3",
+    "to": "proceeding::water::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0003e0ef4b6c8ae72021e8250ece7fd827f51e3e",
+    "to": "proceeding::mathematical methods of statistics::2013",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0003e6a5db84dd4716d6ad88dd7f8ae0347427f5",
+    "to": "proceeding::ecoscience::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0003ec8f5f9c11c9d85a6606fd367ad115f790cc",
+    "to": "proceeding::jurnal basis::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0003fb98d770a7b8c1d282d178076d3a67591bcf",
+    "to": "proceeding::public organization review::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00040c83033c16d10cfc88780c216e1c9e0bc9dc",
+    "to": "proceeding::2023 international conference on self sustainable artificial intelligence systems (icssas)::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00041a89d06c5f5e7a4a95f1a33f7b9db7f5c12f",
+    "to": "proceeding::2024 ieee international conference on communications workshops (icc workshops)::2024",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00042f1df92b7188a3ae34ad4e6e3a5cdea7c0e5",
+    "to": "proceeding::environment, development and sustainability::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000442e0ef43f98f5ca2eb250296dc43b753732b",
+    "to": "proceeding::proceedings of the royal society a::2008",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00044fd73e68bc623cd7b059d0ff050a2d871b5d",
+    "to": "proceeding::2019 international conference on intelligent informatics and biomedical sciences (iciibms)::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000466daba9f58e64ae47de20a7b9d1a17945fb5",
+    "to": "proceeding::international workshop on complex networks & their applications::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00047279666bf4dce31ccee0e4de8cb4f8cbe7d2",
+    "to": "proceeding::journal of economic inequality::2017",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00048d3cb78d3f4b3b782df6728d9858acbf84b1",
+    "to": "proceeding::journal of cardiac failure::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000498546c259e9ea581fc79337ebd6210d70d93",
+    "to": "proceeding::indonesian journal of electrical engineering and computer science::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0004ad78f36f0cb14ac63073feeb877c19954d78",
+    "to": "proceeding::ieee international geoscience and remote sensing symposium::2025",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0004b88f2e2705c482dffc2cfbc49aa99a700476",
+    "to": "proceeding::oceans 2019 mts/ieee seattle::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0004bc098b64bce48c271f22da03b94fdd4b96a1",
+    "to": "proceeding::journal of investigative dermatology::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0004c4efe6d3f86866d894bbfc0f72cacae19b34",
+    "to": "proceeding::international conference on remote sensing, environment and transportation engineering::2011",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0004c91d3799562dc1d03d243adbea1f60f4699c",
+    "to": "proceeding::iop conference series: earth and environment::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0004dfdbdd0cff862541dba50a980e34ca0a0c65",
+    "to": "proceeding::journal of solution chemistry::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0004e9bc77a49b485e3818245ccc1be189caabec",
+    "to": "proceeding::journal of coastal research::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0004eb4ba9f9096af88f8302459cc12a7d808007",
+    "to": "proceeding::nature clinical practice gastroenterology &hepatology::2008",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0004fe12ae50ed77aab5d8bfbe74bb58d9b333c1",
+    "to": "proceeding::international conference on networking, sensing and control::2009",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0004ff5cfcd85affb487cbf8edb75754b74c24b0",
+    "to": "proceeding::international symposium on applied machine intelligence and informatics::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0005231bd417e147c774cc796eb86b658d4071f6",
+    "to": "proceeding::atmospheric and ocean optics::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00053c4438c106af42654c0e354ac4f0fcaff16e",
+    "to": "proceeding::ieee international conference on mobile adhoc and sensor systems::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0005477d5330c4f7df77537e5cfcd4532a7218b3",
+    "to": "proceeding::journal of physics d: applied physics::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0005486715bfc41b668520316a50fd2a84f22bb4",
+    "to": "proceeding::journal of solution chemistry::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000556b7e7c2e395c3867f656a362fe0a7434c40",
+    "to": "proceeding::agricultural economics (zemědělská ekonomika)::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000567d340d23ad453a264c0a9c6e105dec93fb2",
+    "to": "proceeding::applied physics a::2016",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00057700805b90f9d37be6af2de0875c3810a437",
+    "to": "proceeding::spie optics + photonics::2006",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0005907f20c591a6ec26f15a9216f1646e84b900",
+    "to": "proceeding::2019 asee zone i conference &amp; workshop proceedings::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0005a1da310b64da7cb41bb58b80c8646eb12aa4",
+    "to": "proceeding::cartography and geographic information science::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0005b85af78452a9d50f91f7bfbca8f460464ac7",
+    "to": "proceeding::jurnal unitek::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0005d089fb15c03928352ea587d55c6289e46d07",
+    "to": "proceeding::parent training for disruptive behavior::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0005d0dc0f1ad22a99166382225c6fdd3a697c37",
+    "to": "proceeding::conference proceedings::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0005d0ebbed88b911b3c4a0cb17a82b4ed762ed9",
+    "to": "proceeding::journal of the indonesian society of integrated chemistry::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0005e11be6c17991aa183bfd7f9fd5162a541ca8",
+    "to": "proceeding::food security::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0005ea16e5c3d08e7f9ac95867e8e70686f751ee",
+    "to": "proceeding::journal of advertising research::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000602b6e957d1bf7934acbfcf4a038e219b1117",
+    "to": "proceeding::regional geology reviews::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0006394f8320de767e3e0c36e8127eaae0801d90",
+    "to": "proceeding::ubiquitous computing, electronics & mobile communication conference::2025",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000640e3a7a69e74475c693b35a2e5e779845660",
+    "to": "proceeding::ekonomika a spoločnosť::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000647c79915c001131498efa53d96ad56337da6",
+    "to": "proceeding::turkish journal of agriculture - food science and technology::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00065a0d197b475bcf67b7e51778191d1c7c2dab",
+    "to": "proceeding::workshop on cognitive aspects of the lexicon::2024",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0006622771cad7597dfd48a896b500a1d278b3b7",
+    "to": "proceeding::geophysics::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00068740931694d8c32f5d87f93e3c093a69aec3",
+    "to": "proceeding::loughborough antennas and propagation conference::2010",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0006abf8fa45998750c5ab41303fac8d0eefef6b",
+    "to": "proceeding::medical mycology::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0006b335c09da8800fced4fd25ff7b77caf1e455",
+    "to": "proceeding::international journal of geotechnical engineering::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0006b39165ea759aa01a80e6cac035b7e71423c8",
+    "to": "proceeding::2022 ieee nigeria 4th international conference on disruptive technologies for sustainable development (nigercon)::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0006be30654a942ae1d2623d6b6281b1b91b0b70",
+    "to": "proceeding::proceedings of the 30th international conference on computer graphics and machine vision (graphicon 2020). part 2::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0006c14374f64ffe90f5c787055780649bd19f3b",
+    "to": "proceeding::mineralogical magazine::1979",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0006d09c6afd537fdcbdec81c781d7c7cd945945",
+    "to": "proceeding::international middle east power systems conference::2016",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0006d15b7e800b2d6b2b249141738e3327fca2d7",
+    "to": "proceeding::qualitative research in financial markets::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0006e5512db5aa2dfdd71ed46a1954cc04a318c2",
+    "to": "proceeding::[1990] proceedings. the twenty-second southeastern symposium on system theory::1990",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0006eb9029a06771760685624d73788d8c3e4c5f",
+    "to": "proceeding::engineering and technology journal::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0006ecc01e6fd22e84de8da4969273a1fdd15ba5",
+    "to": "proceeding::asia communications and photonics conference and exhibition::2009",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00070837cf6cfd61edef86d20dc7baca3916fd06",
+    "to": "proceeding::2023 ieee 4th china international youth conference on electrical engineering (ciycee)::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00070eda6146edd6eac751314a3d6bf568db6ed7",
+    "to": "proceeding::journal of immunology::2015",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0007168681735001fe2314f567c8a457b5e7592d",
+    "to": "proceeding::chemické zvesti::2016",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00072a63fe0c0a74879ebe8e8ab9dea428f8bc31",
+    "to": "proceeding::indonesian journal of agricultural research::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00074cc2559f724b030e2a6b3655e71be5c0b3f8",
+    "to": "proceeding::journal of applied statistics::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00074d5db68ed398e385c6f674b26c6a5e982f28",
+    "to": "proceeding::journal of geophysical research: atmospheres::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00076dc993460643b96c364e98fef982c572fe82",
+    "to": "proceeding::proceedings of 2011 6th international forum on strategic technology::2011",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0007883075b84fd6a782d06ffac74332d4fd3743",
+    "to": "proceeding::analytical chemistry::2002",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00079607e234f612f36491263864c848ea6deccb",
+    "to": "proceeding::linguistics and culture review::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00079f9cb81787a2b3d1a00aa94ff4d7de6c6027",
+    "to": "proceeding::2010 11th specialist meeting on microwave radiometry and remote sensing of the environment::2010",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0007c23101e372ac89bef8f526c29243bb14d991",
+    "to": "proceeding::clinical phytoscience::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0007c327a4d706d2ddbf602f69adc1c4d3c4ded4",
+    "to": "proceeding::2025 international conference on sustainable communication networks and application (icscn)::2025",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0007c73710d76a8a00ec2421597d2d7f3a9674dc",
+    "to": "proceeding::feminist economics::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0007ca7371751ac2e9bce04ba892534fed778dcb",
+    "to": "proceeding::international journal of health sciences::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0007e7b8d9f94821328dc5d72017c700b4bccea5",
+    "to": "proceeding::earthquake engineering and engineering vibration::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0007e7cfdd2fb4b9ffcb09f01fc32928b759a11f",
+    "to": "proceeding::inflammatory bowel diseases::2010",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0007fc394073535aa99359959124287cf10a0914",
+    "to": "proceeding::international journal of agricultural economics::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0007ff80ba32baf47b55d4e507a2f0a862974af4",
+    "to": "proceeding::cancer research::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00080fe635e012e9b610eb3c474fd64bcf54dd94",
+    "to": "proceeding::jurnal paedagogy::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000824be3e68dae5171d26b52259a45a04dfaed5",
+    "to": "proceeding::sustainability::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0008334a176fec5e0f99b6bb16383b70b58c520b",
+    "to": "proceeding::conference on lasers and electro-optics::2002",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00083372d24ff5af9a11ac9a99a0a7db387cf956",
+    "to": "proceeding::american journal of epidemiology::2009",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00085de916336cd45649b6bc47ae67cf9e1311ec",
+    "to": "proceeding::medrxiv::2024",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00086bcdd7b07b844f4fd9dd745972dd3e92d3ad",
+    "to": "proceeding::volume 2: advanced manufacturing::2025",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00086d80b0a6da504cca37361c4ad77a4f8bcdc1",
+    "to": "proceeding::2025 ieee international conference on advanced systems and emergent technologies (ic_aset)::2025",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0008c69c7e000a02c6f063ad00f0d466c18c3dc8",
+    "to": "proceeding::letters in spatial and resource sciences::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0008c6d70539b432c58c4e258d171878e3dd3958",
+    "to": "proceeding::proceedings of 23rd scientific conference “scientific services & internet – 2021”::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0008e1e1fafabd8e5c7418d5cbc74ace257bde81",
+    "to": "proceeding::2006 2nd international conference on information & communication technologies::2006",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0008e878beb10e078e773005897341a576a33b0f",
+    "to": "proceeding::journal of immunology::2011",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0009021fc6d0aab240b8e129b3250ead0410ae98",
+    "to": "proceeding::efsa supporting publications::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000908a663780ef2d62cd639f53ceb2614f3648e",
+    "to": "proceeding::international conference on power electronics and artificial intelligence::2025",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0001a11df4a1ad322a734b8767a60fdefe59967e",
+    "to": "proceeding::conference on designing for user experiences::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00026fd66ec10c7f4e3c93188d98c22231b50565",
+    "to": "proceeding::e3s web of conferences::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0002719d6d10a0db99c67c63beb03a6a16e2edfa",
+    "to": "proceeding::advances in data mining and database management::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00033e34d51fdb7cbf1040b19638f89810fe1742",
+    "to": "proceeding::telemedicine journal and e-health::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00036e8ce47307c9a49dec4669da40fdea11e3a0",
+    "to": "proceeding::european annals of otorhinolaryngology head and neck diseases::2016",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000996d180ee7cc81e7809a5b8bfac34b2cb095d",
+    "to": "proceeding::chemcatchem::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000a58ab4ad1c70f0153357e48cf066e020656c8",
+    "to": "proceeding::international symposium on multispectral image processing and pattern recognition::2009",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000ba8854e6c183d42a0813ecc59f18eb62839f7",
+    "to": "proceeding::atmospheric and ocean optics::2004",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000ba9a2be913e1b31b47bca09f024b0dce24b01",
+    "to": "proceeding::journal of low temperature physics::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000c16e2d6548533eedb61a7a80e18afb08c6bbb",
+    "to": "proceeding::international conference on contemporary computing::2025",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000cf2bc89665c6176fb7c5a9bd4faa0bd2827e2",
+    "to": "proceeding::2024 second international conference on data science and information system (icdsis)::2024",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000df5e2dc6811d17e8b177a0aec24dce5210525",
+    "to": "proceeding::research technology management::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000e32f91e5ef66d295f04a97c0b362aab99a937",
+    "to": "proceeding::international journal for research in applied science and engineering technology::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000e64eea7095f80fb201774c735f98b0efa9807",
+    "to": "proceeding::open information science::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000e72b199ca1c622ac326f07d0e20ea23dec601",
+    "to": "proceeding::journal of applied remote sensing::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000e8ef2c13a895a309ff58be6e0bfdfb6245bc8",
+    "to": "proceeding::international conference on graphic and image processing::2011",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000e9976cc9a476592e95e4e544aa455d1fff017",
+    "to": "proceeding::jurnal pendidikan teknologi dan kejuruan::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000f0e56ba6b17db952e885962f539e2d2e9da07",
+    "to": "proceeding::journal of physics: conference series::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000fd8e357c5a55447d8e75097c9d5ad6a83d4c7",
+    "to": "proceeding::batteries::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0010fbb425f8f7adaefa2d6c3a58005737cc7c8e",
+    "to": "proceeding::youth academic annual conference of chinese association of automation::2024",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0011ad2915dedd2d714b45a06bde08af0cccd4af",
+    "to": "proceeding::ra journal of applied research::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0014a1d051b25444a2e678f1e1aba703d2344675",
+    "to": "proceeding::innovare journal of medical sciences::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00172093e55deb28a770d232f1e88d86beaaa668",
+    "to": "proceeding::medrxiv::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00172f48607a11ab43710528f12d2478fb0b922d",
+    "to": "proceeding::2023 3rd international conference on innovative practices in technology and management (iciptm)::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0017607e95596204155f4e049495ab0afc001da0",
+    "to": "proceeding::international journal of emerging trends in engineering research::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "001896de2c7492596d14f84f9b2cf6cf3e889b2f",
+    "to": "proceeding::2025 5th international conference on expert clouds and applications (icoeca)::2025",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "001a5b9a44ae3f6205000cce5e9ce73e8863b615",
+    "to": "proceeding::quarterly journal of the royal meteorological society::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "001d07143576c663bbbe1133b1ef7c16e0de9ebe",
+    "to": "proceeding::ieee spectrum::1978",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "001e5742796f2d59a50152d3511b769a0be34c69",
+    "to": "proceeding::journal of petroleum technology::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "001f42ee83b52eca36e734405285dd674d42accc",
+    "to": "proceeding::indian journal of computer science and engineering::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0020000d50eec5301ea02be3309ab6e90aef34a0",
+    "to": "proceeding::international journal of population data science::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0020a15e757655093585df6bd3d23626eeb451f3",
+    "to": "proceeding::archives of virology::2017",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00225647a6ce5be1403fcd0c7e8717650e1449b7",
+    "to": "proceeding::microscopy and microanalysis::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0023028b910fbed60f102c30fd1c431e9d872c59",
+    "to": "proceeding::lecture notes in electrical engineering::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00231bb5599a1b8bd9695127b6f9f7367e0ca795",
+    "to": "proceeding::frontiers of chemical science and engineering::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00231c0a9c9ac76ba89d7c77bdeab3786da0b115",
+    "to": "proceeding::critical social policy::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0023d01ead095ae1ea73c9e4f30468d04a6ad73e",
+    "to": "proceeding::journal of physics: conference series::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0023d15833dd731942a816b8a5538693574860c3",
+    "to": "proceeding::2016 30th international conference on advanced information networking and applications workshops (waina)::2016",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0024d0e21650820838a5123fc0e826fcd6962692",
+    "to": "proceeding::2022 international conference on intelligent technology, system and service for internet of everything (itss-ioe)::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0024e45c4e631490db37b555bf2fd8161e58cff7",
+    "to": "proceeding::international conference computing methodologies and communication::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0024f50e8e6f39867076c4b7dc488bdfc20649fb",
+    "to": "proceeding::applied sciences::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0025ba722bb69bbd92a961b56773daecd9ade5cf",
+    "to": "proceeding::the social science::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00267b54ca28b951edba065a8ef193eb9177c2d3",
+    "to": "proceeding::2022 2nd international conference on electronic information technology and smart agriculture (iceitsa)::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00278cb4d94ba6f48a42ae8544de8d60a49d8dd1",
+    "to": "proceeding::international journal of humanities and social sciences::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "002903cf9cc61cbf3d7cb5e025ea3f0c8e09327a",
+    "to": "proceeding::advances in library and information science::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0029243de27396b3bdc6fdad16d6f56bc11b6ab5",
+    "to": "proceeding::nature physics::2011",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "002a8f66de718394ad448e3496014a16833c5561",
+    "to": "proceeding::frontiers of engineering management::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "002b1598f0187f06d20a436fc5c23b758df7a346",
+    "to": "proceeding::international conference on information science and engineering::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "002c88b04a760883e3b7b148de27dc0dd7955716",
+    "to": "proceeding::intelligent and fuzzy techniques in big data analytics and decision making::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "002cf75051d1cb28b814eb3bbcc944faf43e2ca2",
+    "to": "proceeding::aeronautics and aerospace open access journal::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "002debc857f3120d92da3646a218ae6efa6fc005",
+    "to": "proceeding::sustainability::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "002dfadfd071676eeeb8dc8d4df549f1f2444009",
+    "to": "proceeding::2022 smart technologies, communication and robotics (stcr)::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "002e0628b2f4a221c4c2beb680c89c29d8cc1228",
+    "to": "proceeding::american statistician::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "002f0c98a16f9ea6230eb55908ef40a9a8d98d43",
+    "to": "proceeding::caml review / revue de l acbm::2001",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "002f290f8f77c74a4b382eb26170d2a788ee0a83",
+    "to": "proceeding::european journal of training and development::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00317f2d7e6efc1573b850f0944aba6a93f6daee",
+    "to": "proceeding::medrxiv::2024",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00331737271483ac713994534eba7de9e5c13b2c",
+    "to": "proceeding::2024 international conference on advances in electrical engineering and computer applications (aeeca)::2024",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "003324a0aa456ae87e3da6a55b812e2e1eb97074",
+    "to": "proceeding::proceedings of the 2024 9th international conference on cyber security and information engineering::2024",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0033b5db2e34c1c3618f275b8cca92e851bb7582",
+    "to": "proceeding::the aesthetics and politics of the online self::2016",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00343a5e082d9ab865a3982ca8af5056646c6530",
+    "to": "proceeding::biodiversity information science and standards::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00349f6857d7def7b1080653c1a70176a612aff3",
+    "to": "proceeding::advanced computing in industrial mathematics::2017",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0034a81880ddfaf71e6d36e2ac46647a8949714f",
+    "to": "proceeding::physics in perspective::2016",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0034ee97eb420a252e0ddc8f9b23d4fcfc268791",
+    "to": "proceeding::live campaigns::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0034f641d1b297a7b481de889aef206a056e0710",
+    "to": "proceeding::journal of transport geography::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0035d7659671f781989b6f6df013a24474b1b15f",
+    "to": "proceeding::acm cloud and autonomic computing conference::2024",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0035f32347511f8d0250380880797b39dd5ff4ee",
+    "to": "proceeding::2020 international conference on educational training and educational phenomena (icetep2020)::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00394d6c3aa41c96a76b8d329174f7ada720e874",
+    "to": "proceeding::2019 ieee 8th international conference on advanced power system automation and protection (apap)::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "003a734dc059091f046389e0d7b9a1d163b2e5d8",
+    "to": "proceeding::sustainability::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "003ad647b23fc366cf0afc1a425474d608308279",
+    "to": "proceeding::journal of animal science::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "003aeb982c1b3078e6d564f00c2797305586a96c",
+    "to": "proceeding::journal of southern hemisphere earth systems science::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "003b0d8b5423feefe01f9b0123e983163b57c5bc",
+    "to": "proceeding::bandung conference series: statistics::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "003be4f7d6f2430ea4250a1954216f5d431b4c6f",
+    "to": "proceeding::international journal for research in applied science and engineering technology::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "003c197b208f3c76e7a24d28726a86312a42f11d",
+    "to": "proceeding::proceedings of the 2022 international conference on computer science, information engineering and digital economy (csiede 2022)::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "003c673c7431f7f736e604a3009e0d0e4f5150a7",
+    "to": "proceeding::proceedings of the international conference on policies and economics measures for agricultural development (agrodeveco 2020)::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "003c76c07dd00f491319befe75ceab7a36d19dbf",
+    "to": "proceeding::2022 2nd international conference on big data engineering and education (bdee)::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "003d4133a509f6b5427778aaec0e816e65ad3e78",
+    "to": "proceeding::hydrology and earth system sciences::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "003d90ea0082a03dd248ed78392a7dec7752e99d",
+    "to": "proceeding::al-ishlah: jurnal pendidikan::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "003d9b772c4011c641ae0972d2b0066ff1cbbbcf",
+    "to": "proceeding::ieee transactions on applied superconductivity::2016",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "003e2b9e7331d447cb8e6a431044559c57735dba",
+    "to": "proceeding::international journal of recent technology and engineering::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "003e84078b37935f122421a37f0ba6fc2401e6c0",
+    "to": "proceeding::social science research network::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "003eb6e26dd2ef9cbdd0515c5c32840c4dacb099",
+    "to": "proceeding::intersections::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "003ef66767adb1e9f2015b2c3f145f37d75f19dc",
+    "to": "proceeding::china economic review::2017",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "003fe6dc57d108728f58ff146ee46431c98297b6",
+    "to": "proceeding::data intensive storage services for cloud environments::2013",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00406a27e9c26d2c35ddaf1e105c2bdd77109c61",
+    "to": "proceeding::chinese control and decision conference::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00406a91ea8f9fb67cbe544cebea9e05e0fbdf38",
+    "to": "proceeding::international conference on computing, communication and automation::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0040d93083d808e70bb8f16126891242ff9e5dfc",
+    "to": "proceeding::ieee uttar pradesh section international conference on electrical, computer and electronics engineering::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0041bf5e3662c6b99ac2f0fac6e592339ce63120",
+    "to": "proceeding::ecs transactions::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0044503a14cc3bbd9e4b2c72a6d5c18abf055b57",
+    "to": "proceeding::journal of computer science::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "004465896c47094660f05e05307ce3501bb711d0",
+    "to": "proceeding::headache::2014",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00457dcef0f45176274c899075e7bd5736c8bd80",
+    "to": "proceeding::international journal of innovative technology and exploring engineering::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "004618bc6ddafc06900471dce23c7af74f225371",
+    "to": "proceeding::ieee symposium on business, engineering and industrial applications::2011",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00466c609503d04736bc1124687ec4e8f71710ef",
+    "to": "proceeding::2024 ivannikov memorial workshop (ivmem)::2024",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00469139b697a7fdb06f742ea20fe92e071e79b2",
+    "to": "proceeding::social science research network::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "004782d36d927ae095c230499e3831b82e41ba77",
+    "to": "proceeding::international conference on electrical engineering and informatics::2017",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0047cc0fbe0fe003ac76ee83aaaf689125b87318",
+    "to": "proceeding::muhammadiyah international public health and medicine proceeding::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0048d0e4141b64216ad9659f0f519b9e1252f76f",
+    "to": "proceeding::engineering headway::2026",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "004a63bfb67f2a9c65a5db5a7d6f4b9dac8e7dcf",
+    "to": "proceeding::aina workshops::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "004a8e50ea88ff728517677339abbf86452b7ac2",
+    "to": "proceeding::jurnal ilmiah teunuleh::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "004af80053985b03994025af4a63fe19827af11d",
+    "to": "proceeding::2023 international conference on artificial intelligence for innovations in healthcare industries (icaiihi)::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "004bf1ddbb0d1f85c5e5f9a2b685d715d2cfe474",
+    "to": "proceeding::proceedings of the proceedings of 1st workshop on environmental science, society, and technology, westech 2018, december 8th, 2018, medan, indonesia::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "004d1487fde21280bd80b3d39cb486b97a4a7703",
+    "to": "proceeding::2021 international conference on big data analysis and computer science (bdacs)::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "004d409ad4c116eb9e21d07ae25c7ffbcc8c1a7a",
+    "to": "proceeding::2020 6th international conference on big data and information analytics (bigdia)::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "004de4257d3e1bc72f76fb642a5ae4b251c8e4e6",
+    "to": "proceeding::ieee conference on industrial electronics and applications::2007",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "004e5c1fe7c20296a8e94f9b235f0ebfb4b83807",
+    "to": "proceeding::sirius - zeitschrift für strategische analysen::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "004ea2f8b864647daed953221707905e7f613798",
+    "to": "proceeding::grenek music journal::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "004fee774aa05b6fce98ec41c6ec5fecfc8f5248",
+    "to": "proceeding::synthesis lectures on communications::2012",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0050232ea4ee42d989e5a247aa10c7206caeeb16",
+    "to": "proceeding::international journal of electrical and computer engineering (ijece)::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0050916aa0a92a51b25f3464acc0fed7944ed2f6",
+    "to": "proceeding::social science research network::2014",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0050eea2c464e06d019bce218aaacb72a9123efa",
+    "to": "proceeding::anais do brazilian e-science workshop (bresci)::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "005143d56ddb469b14a8c6d098b886361cbdc738",
+    "to": "proceeding::tecciencia::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00515c4e0044f925007dd44485d55c7560a24ace",
+    "to": "proceeding::international conference civil engineering and architecture::2024",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0051714439f3cc01dc73999fe2ad235978641031",
+    "to": "proceeding::2022 moscow workshop on electronic and networking technologies (mwent)::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0051b879db8d06d6ed01728faa093ba431b9f288",
+    "to": "proceeding::2018 international conference on information , communication, engineering and technology (icicet)::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00526a1d6d962ca26b39ee9043457c609b4508af",
+    "to": "proceeding::smart::2016",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00530f759fce36ea6e5d21421ae4e1cdcf7b6c9f",
+    "to": "proceeding::international journal of emerging trends in social sciences::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00561e42a962252d0e2fc2d22f7c6a499b8042ee",
+    "to": "proceeding::conference on industrial electronics and applications::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0056bb2acfed2ad3e6651558a42158feb414cdfc",
+    "to": "proceeding::applied sciences::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0056d12537e074f52a469fa783696c8381ce8eb6",
+    "to": "proceeding::international conference on intelligent transportation, big data and smart city::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00572dafa817672173379de5c5c1724f27bdc09f",
+    "to": "proceeding::2022 international conference on artificial intelligence and autonomous robot systems (aiars)::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0057d1b7aedf0fed093056ab0889e18f15f1e3ce",
+    "to": "proceeding::international conferences on innovation in artificial intelligence::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0059257a200c4b16e558c8f1a710481a7be2ff2d",
+    "to": "proceeding::advances in building energy research::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "005a163ffc06da9ac8e106ec52db2ea9982797e7",
+    "to": "proceeding::international symposium on robotics, artificial intelligence, and information engineering::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "005aeddb4fc30a73410e4da591fcd8ff46714d63",
+    "to": "proceeding::genome biology::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "005b546b7703efad06fc10d162f13370a44c1ff9",
+    "to": "proceeding::social science research network::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "005be14d904a85ef300ff3f5384f5ea8041d5397",
+    "to": "proceeding::other conferences::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "005c506e34db973dec99d27f3cec8f84ee062def",
+    "to": "proceeding::encyclopedia of big data technologies::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "005c93e63a61035c3d02cf7a504892a4edc7334d",
+    "to": "proceeding::elipsoida::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "005c9cb3e8b6c510673ceba8183b8c48efc867b2",
+    "to": "proceeding::other conferences::2024",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "005fc7dc263928623a94fa398a4297b94d24f30e",
+    "to": "proceeding::ieee joint international information technology and artificial intelligence conference::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0060b245110496ac673b8d792d25ae8ee0d44a52",
+    "to": "proceeding::the journal of environmental education::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "006205b3058ee54fe9e79117d9693f2c4ddbdb33",
+    "to": "proceeding::advances in intelligent systems and computing::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0062e0ee8539ef001b25ca6fb7363c7f7c239830",
+    "to": "proceeding::big earth data::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00636154b86b68efaaef2e772edece460b7f45aa",
+    "to": "proceeding::2018 eleventh international conference \"management of large-scale system development\" (mlsd::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0063e9414411a8fb95f5d480a68ff3b69170da62",
+    "to": "proceeding::vidya karya::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "006510f0e037bf5dd423fca1c8d28385ccf1bd04",
+    "to": "proceeding::iop conference series: earth and environment::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0065ae35d0ffc3c8b9e806752f82b530bfd4b8c2",
+    "to": "proceeding::journal of it cases and applications::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00662b924e5b21fdad6f105f20ae5f1542352130",
+    "to": "proceeding::proceedings of the 2020 4th international seminar on education, management and social sciences (isemss 2020)::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0066e02044b97f7dfd71e27605ab0a2dec310198",
+    "to": "proceeding::sae technical paper series::2024",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "006873c94aab66039bd04104b07bd4557ba716d9",
+    "to": "proceeding::competition commission of india journal on competition law and policy::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00697929a6f957e8fbb06378c76d314441248dfc",
+    "to": "proceeding::applied sciences::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "006996b74bd3f12eb703e0033217eeb8a27c3212",
+    "to": "proceeding::revista eletrônica da educação::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0069b92fa9a8953ba1851b41b3f9ed6d41912ba8",
+    "to": "proceeding::solar physics::2013",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0069d915dd2cd4949051578fab2f5db8ca7c60c9",
+    "to": "proceeding::journal of engineering for gas turbines and power::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0069f3e877052cd771a38535c8688469b2b781d1",
+    "to": "proceeding::medical imaging::2000",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "006ab4d8df73c722cf902914176fa1eb0c4b7243",
+    "to": "proceeding::physiological zoology::1937",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "006ad38025d3b07b9c113c7940514c32c5d16ffc",
+    "to": "proceeding::i-manager's journal on computer science::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "006bf046e6c27d882bae79688004c4c4f4781a0f",
+    "to": "proceeding::international conference on information control systems & technologies::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "006c25f6c3b354703e896eadc667f293c66671e9",
+    "to": "proceeding::ieee transactions on industrial informatics::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "006c3ba01c38f8d6600ec64f084f97dd79bf990b",
+    "to": "proceeding::discover food::2024",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "006c85fd6f1558638933c4c32bd0ac69e9774b8e",
+    "to": "proceeding::other conferences::2024",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "006cef8cb9f4101690dce6b0fcfe5eee918a75cb",
+    "to": "proceeding::international workshop on signal processing advances in wireless communications::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "006e07846e4591ac1abc051640487050d1ab9015",
+    "to": "proceeding::convergence of blockchain, ai, and iot::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "006e35070e77c40947a2f9a822b46f296f393f7c",
+    "to": "proceeding::international conference on big data computing service and applications::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "006f0035c4843a6b0f41e33b17f97805c316605f",
+    "to": "proceeding::2015 ieee international conference on data mining workshop (icdmw)::2015",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "006f2567337afce7e145400157b41dce8aa47b3d",
+    "to": "proceeding::philosophical literary journal logos::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "006f7ee444eabc93b86235db8af65e6a39ebf95c",
+    "to": "proceeding::inovasi manajemen dan kebijakan publik::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0070e42beb6ee72c5a1188032b866f911e6e9db3",
+    "to": "proceeding::other conferences::2024",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00711a2d46a748bf2bf7943ceab4ee71499b141b",
+    "to": "proceeding::biorxiv::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00714fa631538fc99a3a27e2b120efd140eb9f66",
+    "to": "proceeding::crime prevention and justice in 2030::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0071d1065dea1ad041a03b64bf0991a10009fe2c",
+    "to": "proceeding::2019 ieee 3rd information technology, networking, electronic and automation control conference (itnec)::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0072921dc45ec9733328d0a50d9b9831e428e80f",
+    "to": "proceeding::saudi journal of business and management studies::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0072f6a88ed01d5369d3d882ac062e40b50187b4",
+    "to": "proceeding::international journal of innovative technology and exploring engineering::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0073bbd8342bbf814c4540b06185ebefc4ae89e6",
+    "to": "proceeding::the teacher of the future::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00746373fb7a57328611692918ee53704ba1fe18",
+    "to": "proceeding::jom::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00747724453514aa8444895ff2d2d0666af514b0",
+    "to": "proceeding::2021 international conference on electronic information engineering and computer science (eiecs)::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "007579367cd8724310fd017fc23aafb233825d3c",
+    "to": "proceeding::proceedings of the 2019 international spbpu scientific conference on innovations in digital economy::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0075abdb53f0e06fd122fb83fa5a33c494c3c4d1",
+    "to": "proceeding::2023 2nd international conference on cloud computing, big data application and software engineering (cbase)::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00768c5468779d4eb1d2cc8cbd0c2cadc8ad67c3",
+    "to": "proceeding::2023 third international conference on advances in electrical, computing, communication and sustainable technologies (icaect)::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0076e646a4afb756aabf1553bd927b1aaf279994",
+    "to": "proceeding::pediatric hematology & oncology::2011",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0077d36611158f23768a24e07ffe907b94c3fc36",
+    "to": "proceeding::health science inquiry::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0079a7bb40c30f010b6f626f12149aab30740361",
+    "to": "proceeding::2014 ieee symposium on computer applications and communications::2014",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "007a9758c4f6e538fec8721359a43da1e4ecfefa",
+    "to": "proceeding::smart structures and materials + nondestructive evaluation and health monitoring::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "007b96840cb5ccb6bb4c1bb4efad26c87e46d6da",
+    "to": "proceeding::2025 international conference on knowledge engineering and communication systems (ickecs)::2025",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "007bab449d23b08741089f31b4f9f450cfafa1d8",
+    "to": "proceeding::2025 international conference on emerging trends in networks and computer communications (etncc)::2025",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "007c2a3392260e85d5d03cb14825225b4f498146",
+    "to": "proceeding::مجلة الجمعیة المصریة لنظم المعلومات وتکنولوجیا الحاسبات::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "007d8e707427fecf511dc1a1de686c3dd459c25b",
+    "to": "proceeding::digital technologies and applications::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "007da225366144a531849564724a2535c1d0c919",
+    "to": "proceeding::visión electrónica::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "007dbb289afeb37a244213787b062aee9b341dd4",
+    "to": "proceeding::advances in civil and industrial engineering::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "007eb117f809ec97f6c9e1568d2d37cb01e359ab",
+    "to": "proceeding::2016 ieee/acm 2nd international workshop on big data software engineering (bigdse)::2016",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "007f2a0a21b57b821ba7f383251cd9cb8ef2b68f",
+    "to": "proceeding::international conference on applications and techniques in cyber intelligence::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "007ffecb47e5bb5554bd3dce78ef6be0e83f4dad",
+    "to": "proceeding::saturday, 16 june 2018::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00804f03d3866a601dc49bc7be3e12ada830fcb8",
+    "to": "proceeding::vnu journal of science computer science and communication engineering::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0080f00f09d5aab2d68dc8210390e54cf4c69703",
+    "to": "proceeding::ieee pes asia-pacific power and energy engineering conference::2014",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00825ae6af33573f522f18a1b0d835ed65d57887",
+    "to": "proceeding::high-performance modelling and simulation for big data applications::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00835e3fda1133e7cf4d2c1ef45ab2ec317eeca0",
+    "to": "proceeding::international journal of information technology and computer science::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "008361bbf499f604c94dadad2c28dd60c2a3fa4c",
+    "to": "proceeding::tawazun: jurnal pendidikan islam::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0083c8b62fd9a7478db686ec9d9b2a0b11fb3f87",
+    "to": "proceeding::journal of coastal research::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00852fd3316c0a48a27eab38db4c6fb32ce1f5d2",
+    "to": "proceeding::2021 5th international conference on trends in electronics and informatics (icoei)::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0086ad5f4d961b47d44c192e135c133aa78894fe",
+    "to": "proceeding::studies in nonlinear dynamics &amp; econometrics::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0086b7f5024eaf906ca2932e1383b2b5525ce735",
+    "to": "proceeding::marketing letters::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00872022793192d8c2c79dbed5d8de6b01999b7a",
+    "to": "proceeding::international conference on the digital society::2024",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "008763c2df3162a281b311f7132195c0cafef038",
+    "to": "proceeding::bulletin of social informatics theory and application::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "008a334d65479b5e68073115ca6a3e9ee05c3180",
+    "to": "proceeding::2020 6th iranian conference on signal processing and intelligent systems (icspis)::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "008b3e9f60e6522586e76b52b72f532f4ab2665f",
+    "to": "proceeding::anais do(a) congresso internacional de direitos humanos de coimbra::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "008c1daf4f7cdf9602a29f9c7b9b62fdccbe4d76",
+    "to": "proceeding::alzheimer's & dementia::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "008c89a0227c67a2736a2f28825762e0085e72e7",
+    "to": "proceeding::inverse problems::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "008c98d5a3225a6dbecd172c97ec8801dc840b7e",
+    "to": "proceeding::bulletin of the school of oriental and african studies::1993",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "008de4cfed73a3debfae50477521bdf47837f2e1",
+    "to": "proceeding::2025 international conference on algorithm, artificial intelligence and computer vision (aaicv)::2025",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "008e156e23a9c827cc82f7aec46b971832a24b5c",
+    "to": "proceeding::auditing::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "009073c8ddc5f367f2ae6231b47651c8d98b423c",
+    "to": "proceeding::jurnal eksplorasi akuntansi::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0091e022b97579644299ce43f4aeff746dcca465",
+    "to": "proceeding::2025 international conference on computer science, technology and engineering (iccste)::2025",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "009277e1c8a73e477c41049f6d28d0b1f30be447",
+    "to": "proceeding::service business: an international journal::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0092867a78e5ff50ff94f187af203851256e7c29",
+    "to": "proceeding::aoir selected papers of internet research::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00929d78a7ed79bec1168e1f33656cf51600a6fd",
+    "to": "proceeding::new media & society::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0092a449cf7798af86d886f56f0ccb4119b09a20",
+    "to": "proceeding::vestnik of saint petersburg university. international relations::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0093bc17715e359d4123cf66dbc8fb56494f5cc2",
+    "to": "proceeding::current issues in personality psychology::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0094027b68bd2350f9d60eae9fa298cd788e07d7",
+    "to": "proceeding::mobile information systems::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "009476ecc531d74f96395c762b783e415d2e2e0c",
+    "to": "proceeding::formula 4.0 for digital transformation::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0094813914ff367933712ebc1375b299dbb8ae20",
+    "to": "proceeding::international journal of engineering technology and management sciences::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "009661ab07103e82fb69bec818748b53d4a7bdb3",
+    "to": "proceeding::economics, taxes &amp; law::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "009668bba4f9f7d781bf2fff07817c54a3bbaebf",
+    "to": "proceeding::international journal of sustainable development and planning::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "009735540e1ade2f1464c9fdf70089be0bc2afdc",
+    "to": "proceeding::frontiers in earth science::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00976166ff9d369237d0aff384fad6f3e2208c66",
+    "to": "proceeding::2021 2nd international conference on artificial intelligence and education (icaie)::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "009857ff5d79d448bb4030ba3cc446d20e6a5a1b",
+    "to": "proceeding::international conference on transportation information and safety::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00989ab2d60c5757d6f7ccc2a83bad8327937de3",
+    "to": "proceeding::international conference on frontiers of educational technologies::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0099c4bd71cdc7761054b4ae698727786f22a6a9",
+    "to": "proceeding::inverse problems and imaging::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "009a7c5545c40df087abecbe97f7f7ae7dd3e63a",
+    "to": "proceeding::2022 international conference on knowledge engineering and communication systems (ickes)::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "009b0179ad8d9ada5dac7e0b2204a5885b6cfa32",
+    "to": "proceeding::congresso brasileiro de mecânica dos solos e engenharia geotécnica::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "009c0024a10d9eebde5db01aaf757db2d2816d8a",
+    "to": "proceeding::vestnik tomskogo gosudarstvennogo universiteta kul turologiya i iskusstvovedenie::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "009c28485a90ff2f54e243621b8db3823065c506",
+    "to": "proceeding::e3s web of conferences::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "009cabff282b62e72595274a39fd74ea8b08facd",
+    "to": "proceeding::international journal of operations & production management::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "009ccc9ce87b266093636b9650f00025ff01e051",
+    "to": "proceeding::european journal of sustainable development::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "009ce8ae45b4e922e97e3c5cd3acdfcdc495c08e",
+    "to": "proceeding::information security practice and experience::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "009d7cb1120c744a57386543e34efd5e0c485c84",
+    "to": "proceeding::2017 international conference on computer systems, electronics and control (iccsec)::2017",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "009e848568dfdc0a96391f840c2970d6a7a5b367",
+    "to": "proceeding::genitourinary medicine::1997",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "009e86bdd9cb6409007741d2388d526d2163e59a",
+    "to": "proceeding::big data intelligence for smart applications::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "009f00f7b4357acf568d5eeea8bfa63d1bb89c60",
+    "to": "proceeding::2020 5th ieee international conference on big data analytics (icbda)::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00a396949e44031c834d7f14113754f2a8d01cf5",
+    "to": "proceeding::2016 ieee international conference on knowledge engineering and applications (ickea)::2016",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00a3a4742c565f5e2e64ad03fe0f1e16baee89b3",
+    "to": "proceeding::clinical infectious diseases::2015",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00a3b8886a7e569adc7ec3a3df04b6101ec05c0d",
+    "to": "proceeding::journal of risk analysis and crisis response (jracr)::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00a3bd1acaeb8687d4908db47fc8edafab7650fe",
+    "to": "proceeding::journal of korea research association of international commerce::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00a3cd4eed631b2e6d2f19d92ccc9261a6253963",
+    "to": "proceeding::2017 3rd international conference on control, automation and robotics (iccar)::2017",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00a4fc9c914980674d2f9fbec65404669356216b",
+    "to": "proceeding::sustainability::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00a625ba1b93be03fa76459f3c87c3731d74800b",
+    "to": "proceeding::2025 international conference on computing technologies & data communication (icctdc)::2025",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00000120a0365bfd0c2d944cb6586af846cfcf30",
+    "to": "proceeding::international journal of business, management and economics::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000042d1817bb0eae9300b00a39dcf969420d372",
+    "to": "proceeding::molecular and cellular biology / genetics::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0000436162775ac9a7a99a6aed838401755f5acc",
+    "to": "proceeding::journal für verbraucherschütz und lebensmittelsicherheit::2010",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000066a9c6f6f9c0c9dc5b549df7900b01980890",
+    "to": "proceeding::the handbook of china's financial system::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00006942a516d92568b0a2ce9a103c1db7eea979",
+    "to": "proceeding::journal of plant nutrition::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0000d11452732304228019f1ee323d10b4be2463",
+    "to": "proceeding::journal of the institution of engineers (india) series d::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00010ef303fc9d2da22eab8407e767bd24a9de5d",
+    "to": "proceeding::artery research::2017",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00012822af517e38adeb3a1da76b6850ef50e12e",
+    "to": "proceeding::the future life of trauma::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00012e93b6eaabcebfcf3c3b43ba77928326530f",
+    "to": "proceeding::saturday, 15 june 2019::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0001aef0717cc7754f264f5cb85b91f88f5a7fda",
+    "to": "proceeding::journal of urbanism: international research on placemaking and urban sustainability::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0001b2c856365fbf0a0b83eb0e78eb611b6ae3d3",
+    "to": "proceeding::ieee international conference on grey systems and intelligent services::2009",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0001c136d0e9b7cedbdde479531da3d9f22e1840",
+    "to": "proceeding::journal of food and nutrition research::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0001ce9d051e43547ef3fa24b4b855037086140a",
+    "to": "proceeding::life after privacy::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0001d08da4ba4ae2f8c694d28b384e7f81fa08ce",
+    "to": "proceeding::jornal de pediatria::2017",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0001d2eac3cf7869dc1adea39e6bf911ede2f60a",
+    "to": "proceeding::proceedings of the 48th international academic conference, copenhagen::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0001e060e4124fbc4541a6d90a8f32e0148840e1",
+    "to": "proceeding::landslides::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0001f37169ce4ad58d70c3f8121ff4223ba97f39",
+    "to": "proceeding::slavic review: interdisciplinary quarterly of russian, eurasian, and east european studies::1992",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000200cf2de9e96a7a0c8f0d7632d545cb3fc776",
+    "to": "proceeding::pharmacoeconomics & outcomes news::2013",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00020125c5e9a0ecfed0582038f8689e1662bf1e",
+    "to": "proceeding::optical and quantum electronics::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000218c0f6349d5bc5f43ff0fbeeec189b2cf46d",
+    "to": "proceeding::iop conference series: earth and environment::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00022947b3cfd0930608016f43d1633b0f72348c",
+    "to": "proceeding::bmj open::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00025c3cc7d8eb55a3cff471fd204938a0e8d7ed",
+    "to": "proceeding::journal of neuroengineering and rehabilitation::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00025c62eacfa3f58aa220b88f087969732dfb26",
+    "to": "proceeding::optoelectronics letters::2016",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00026920d747b29af3277350c12901a8384d375c",
+    "to": "proceeding::international conference on industrial technology::2015",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00026c72b59281696b8acb9f9423d63e18f48a45",
+    "to": "proceeding::in the shadow of the epidemic::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0002713e3289827f5ab91d671c565f0ff3158bf7",
+    "to": "proceeding::scientific investigations report::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0002731e2f1007fa78a810a3e13b43a5984a49cd",
+    "to": "proceeding::european workshop on optical fibre sensors::2016",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00029c88d0986f8dd206e292f3e1553da3ecc0fd",
+    "to": "proceeding::chen yi::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0002b25d25d2f5be29d2374a0e23d69e5abacb5f",
+    "to": "proceeding::journal of high energy physics::2017",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0002c03a4f3d13599c8965744bb451d075394d19",
+    "to": "proceeding::iop conference series: materials science and engineering::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0003087b9bbe8965015f76f34de5fe5fac4638b2",
+    "to": "proceeding::international symposium on optomechatronic technologies::2010",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000347a80d158dd9d9c848f5a0ce06976e8d76f5",
+    "to": "proceeding::hormones::2014",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00037ea29cc625ebd0d212f637a9262945a7cdfc",
+    "to": "proceeding::applied sciences::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00039a467007d373c2a8fa32a3f1f8fe27b5a4d6",
+    "to": "proceeding::modern network technologies::2024",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00039c97e32d4361bfa20694db233760afb24a8e",
+    "to": "proceeding::applied mathematics and mechanics::2012",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000405083eb652a99d6b29374335ab0aaf6ad26c",
+    "to": "proceeding::definitions::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00040f6f0d448ef8e538bb69d89340128b29cb6f",
+    "to": "proceeding::akuntabilitas::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0004346a75cd0c143a8a1211a1cc401055bb7bf3",
+    "to": "proceeding::sexually transmitted diseases::2014",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000454e12f06133f44f2488e3695dcfc103c23ce",
+    "to": "proceeding::international conference on optoelectronic and microelectronic technology and application::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00046a6dcee33daae41203378f51732e65aa687b",
+    "to": "proceeding::aerosol and air quality research::2013",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000470376afc2ec1047fbb5b4bfa62f7e37d2b5b",
+    "to": "proceeding::geomagnetism and aeronomy::2014",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0004a0b232184966f6e6edc10ee44b807715a4c2",
+    "to": "proceeding::paripex-indian journal of research::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0004b38800eafb18b51ada7f4f1b514514bfd6b1",
+    "to": "proceeding::optics communications::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0004cb982dceddec031f516a62ab76220650de5a",
+    "to": "proceeding::college literature::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00053eb132c4b3b3e103600add5065c0983542de",
+    "to": "proceeding::water::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0005438a0da416fac50272769489b5b56d7498d5",
+    "to": "proceeding::biorxiv::2024",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000569fcd4f4b60e50eeec9b974d3d7e39e5573b",
+    "to": "proceeding::business and economic research::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00057783044a2e9475a4155e91ee40ecdcd0151c",
+    "to": "proceeding::advances in design and control::2012",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00057d2761e2c1dca09ec51ebdb6af30a38d243a",
+    "to": "proceeding::2020 the 4th international conference on business and information management::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000588d11c8e86453e9be462d325c83a2faa7d3f",
+    "to": "proceeding::journal of asian studies::1978",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00058e230bca43cb6e7296dd594c2d2304893cb0",
+    "to": "proceeding::comparative clinical pathology::2016",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00059351103e5496195accedb7f99451ddab8259",
+    "to": "proceeding::resources for american literary study::2006",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00059cafdcea07ac7c1045421d8fc2a6f011afe6",
+    "to": "proceeding::international and comparative law quarterly::1984",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0005a874ffca37f03e2e0031c7cd4c5916cc958e",
+    "to": "proceeding::optics + photonics::2001",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0005b892a26e0db5d50dbeda6f621f125344a8e1",
+    "to": "proceeding::child indicators research::2015",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0005ca463e71a0de5538d0b2e09aac336a89c839",
+    "to": "proceeding::teorìâ ta metodika fìzičnogo vihovannâ::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0005e751e94bf4ad1817ac27ef62024395b9e899",
+    "to": "proceeding::the cambridge law journal::1987",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00060c910376175cdda8c141688129b2386a34c6",
+    "to": "proceeding::the creolization of theory::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00061ad0f10b403f0e29c4f06e1b8dcf3734ca3f",
+    "to": "proceeding::european heart journal::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000624788df21786a2a121e267bbe6d0a55fb505",
+    "to": "proceeding::mathematics::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00063d44ec685aa0c4cf2789c7f06a57771caf07",
+    "to": "proceeding::revista tecnología en marcha::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00068a2219f5853a30d78db4d1dac2ab82dff528",
+    "to": "proceeding::revista bibliomar::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00069c94ae47a67624c734c1249bc3a46fe44965",
+    "to": "proceeding::medical herald of the south of russia::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0006b55df4723d4d8534f0b58218a03434108645",
+    "to": "proceeding::journal of physics: conference series::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0006be591ba1d3250a8ebd0637c79d20b7097415",
+    "to": "proceeding::2009 ieee globecom workshops::2009",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0006c2521e589ad20b2e70c735e5fad7d5bcf77b",
+    "to": "proceeding::progress in electromagnetics research letters::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000702e9591047be6b5ba2b05c546cd163d5f464",
+    "to": "proceeding::journal of food measurement & characterization::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00070e8b26f8da2df4acc38debac2092a88b607c",
+    "to": "proceeding::medrxiv::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00071a8be1b8ed369eb96198060dc92c5aed43d6",
+    "to": "proceeding::catena::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000727a1c99faa7188f502166af9c1dbfdaebf6c",
+    "to": "proceeding::optics & photonics::1999",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00078023be6b717f7f537e977a77e452759af2f0",
+    "to": "proceeding::annals of surgical oncology::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0007a392119dc28d79fa330ccb014ae22027c8e1",
+    "to": "proceeding::agile auditing::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0007bc88db562174df8f6efb7d3d2749b28c4128",
+    "to": "proceeding::indian journal of transplantation::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0007c98621c1c352f75c59d32074255aba4a4184",
+    "to": "proceeding::aquatic ecology::2012",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0008024a4b431fa71b1d929452c345b88178c189",
+    "to": "proceeding::revista de la sociedad entomológica argentina::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00081ede41b791e60e140ba22af803874944e1fd",
+    "to": "proceeding::intertextual explorations in deuterocanonical and cognate literature::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000823706ba75c5f04127fe99e42a21d88e4583b",
+    "to": "proceeding::journal of petroleum science and engineering::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0008610b1a766783c87cc2df49efd53d4fa16183",
+    "to": "proceeding::journal of business-to-business marketing::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00086f3f9d915f94c5e6c29810759f516d888684",
+    "to": "proceeding::business history review::2006",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00089a0e80b25457e06dec468ecac88184f6c273",
+    "to": "proceeding::european journal of soil science::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0008d095470c1c73af71d4519903a6739ff91e94",
+    "to": "proceeding::applied physics a::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0008d36d0444cc222a4bc526fc90c949205e55df",
+    "to": "proceeding::the handbook of race, ethnicity, crime, and justice::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0008e44d77f76e499142199395f29c03842c4731",
+    "to": "proceeding::international journal of business technology and organizational behavior (ijbtob)::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0008eaa04787316d31eb84141c2b3274fccb9974",
+    "to": "proceeding::communications in mathematics and statistics::2016",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000901197a103501932072281dc1ccd06acc69e0",
+    "to": "proceeding::conference record of ieee international symposium on electrical insulation::2006",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00090ddda39308be0def486b17098118c59a738b",
+    "to": "proceeding::journal of thoracic disease::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00090eccc68ae637124b95fca90aaf208e1df57c",
+    "to": "proceeding::2008 10th anniversary international conference on transparent optical networks::2008",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00091b05aa82a5e6780c250ea1c7200200b0498d",
+    "to": "proceeding::nature::1927",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "00092fe7c5522a6252dd868ba342a50414ef607f",
+    "to": "proceeding::ichthyological research::2009",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000934d4fa45443a15afe630cdd2abf75e1eceb9",
+    "to": "proceeding::applied mathematics and control sciences::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0009920b809122680858fc712352ecffbfbda329",
+    "to": "proceeding::cureus::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0009a375d49f186ae8a273cb473d0b481368ff94",
+    "to": "proceeding::renewable energy::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0009ab401d6fb469891356d2e352ebf2161a519a",
+    "to": "proceeding::journal of pharmaceutical research international::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0009d0fb89f56d49ffbae2f8cc0208231407db7a",
+    "to": "proceeding::international conference on optical communications and networks::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "0009f2da63c898fdf02615bce514272f09d8d8c7",
+    "to": "proceeding::tropical animal health and production::2016",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000a13990caabe13c451cab693c7abdbd0e815a0",
+    "to": "proceeding::revista de economía y estadística::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000a323a4ae7e6f17cbef817591ea8a3818f89a7",
+    "to": "proceeding::world health organization::1993",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000a3fff965a02db78d1eac093d6298f50a5ca63",
+    "to": "proceeding::edinburgh medical journal::1916",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000a43f3866234905d81ad5cbe0220d00e1ac39f",
+    "to": "proceeding::sustainability accounting, management and policy journal::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000a53df6fcdf2099d72c6a4fbc6283b15365b85",
+    "to": "proceeding::down from olympus::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000a5a39a0a016f810c804e96b31e45dc2fc68cc",
+    "to": "proceeding::iop conference series: earth and environment::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000a5afa92e0b561ca5cbefc719b47e59037fcbd",
+    "to": "proceeding::dialogue::1986",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000a71330a3ae05af6e7e113b4b4dd67d4078c65",
+    "to": "proceeding::british journal of pharmacology::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000ab977e37e2b11bb5625428dae539d91f5f4a8",
+    "to": "proceeding::the classical review::1994",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000abcb6297623f36c2efd61843e83debe1cea57",
+    "to": "proceeding::scientific reports::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000abfc748f11879f06edc8b9f507339e3077c5b",
+    "to": "proceeding::clinical respiratory physiology, exercise and functional imaging::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000ada54031bd8a05d667de8870ccb47c512a80c",
+    "to": "proceeding::biorxiv::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000b2935b5aa217285570c7bf0a39a1222293142",
+    "to": "proceeding::hormone research in paediatrics::2006",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000b327e9815fdf769e377e13d0e7f6ade84b404",
+    "to": "proceeding::african journal of hospitality, tourism and leisure::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000b3d7c3d3c152b32aa48215f529ad0f2978b39",
+    "to": "proceeding::acs photonics::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000b5b7cf8726c13c9b5c9475ada248268126e9b",
+    "to": "proceeding::the godman and the sea::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000b7930ead26f7e085a3f59041dca9a6c58dab6",
+    "to": "proceeding::national association of korean local government studies::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000bd793a81ac4abe8a4c5e6ed9675dc6b86b415",
+    "to": "proceeding::proceedings of 2011 ieee cie international conference on radar::2011",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000bdb5efab4d9505a87c455ece3ef814ae83c31",
+    "to": "proceeding::laboratoriums medizin::2014",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000bf69aea20939c17c7e9a50984b5d62fe89fd8",
+    "to": "proceeding::annals of public health reports::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000bf6ec6a171880885d713b2f621122ed48355f",
+    "to": "proceeding::developments in petroleum science::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000c1313664e8100614e06beb978e4f3254051a6",
+    "to": "proceeding::2013 ieee 8th conference on industrial electronics and applications (iciea)::2013",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000c1fd6ba1bda5e273c5969cfe610f384b6c043",
+    "to": "proceeding::crustaceana::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000c451bcb94c6d7648402a4a94cb42a6db789b5",
+    "to": "proceeding::pediatrics::1965",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000c71db21c63bb378af67adffd78ef2f5170894",
+    "to": "proceeding::administrative law::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000c9ddee0a2c7cc4e26a53a68f9317810ff5e45",
+    "to": "proceeding::2023 2nd international symposium on aerospace engineering and systems (isaes)::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000cb9e40210dfd1ceb11ccc949f0a0efa0d0ece",
+    "to": "proceeding::age of empires::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000ccd2083a86cdbdd675a3e9e7ec4e2f49be9c8",
+    "to": "proceeding::optics communications::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000cd0321a701583c0a2f9b0f8a06e829e2f1647",
+    "to": "proceeding::research in agriculture, livestock and fisheries::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000ceddffd5f3dae3e34b043c2988bf7acd03c42",
+    "to": "proceeding::e3s web of conferences::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000d1cd58ef1b0449396d172c1c127b4873e7402",
+    "to": "proceeding::the law of international organisations (third edition)::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000d3a76000e942bc3054cf19eb40e86c3b9111a",
+    "to": "proceeding::sustainability::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000d3e089e78bf6ffaa2ee3ca572ce6af813181e",
+    "to": "proceeding::the complete letters of henry james, 1884–1886::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000d64c3ab0ebac57b40ccdedcd227d960894f42",
+    "to": "proceeding::biorxiv::2017",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000d73f7f1653c6508dac452c9ad01f7009648d7",
+    "to": "proceeding::journal of modern optics::2018",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000da9791bb1dfd5b6982df3fa309cd8392aa20a",
+    "to": "proceeding::natural hazards::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000dc6363500c7c8ff491fc6f41581dbb3c1f0f1",
+    "to": "proceeding::kvasny prumysl::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000dd6ef388acf4d55011c1817f7c937d9d430a4",
+    "to": "proceeding::optical engineering: the journal of spie::2023",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000e06f90848b023101f5ed4f5f14bd54b8dd4d4",
+    "to": "proceeding::international forum on research and technologies for society and industry leveraging a better tomorrow::2001",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000e0f0865515826541f15202074f7313dde8da2",
+    "to": "proceeding::the american journal of digestive diseases::2005",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000e5d909774e38b8225ff6bf012c54748351219",
+    "to": "proceeding::international journal of current microbiology and applied sciences::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000e7f61c66e4c3a475efa36829fd7fdb2c5268a",
+    "to": "proceeding::iop conference series: earth and environment::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000eafa017c25462d1866071c473b2b72c7406cb",
+    "to": "proceeding::journal of sustainable finance & investment::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000ebf92cdbd32e13c785a4fd16ae4d2ba334df9",
+    "to": "proceeding::clinical nutrition::2019",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000ec795238998c13c377d3c6caf73bff5a87655",
+    "to": "proceeding::plant systematics and evolution::2017",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000ecb32886518c72e8437db472181f515346980",
+    "to": "proceeding::international journal of vehicle structures and systems::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000f02ee74d50136aad89bf958fb3362ca2c3a55",
+    "to": "proceeding::pediatric research::1984",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000f043a88c4df47304087cd18b9cfe56284b969",
+    "to": "proceeding::pediatrics in review::2012",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000f10eb8c81b1c557f8c64e3c2f1509edefccfa",
+    "to": "proceeding::agronomy::2022",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000f24a0ba0c6a0eb1eec85a87971cfb15ea838a",
+    "to": "proceeding::studies in systems, decision and control::2021",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000f5f688d1a6206bc018c58e5a73896cb4e45f5",
+    "to": "proceeding::international soil and water conservation research::2020",
+    "type": "PUBLISHED_IN"
+  },
+  {
+    "from": "000f6d69c51dca9e5ad3b2d341e07d7786e9e842",
+    "to": "proceeding::reactions weekly::2021",
+    "type": "PUBLISHED_IN"
+  }
+]
