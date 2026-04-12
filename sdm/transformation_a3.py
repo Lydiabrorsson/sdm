@@ -37,7 +37,7 @@ def migrate_review_relationships(tx):
         MATCH (a:Author)-[old:REVIEWS]->(p:Paper)
         WITH a, old, p,
              CASE
-                 WHEN rand() < 0.5 THEN "accept"
+                 WHEN rand() < 0.9999 THEN "accept"
                  ELSE "reject"
              END AS generatedDecision
         CREATE (rev:Review {
@@ -87,27 +87,18 @@ def assign_authors_to_organizations(tx):
     """)
 
 
-def compute_paper_acceptance(tx):
-    tx.run("""
-        MATCH (p:Paper)<-[:REVIEWS]-(r:Review)
-        WITH p,
-             count(r) AS reviewCount,
-             sum(CASE WHEN r.decision = "accept" THEN 1 ELSE 0 END) AS acceptCount,
-             sum(CASE WHEN r.decision = "reject" THEN 1 ELSE 0 END) AS rejectCount
-        SET p.review_count = reviewCount,
-            p.accept_count = acceptCount,
-            p.reject_count = rejectCount,
-            p.accepted = acceptCount > rejectCount
-    """)
-
-
 def remove_publication_for_invalid_papers(tx):
     tx.run("""
-        MATCH (p:Paper)-[pub:PUBLISHED_IN]->(container)
+        MATCH (p:Paper)-[pub:PUBLISHED_IN]->()
+        OPTIONAL MATCH (p)<-[:REVIEWS]-(r:Review)
         OPTIONAL MATCH (p)-[:PUBLISHED_IN]->(:Proceeding)<-[:HAS_PROCEEDING]-(:Edition)<-[:HAS_EDITION]-(v1)
         OPTIONAL MATCH (p)-[:PUBLISHED_IN]->(:Volume)<-[:HAS_VOLUME]-(v2)
-        WITH p, pub, coalesce(v1.requiredReviews, v2.requiredReviews, 3) AS requiredReviews
-        WHERE p.accepted = false OR p.review_count < requiredReviews
+        WITH p, pub,
+             count(r) AS reviewCount,
+             sum(CASE WHEN r.decision = "accept" THEN 1 ELSE 0 END) AS acceptCount,
+             sum(CASE WHEN r.decision = "reject" THEN 1 ELSE 0 END) AS rejectCount,
+             coalesce(v1.requiredReviews, v2.requiredReviews, 3) AS requiredReviews
+        WHERE reviewCount < requiredReviews OR acceptCount <= rejectCount
         DELETE pub
     """)
 
@@ -121,7 +112,6 @@ def main():
         session.execute_write(migrate_review_relationships)
         session.execute_write(create_synthetic_organizations)
         session.execute_write(assign_authors_to_organizations)
-        session.execute_write(compute_paper_acceptance)
         session.execute_write(remove_publication_for_invalid_papers)
 
     driver.close()
